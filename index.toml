@@ -10460,26 +10460,6 @@ file = "world/datapacks/Legacies/data/twigs/worldgen/structure_set/bloodstone_ob
 hash = "1d345edb6b326975441aabd00be8fd34508bd694cd48235d4077cc3a191bbfd9"
 
 [[files]]
-file = "world/datapacks/Legacies/data/wilderwild/separated_leaves/baobab.json"
-hash = "df274dd9437fad3a987b374030fb6a0b117de4272c9c369a667ee65f366ff937"
-
-[[files]]
-file = "world/datapacks/Legacies/data/wilderwild/worldgen/configured_feature/savanna_trees.json"
-hash = "475d6f4254c017041286a16bb26fd873bc575e593084b0c019e433a7304478a5"
-
-[[files]]
-file = "world/datapacks/Legacies/data/wilderwild/worldgen/placed_feature/milkweed.json"
-hash = "16e09eb6606a5766e90f0e76b08f535abeef7cc654958faeab6292132e35f7d2"
-
-[[files]]
-file = "world/datapacks/Legacies/data/wilderwild/worldgen/placed_feature/milkweed_rare.json"
-hash = "8c183238c8a6349fdabeec5d7fd1774077e815b391c5f6f532f1a832ba2ecc78"
-
-[[files]]
-file = "world/datapacks/Legacies/data/wilderwild/worldgen/structure_set/abandoned_cabins.json"
-hash = "e1657e8addac5e66a70f680a72aba3ae652166edf55a7e4e90858a67d5fbda1c"
-
-[[files]]
 file = "world/datapacks/Legacies/pack.mcmeta"
 hash = "eb025c38fe707904da7a9b4b1eee30b1abbf85f329015677052241f84f0af01a"
 
