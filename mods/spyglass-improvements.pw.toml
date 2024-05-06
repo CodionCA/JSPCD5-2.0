@@ -1,13 +1,13 @@
 name = "Spyglass Improvements: Zoom, Quick Access... [Fabric/Forge]"
-filename = "spyglass-improvements-1.4+mc1.20+fabric.jar"
+filename = "spyglass-improvements-1.5.1+mc1.20+fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e395db8076b28076f991d61262827033980145dc"
+hash = "e4716b2b8cbfdbd4af22236d1477e1d548522739"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4571982
+file-id = 5296171
 project-id = 571264

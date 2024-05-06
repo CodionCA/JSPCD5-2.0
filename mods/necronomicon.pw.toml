@@ -1,13 +1,13 @@
 name = "Necronomicon API"
-filename = "Necronomicon-Fabric-1.4.1.jar"
+filename = "Necronomicon-Fabric-1.4.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a7e82dd9c452836d3055042567611cb2d1fcbe70"
+hash = "563eef8154c73e099012f58f1b12a011e9d2b5b2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5041803
+file-id = 5091307
 project-id = 586157

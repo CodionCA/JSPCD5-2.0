@@ -1,13 +1,13 @@
 name = "Dynamic Textures"
-filename = "DynamicTextures-0.2.1+sha.54382bb.jar"
+filename = "DynamicTextures-0.3.0+sha.4a78ef0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4dcd6a698786319ebd57d4688d0aeb9caf8ac688"
+hash = "d803f9308d3f88c16b6e05f4cf3dfec92218020b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4992078
+file-id = 5176355
 project-id = 954722
