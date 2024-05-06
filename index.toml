@@ -4845,26 +4845,6 @@ file = "global_packs/required_data/ns_modified_mountain_biomes-custom/pack.png"
 hash = "d2060b146590963044b6e66ed10767fd9be71ed50a7516b49bda5d7e4c30607e"
 
 [[files]]
-file = "global_packs/required_data/ns_modified_savannas-custom/data/minecraft/worldgen/biome/savanna.json"
-hash = "d21b63f5b493b7b6ffac190fa9a6b45d12a46232f40a2855536f1650adce0491"
-
-[[files]]
-file = "global_packs/required_data/ns_modified_savannas-custom/data/minecraft/worldgen/biome/savanna_plateau.json"
-hash = "0d4b08ba624f9c8138213800d638890e42c967ca0aba74eddbf39ce0b33a672b"
-
-[[files]]
-file = "global_packs/required_data/ns_modified_savannas-custom/data/minecraft/worldgen/biome/windswept_savanna.json"
-hash = "a6e04be032607faf003f6760b6ebfd15206af8457dc3310d5da1df1a9136c22a"
-
-[[files]]
-file = "global_packs/required_data/ns_modified_savannas-custom/pack.mcmeta"
-hash = "3da0f333d870fc7ca4f4d1d9cc9916758064f68429ecec671e169531798a6ccb"
-
-[[files]]
-file = "global_packs/required_data/ns_modified_savannas-custom/pack.png"
-hash = "7dadcfc9d13f7ec60a1f93e4d0332d9130d480628f0523f89798499147072001"
-
-[[files]]
 file = "global_packs/required_data/ns_modified_swamp/data/minecraft/worldgen/biome/swamp.json"
 hash = "70739a5e002a23744b4c35d215d5bc789a376cf0f48a094c12f34390adf1af91"
 
