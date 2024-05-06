@@ -1,0 +1,13 @@
+name = "Pearfection"
+filename = "pearfection-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f53e96dc79ee003acbeda75deedd42c4fa0c11d3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4744481
+project-id = 837277

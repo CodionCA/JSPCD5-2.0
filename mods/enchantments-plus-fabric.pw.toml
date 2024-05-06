@@ -1,0 +1,13 @@
+name = "Enchantments-Plus [Fabric]"
+filename = "enchantments-plus-fabric-1.2.1+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1b5ed27a8bc3a98645f8afee04f5140e682f9926"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4969800
+project-id = 618800

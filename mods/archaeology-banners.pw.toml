@@ -1,0 +1,13 @@
+name = "Archaeology Banners"
+filename = "ArchaeologyBanners-Fabric-1.20.1-5.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2edaccbd1bd3852a192bd283a34bba8e5aad7be6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4756645
+project-id = 861357

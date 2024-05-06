@@ -1,0 +1,29 @@
+type = menu
+
+customization-meta {
+  identifier = com.fexl.forcecrawl.config.ConfigScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = mimicbutton;com.fexl.forcecrawl.config.ConfigScreen:38545%btnaction_splitter_fm%
+  x = 10
+  width = 100
+  action = addbutton
+  actionid = cd9d4d07-f133-415d-bcca-9fe1f9d122a01705140686303
+  y = 127
+  label = New Button
+  height = 20
+}
+

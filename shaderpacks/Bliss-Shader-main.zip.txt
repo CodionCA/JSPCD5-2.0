@@ -1,0 +1,5 @@
+#Mon Apr 29 23:59:08 EDT 2024
+CAVE_FOG=false
+sunPathRotation=0
+moon_illuminance=400.0
+CaveFogFallOff=0.1

@@ -1,0 +1,13 @@
+name = "Stormfest"
+filename = "stormfest-v2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0647253036d255f264f0f298635ad922fa892be6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4615661
+project-id = 545658

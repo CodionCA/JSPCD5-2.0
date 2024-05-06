@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 5,
+  "currentVersion": "1.4.6",
+  "modpackName": "Legacies",
+  "modpackAuthor": "Rebel459",
+  "modpackReleaseType": "stable",
+  "githubRepo": "https://raw.githubusercontent.com/Rebel459/legacies/main/",
+  "advanced": {
+    "bccEnabled": false,
+    "expandButton": false,
+    "updateCheckerType": 2,
+    "modpackMods": []
+  }
+}

@@ -1,0 +1,13 @@
+name = "Fog Looks Good Now [Fabric]"
+filename = "FogLooksGoodNow-2.1.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e93573e39b0e3084c0e4a85a2dec479ef3472451"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4972444
+project-id = 815438

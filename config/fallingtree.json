@@ -1,0 +1,63 @@
+{
+  "trees": {
+    "allowedLogs": [],
+    "deniedLogs": [],
+    "allowedLeaves": [],
+    "allowedNonDecayLeaves": [],
+    "deniedLeaves": [],
+    "breakMode": "INSTANTANEOUS",
+    "detectionMode": "WHOLE_TREE",
+    "maxScanSize": 128,
+    "maxSize": 16,
+    "maxSizeAction": "CUT",
+    "breakOrder": "FURTHEST_FIRST",
+    "minimumLeavesAroundRequired": 1,
+    "includePersistentLeavesInRequiredCount": false,
+    "treeBreaking": true,
+    "leavesBreaking": true,
+    "leavesBreakingForceRadius": 0,
+    "allowMixedLogs": false,
+    "breakNetherTreeWarts": true,
+    "instantlyBreakWarts": false,
+    "breakMangroveRoots": true,
+    "searchAreaRadius": -1,
+    "allowedAdjacentBlocks": [],
+    "adjacentStopMode": "STOP_ALL"
+  },
+  "tools": {
+    "allowed": [
+      "minecraft:wooden_axe",
+      "minecraft:stone_axe",
+      "minecraft:iron_axe",
+      "minecraft:gold_axe",
+      "minecraft:diamond_axe",
+      "minecraft:netherite_axe",
+      "deeperdarker:warden_axe",
+      "endgame_reborn:steel_axe",
+      "endgame_reborn:reinforced_steel_axe",
+      "endgame_reborn:gilded_steel_axe",
+      "endgame_reborn:fractured_steel_axe",
+      "endgame_reborn:sculk_steel_axe",
+      "endgame_reborn:prosperous_steel_axe"
+    ],
+    "denied": [],
+    "preserve": true,
+    "ignoreTools": false,
+    "damageMultiplicand": 1.0,
+    "damageRounding": "ROUND_DOWN",
+    "speedMultiplicand": 0.95,
+    "forceToolUsage": false
+  },
+  "player": {
+    "allowedTags": []
+  },
+  "enchantment": {
+    "registerEnchant": false,
+    "registerSpecificEnchant": false,
+    "hideEnchant": false
+  },
+  "sneakMode": "SNEAK_DISABLE",
+  "breakInCreative": false,
+  "lootInCreative": true,
+  "notificationMode": "ACTION_BAR"
+}

@@ -1,0 +1,13 @@
+name = "Force Crawl"
+filename = "forcecrawl-fabric-1.20-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9d733b6b8e352fa9eaf1035734120680a05107a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4574792
+project-id = 792995

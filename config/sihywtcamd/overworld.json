@@ -1,0 +1,27 @@
+{
+  "general": {
+    "mobsLessFear": false,
+    "merchantHostility": true
+  },
+  "creeper": {
+    "explosionFatigue": false,
+    "explosionWeakness": false,
+    "chainExplosions": false
+  },
+  "phantom": {
+    "throughBlocks": false,
+    "lightFear": true
+  },
+  "slime": {
+    "biggerSize": false,
+    "canMerge": false
+  },
+  "vex": {
+    "dieWithEvoker": true,
+    "naturalSpawnDarkForest": false
+  },
+  "guardian": {
+    "naturalSpawn": false,
+    "silentKill": true
+  }
+}

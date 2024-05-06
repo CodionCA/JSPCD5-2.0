@@ -1,0 +1,146 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 3.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:book",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 7.0,
+                "min": 2.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:paper",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:compass"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "name": "minecraft:book",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "enchantments": [
+                "minecraft:silk_touch",
+                "minecraft:mending",
+                "minecraft:infinity"
+              ]
+            }
+          ]
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 10.0,
+        "min": 2.0
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:eye_armor_trim_smithing_template"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 25
+        },
+        {
+          "type":"item",
+          "name":"minecraft:written_book",
+          "weight":25,
+          "functions":[
+             {
+                "function":"set_nbt",
+                "tag":"{pages:['{\"text\":\"You’ve found the Stronghold at last. The stone brick walls, the abandoned hallways. A great Library of vast knowledge, filled with wondrous books of unimaginable power.
+
+You are here. 
+
+A passage to another world. 
+                
+\"}',
+'{\"text\":\"Will this be your journey’s end?
+
+                                \"}'],title:\"The Stronghold\",author:\"Minecraft\"}"
+             }
+          ]
+       },
+       {
+         "type":"item",
+         "name":"minecraft:written_book",
+         "weight":25,
+         "functions":[
+            {
+               "function":"set_nbt",
+               "tag":"{pages:['{\"text\":\"A heavily-damaged book, documenting the Stronghold’s portal. It is missing most of its pages, almost as if they were ripped out from within. Only one page remains, with barely any of the remaining text legible:
+
+…and that is why there is no other choice.
+               
+\"}',
+'{\"text\":\"The consequences of returning would be catastrophic. 
+                               \"}'],title:\"The Portal\",author:\"Minecraft\"}"
+            }
+         ]
+      },
+      {
+        "type":"item",
+        "name":"minecraft:written_book",
+        "weight":25,
+        "functions":[
+           {
+              "function":"set_nbt",
+              "tag":"{pages:['{\"text\":\"The Great Libraries were a place of vast knowledge and unimaginable power, thought to be lost a long time ago. Now, here you stand. Impossibly, this Library still contains echoes of the past, remnants of power unknown. While this power has faded into echoes
+              
+              
+\"}',
+'{\"text\":\"through the passing of time, the books found in these halls are still truly something special. It almost makes you wonder…
+
+If the Library could survive, could there be more out there, yet to be uncovered?
+                              \"}'],title:\"The Library\",author:\"Minecraft\"}"
+           }
+        ]
+     }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "minecraft:chests/stronghold_library"
+}

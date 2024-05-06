@@ -1,0 +1,13 @@
+name = "Gardens of the Dead"
+filename = "gardens-of-the-dead-fabric-4.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8a63bc763ad565a5bc0a8c39e2bbdd79f7bafbaf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4784268
+project-id = 683174

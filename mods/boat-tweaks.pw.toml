@@ -1,0 +1,13 @@
+name = "Boat Tweaks"
+filename = "BoatTweaks-1.20.1-fabric-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "10204fa84d766765017fab87daf22e7b75e2464d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5060936
+project-id = 866472

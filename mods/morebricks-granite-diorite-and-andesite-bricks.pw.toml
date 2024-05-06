@@ -1,0 +1,13 @@
+name = "MoreBricks - Granite, Diorite, and Andesite bricks"
+filename = "morebricks-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e5ca7b4161e2f8f6aa0b6839f08f3c4039806b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4794900
+project-id = 922038

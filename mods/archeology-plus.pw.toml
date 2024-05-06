@@ -1,0 +1,13 @@
+name = "Archeology Plus"
+filename = "archeologyplus-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "685a1070df8d7f633f3693b8011e24005057c6a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4769066
+project-id = 870762

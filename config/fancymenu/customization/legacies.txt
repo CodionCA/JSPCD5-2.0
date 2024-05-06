@@ -1,0 +1,204 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 32
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=2980%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 64
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-centered
+  x = -124
+  action = movebutton
+  y = 64
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 8
+}
+
+customization {
+  identifier = %id=604346%
+  orientation = mid-centered
+  x = 104
+  action = movebutton
+  y = 32
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -16
+}
+
+customization {
+  identifier = %id=376286%
+  orientation = mid-centered
+  x = 104
+  action = movebutton
+  y = 64
+}
+
+customization {
+  identifier = %id=376286%
+  action = setbuttonlabel
+  value = Changelog
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = 64
+}
+
+customization {
+  identifier = %id=604310%
+  orientation = mid-centered
+  x = -161
+  action = movebutton
+  y = 32
+}
+
+customization {
+  identifier = %id=604310%
+  width = 57
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=604310%
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:2b5e8b21-a9cf-4ce5-8075-0f788568a98d1704800757521] = vr_enabled:1
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 165
+  action = deep_customization_element:title_screen_branding
+  actionid = d26d5702-5a01-4345-9eb0-207ae475e3411685688308265
+  y = 240
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 423
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 44d5a8b0-f44d-4921-967e-26d6b45616b11685688308273
+  y = 163
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 988cbde7-386f-4491-9178-79618d50b9ce1685688308273
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = top-centered
+  splash_color = #ffff00
+  hidden = false
+  x = 117
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = a03a6df5-e065-486e-8674-16e1594913d91685688308273
+  y = 63
+  height = 30
+}
+
+customization {
+  advanced_height = 155
+  path = config/customelements/new-minecraft-logo.png
+  orientation = top-centered
+  x = -137
+  width = 274
+  action = addtexture
+  actionid = aa7a7daf-067f-46bc-848b-1c5ec052a9e01687167420473
+  y = -32
+  advanced_width = 274
+  height = 155
+}
+
+customization {
+  advanced_height = 22
+  orientation = element
+  delayappearanceseconds = 1.25
+  advanced_width = 88
+  path = config/customelements/legacies-menu-logo.png
+  fadein = true
+  fadeinspeed = 1.75
+  orientation_element = aa7a7daf-067f-46bc-848b-1c5ec052a9e01687167420473
+  x = 93
+  width = 88
+  action = addtexture
+  actionid = 7113d3da-8aff-46f8-993f-a54553b80b091692601381903
+  y = 94
+  delayappearance = true
+  delayappearanceeverytime = false
+  height = 22
+}
+

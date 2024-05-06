@@ -1,0 +1,16 @@
+{
+  "houses": {
+    "generatePlainsHouses": true,
+    "generateTaigaHouses": true,
+    "generateSavannaHouses": true,
+    "generateSnowyHouses": true,
+    "generateDesertHouses": true
+  },
+  "weights": {
+    "woodworkerHouseWeight": 5,
+    "oceanographerHouseWeight": 5,
+    "floristHouseWeight": 5,
+    "hunterHouseWeight": 5,
+    "engineerHouseWeight": 5
+  }
+}

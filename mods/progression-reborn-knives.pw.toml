@@ -1,0 +1,13 @@
+name = "Progression Reborn Knives"
+filename = "progression-reborn-knives-1.3.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "544679f85e67b2d36b328a2fbc5a4cc8a799e98a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5100342
+project-id = 959551

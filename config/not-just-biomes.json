@@ -1,0 +1,14 @@
+{
+  "enabled_modules": {
+    "forest": false,
+    "ore_vein": true,
+    "taiga": true,
+    "birch_forest": false,
+    "well": true,
+    "swamp": false,
+    "tectonic_trees": false,
+    "cherry_grove": false,
+    "dungeon": false,
+    "mansion": false
+  }
+}

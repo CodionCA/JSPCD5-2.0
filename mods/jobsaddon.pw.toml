@@ -1,0 +1,13 @@
+name = "JobsAddon"
+filename = "jobsaddon-1.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e5a4e3c533493480c735998b67e7c611b38901e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5043002
+project-id = 682362

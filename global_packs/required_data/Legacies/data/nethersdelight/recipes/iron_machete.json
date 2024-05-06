@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "m": {
+      "item": "minecraft:air"
+    },
+    "s": {
+      "item": "minecraft:air"
+    }
+  },
+  "pattern": [
+    "  m",
+    " m ",
+    "s  "
+  ],
+  "result": {
+    "item": "minecraft:air"
+  }
+}

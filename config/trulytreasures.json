@@ -1,0 +1,12 @@
+{
+  "wanderingTraderSettings": {
+    "basePrice": 16,
+    "maxTrades": 2,
+    "treasureEnchantmentFilter": "NONE",
+    "enchantmentBlacklist": []
+  },
+  "villagerSettings": {
+    "enchantmentRemovalMode": "TREASURE",
+    "enchantmentsToKeep": []
+  }
+}

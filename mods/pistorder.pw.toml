@@ -1,0 +1,13 @@
+name = "Pistorder"
+filename = "pistorder-mc1.20.1-v1.6.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "252ade65b5fc49be2cea9f171b1d33303cc972bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4982776
+project-id = 430118

@@ -1,0 +1,13 @@
+name = "Legacies and Legends"
+filename = "legacies-and-legends-1.20-v1.3.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dbfa6d05a3a710d89b68de6c4b24880ebce7cf4c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5116756
+project-id = 959533

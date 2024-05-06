@@ -1,0 +1,13 @@
+name = "-54 hardcoded lava level fix"
+filename = "mc-fix-hardcoded-lava-level-1.19.3-1.x_1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "731fb7a801e03b51d54316c8af12213cc99c93b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4615477
+project-id = 882257

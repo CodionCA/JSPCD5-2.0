@@ -1,0 +1,13 @@
+name = "More Bricks Plus"
+filename = "morebricksplus-1.20-v1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e27c94382be1c9d8438c3b37edb54289bda9373"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5039094
+project-id = 963132

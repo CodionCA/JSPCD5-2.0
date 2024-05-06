@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "a": {
+      "item": "minecraft:air"
+    },
+    "b": {
+      "item": "minecraft:air"
+    },
+    "c": {
+      "item": "minecraft:air"
+    }
+  },
+  "pattern": [
+    "aba",
+    " c ",
+    " c "
+  ],
+  "result": {
+    "item": "minecraft:air"
+  },
+  "show_notification": false
+}

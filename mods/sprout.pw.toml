@@ -1,0 +1,13 @@
+name = "Sprout"
+filename = "sprout-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c78bc8f5c5e15f0029d3bc7cbd72b5663926397"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4769204
+project-id = 565856

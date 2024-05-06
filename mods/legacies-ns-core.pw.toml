@@ -1,0 +1,13 @@
+name = "Legacies NS Core"
+filename = "ns-core-1.4.1-1.20.1-b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c785dcfbbfee2808e485a17dd1bfb31462f3eace"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5030925
+project-id = 960392

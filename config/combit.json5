@@ -1,0 +1,44 @@
+{
+  iFrameInterval: 12,
+  attackCancelThreshold: -1.0,
+  knockbackCancelThreshold: -1.0,
+  attackerWhitelist: [
+    "tconstruct:blueslime",
+    "minecraft:magma_cube",
+    "thaumcraft:thaumslime",
+    "minecraft:slime"
+  ],
+  damageSourceWhitelist: [
+    "lightningBolt",
+    "dryout",
+    "lava",
+    "hotFloor",
+    "outOfWorld",
+    "inFire",
+    "cactus",
+    "sweetBerryBush",
+    "inWall"
+  ],
+  targetEntityWhitelist: [],
+  excludeAllMobs: false,
+  excludePlayers: false,
+  skeletonsBurn: true,
+  zombiesBurn: true,
+  creepersBurn: false,
+  creepersExplodeWhenBurning: false,
+  alwaysBurn: false,
+  entityHealthFactor: 1.0,
+  entityHealthBlacklist: [
+    "minecraft:player"
+  ],
+  cooldownProgressOverride: -1.0,
+  cooldownProgressPerTickOverride: -1.0,
+  weaponAttackDamageFactor: 0.75,
+  axeAttackDamageFactor: 0.75,
+  snowballKnockbackFactor: 0.0,
+  snowballDamage: 0.0,
+  eggKnockbackFactor: 0.0,
+  eggDamage: 0.0,
+  fishingBobberPullFactor: 1.0,
+  debug: false
+}

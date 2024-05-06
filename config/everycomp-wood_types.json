@@ -1,0 +1,57 @@
+{
+  "types": {
+    "wood_type": {
+      "twigs.bamboo": true,
+      "ecologics.flowering_azalea": true,
+      "ecologics.azalea": true,
+      "ecologics.coconut": true,
+      "ecologics.walnut": true,
+      "architects_palette.twisted": true,
+      "blockus.white_oak": true,
+      "blockus.legacy": true,
+      "charm.azalea": true,
+      "charm.ebony": true,
+      "deeperdarker.echo": true,
+      "edenring.auritis": true,
+      "edenring.balloon_mushroom": true,
+      "edenring.pulse_tree": true,
+      "paradise_lost.aurel": true,
+      "paradise_lost.mother_aurel": true,
+      "paradise_lost.orange": true,
+      "paradise_lost.wisteria": true
+    },
+    "leaves_type": {
+      "architects_palette.twisted": true,
+      "blockus.white_oak": true,
+      "blockus.legacy": true,
+      "blossom.flowering_oak": true,
+      "charm.ebony": true,
+      "deeperdarker.echo": true,
+      "ecologics.coconut": true,
+      "ecologics.walnut": true,
+      "edenring.auritis": true,
+      "paradise_lost.mother_aurel": true,
+      "paradise_lost.orange": true,
+      "paradise_lost.rose_wisteria": true,
+      "paradise_lost.frost_wisteria": true,
+      "paradise_lost.lavender_wisteria": true,
+      "paradise_lost.boreal_wisteria": true,
+      "paradise_lost.aurel": true,
+      "wondrouswilds.yellow_birch": true,
+      "wondrouswilds.orange_birch": true,
+      "wondrouswilds.red_birch": true
+    }
+  },
+  "entries": {
+    "wood_type": {
+      "architects_palette.railing": true,
+      "twigs.table": true,
+      "architects_palette.boards": true,
+      "decorative_blocks.beam": true,
+      "decorative_blocks.support": true,
+      "decorative_blocks.seat": true,
+      "decorative_blocks.palisade": true
+    },
+    "leaves_type": {}
+  }
+}

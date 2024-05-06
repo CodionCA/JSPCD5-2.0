@@ -1,0 +1,13 @@
+name = "VillagerConfig"
+filename = "villagerconfig-4.0.3+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "19fada23fe590fefa90e84c2a0be6da44f19669d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4706299
+project-id = 400741

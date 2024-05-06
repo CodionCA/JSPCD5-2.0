@@ -1,0 +1,13 @@
+name = "Dimensional Sync Fixes"
+filename = "dimensionalsyncfixes-fabric-1.20.1-0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e47aa1bc65c61fffde8bc85d7d1d3b8d6930ba0b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4960392
+project-id = 829521

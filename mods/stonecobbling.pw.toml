@@ -1,0 +1,13 @@
+name = "Stonecobbling"
+filename = "stonecobbling-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6R6Tq5dp/versions/n2B1WpLN/stonecobbling-1.jar"
+hash-format = "sha1"
+hash = "5a7731ef8a050458f8545e895c8e5c6b04bc49c2"
+
+[update]
+[update.modrinth]
+mod-id = "6R6Tq5dp"
+version = "n2B1WpLN"

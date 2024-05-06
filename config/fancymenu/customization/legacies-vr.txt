@@ -1,0 +1,31 @@
+type = menu
+
+customization-meta {
+  identifier = org.vivecraft.client.gui.settings.GuiMainVRSettings
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = set_variable;vr_enabled:0%btnaction_splitter_fm%
+  label = Exit VR Mode
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:345282
+  x = 0
+  width = 150
+  action = addbutton
+  actionid = 45caee85-1896-441d-ac9f-339d35679b9e1704800565681
+  y = 21
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:8b0a3aef-8ed7-4e83-bcfe-3e11f3da7f3a1704800648931] = vr_enabled:1
+  height = 20
+}
+

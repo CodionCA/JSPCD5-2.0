@@ -1,0 +1,13 @@
+name = "Enchantment Groups"
+filename = "EnchantmentGroups-1.4.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "275671d1cd4302d670424c193d408d475408c088"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4777071
+project-id = 585917

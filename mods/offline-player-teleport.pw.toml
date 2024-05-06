@@ -1,0 +1,13 @@
+name = "Offline Player Teleport"
+filename = "offlineplayerteleport-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "491361886e708110b3617b996b71ac8a3a6674f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5051545
+project-id = 948502

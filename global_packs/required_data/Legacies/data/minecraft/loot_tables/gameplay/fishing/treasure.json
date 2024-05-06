@@ -1,0 +1,215 @@
+{
+  "type": "minecraft:fishing",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:name_tag"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:saddle"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "damage": {
+                "type": "minecraft:uniform",
+                "max": 0.25,
+                "min": 0.0
+              },
+              "function": "minecraft:set_damage"
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 30.0,
+              "treasure": true
+            }
+          ],
+          "name": "minecraft:bow"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "damage": {
+                "type": "minecraft:uniform",
+                "max": 0.25,
+                "min": 0.0
+              },
+              "function": "minecraft:set_damage"
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 30.0,
+              "treasure": true
+            }
+          ],
+          "name": "minecraft:fishing_rod"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "damage": {
+                "type": "minecraft:uniform",
+                "max": 0.25,
+                "min": 0.0
+              },
+              "function": "minecraft:set_damage"
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 30.0,
+              "treasure": true
+            }
+          ],
+          "name": "legacies_and_legends:hook"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "enchantments": [
+                "minecraft:lure",
+                "minecraft:luck_of_the_sea"
+              ]
+            }
+          ],
+          "name": "minecraft:book"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:nautilus_shell"
+        },
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "condition": "minecraft:any_of",
+              "terms": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biome": "minecraft:deep_ocean"
+                  }
+                },
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biome": "minecraft:deep_lukewarm_ocean"
+                  }
+                },
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biome": "minecraft:deep_cold_ocean"
+                  }
+                },
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biome": "minecraft:deep_frozen_ocean"
+                  }
+                }
+              ]
+            }
+          ],
+          "name":"minecraft:written_book",
+          "functions":[
+            {
+              "function":"set_nbt",
+              "tag":"{pages:['{\"text\":\"The oceans are a vast landscape of endless sea. Whilst these waters may seem calm at first, there is to be a warning; an ancient, mythological creature - resembling a squid, but far more dangerous, its glowing texture acting as a captivating signal, \"}',
+'{\"text\":\"and a warning for the weary.
+
+Beware, lest this forboding squid come for you next.\"}'],title:\"Fisherman's Tale\",author:\"Minecraft\"}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "condition": "minecraft:any_of",
+              "terms": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biome": "minecraft:deep_dark"
+                  }
+                }
+              ]
+            }
+          ],
+          "name":"minecraft:written_book",
+          "functions":[
+            {
+              "function":"set_nbt",
+              "tag":"{pages:['{\"text\":\"Footsteps. Echoes. Silence.
+
+There must be silence.
+
+Home, safety, soft.
+
+Silence.
+
+Sleep, quiet, life.
+
+Silence.
+              \"}',
+'{\"text\":\"Fear, terror, alone.
+
+Silence.
+
+Panick. Stumble. Fall.
+
+Noise. 
+
+Death. 
+
+Silence.\"}'],title:\"Forgotten Tale\",author:\"Minecraft\"}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "condition": "minecraft:any_of",
+              "terms": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biome": "minecraft:beach"
+                  }
+                },
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biome": "minecraft:snowy_beach"
+                  }
+                }
+              ]
+            }
+          ],
+          "name":"minecraft:written_book",
+          "functions":[
+            {
+              "function":"set_nbt",
+              "tag":"{pages:['{\"text\":\"What is out there, in a land of limitless potential? Tales of the past, mysteries of the future... who knows what sort of treasures are hidden, just waiting to be found.\"}'],title:\"Treasure Tale\",author:\"Minecraft\"}"
+            }
+          ]
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "minecraft:gameplay/fishing/treasure"
+}

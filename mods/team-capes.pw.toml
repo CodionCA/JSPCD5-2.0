@@ -1,0 +1,13 @@
+name = "Team Capes"
+filename = "TeamCapes-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eeacd7607a3fb566054a44ccd8ed517c0c91e8ab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4888386
+project-id = 941141

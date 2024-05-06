@@ -1,0 +1,13 @@
+name = "All The Trims"
+filename = "allthetrims-3.2.5-fabric+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "316ebbca20d812c73cc8ef0e0a4c8e4cff1fef80"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4731091
+project-id = 876154

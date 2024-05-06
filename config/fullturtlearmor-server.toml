@@ -1,0 +1,15 @@
+
+["Configurations for Full Turtle Armor"]
+	#Should a full set of Turtle Armor grant Dolphin's Grace when underwater? [True = Yes, False = No]
+	"Dolphin's Grace on Full Set" = true
+	#Amount of time turtle boots adds to water breathing stack (Seconds)
+	"Water Breathing Time Added by Boots" = 5
+	#Amount of time turtle leggings adds to water breathing stack (Seconds)
+	"Water Breathing Time Added by Leggings" = 5
+	#Should a full set of Turtle Armor grant Nightvision when underwater? [True = Yes, False = No]
+	"Nightvision on Full Set" = false
+	#Amount of time turtle chestplate adds to water breathing stack (Seconds)
+	"Water Breathing Time Added by Chestplate" = 5
+	#Amount of time turtle helmet adds to water breathing stack (Seconds)
+	"Water Breathing Time Added by Helmet" = 10
+

@@ -1,0 +1,13 @@
+name = "Decorative Blocks"
+filename = "decorative_blocks-fabric-1.20.1-4.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "706b7d7ddadeab0deacab1732c12edc47005065b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5066915
+project-id = 362528

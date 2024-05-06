@@ -1,0 +1,23 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:unbreaking",
+    "minecraft:protection",
+    "minecraft:efficiency",
+    "minecraft:sharpness",
+    "minecraft:impaling",
+    "minecraft:power",
+    "minecraft:binding_curse",
+    "minecraft:vanishing_curse",
+    "enchantery:backbiting_curse",
+    "enchantery:butterfinger_curse",
+    "enchantery:leeching_curse",
+    "enchantery:devouring_curse",
+    "enchantery:diffusion_curse",
+    "enchantery:kickback_curse",
+    "biomemakeover:decay_curse",
+    "biomemakeover:inaccuracy_curse",
+    "farmersdelight:backstabbing",
+    "minecraft:piercing"
+  ]
+}

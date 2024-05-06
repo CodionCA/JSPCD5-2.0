@@ -1,0 +1,304 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_429
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=505154%
+  orientation = mid-centered
+  x = 5
+  action = movebutton
+  y = 30
+}
+
+customization {
+  identifier = %id=505154%
+  width = 150
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=345280%
+  orientation = mid-centered
+  x = -155
+  action = movebutton
+  y = 6
+}
+
+customization {
+  identifier = %id=345154%
+  orientation = mid-centered
+  x = -155
+  action = movebutton
+  y = -82
+}
+
+customization {
+  identifier = %id=505280%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=505280%
+  orientation = mid-centered
+  x = 5
+  action = movebutton
+  y = 4
+}
+
+customization {
+  identifier = %id=425358%
+  orientation = mid-centered
+  x = -75
+  action = movebutton
+  y = 84
+}
+
+customization {
+  identifier = %id=345256%
+  orientation = mid-centered
+  x = -155
+  action = movebutton
+  y = -18
+}
+
+customization {
+  identifier = %id=322154%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=505256%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=505256%
+  orientation = mid-centered
+  x = 5
+  action = movebutton
+  y = 54
+}
+
+customization {
+  identifier = %id=505256%
+  width = 73
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=505256%
+  action = setbuttonlabel
+  value = Chat...
+}
+
+customization {
+  identifier = %id=345232%
+  orientation = mid-centered
+  x = -155
+  action = movebutton
+  y = -42
+}
+
+customization {
+  identifier = %id=345328%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=505232%
+  orientation = mid-centered
+  x = 5
+  action = movebutton
+  y = -42
+}
+
+customization {
+  identifier = %id=345181%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=9755%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=345304%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=345304%
+  orientation = mid-centered
+  x = -155
+  action = movebutton
+  y = 54
+}
+
+customization {
+  identifier = %id=345304%
+  width = 73
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=345304%
+  action = setbuttonlabel
+  value = Credits...
+}
+
+customization {
+  identifier = %id=425208%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=345178%
+  orientation = mid-centered
+  x = 82
+  action = movebutton
+  y = 54
+}
+
+customization {
+  identifier = %id=345178%
+  width = 73
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=345178%
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:7e589327-2143-4088-9b0f-9f95276183d81704800296484] = vr_enabled:1
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=505304%
+  orientation = mid-centered
+  x = 5
+  action = movebutton
+  y = 6
+}
+
+customization {
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if_not][req_id:64584c7c-90f6-4f34-93a1-e0a1a2504e351704800382747] = vr_enabled:1
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = set_variable;vr_enabled:1%btnaction_splitter_fm%
+  x = 82
+  width = 73
+  action = addbutton
+  actionid = 80b3a8b4-a1b7-43e9-b9f0-75d9b329d2da1704799708056
+  y = 54
+  label = Enable VR...
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.coderbot.iris.gui.screen.ShaderPackScreen%btnaction_splitter_fm%
+  x = 5
+  width = 150
+  action = addbutton
+  actionid = 0c4aa0f7-bbed-421b-9f0f-3d07cc56594b1704801464484
+  y = -82
+  label = Shaders...
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://legacies.miraheze.org%btnaction_splitter_fm%
+  x = -78
+  width = 73
+  action = addbutton
+  actionid = 91c31ab1-84b1-44e4-8b62-3213cb410f901704803114441
+  y = 54
+  label = Wiki...
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.minecraft.class_5375%btnaction_splitter_fm%
+  x = -155
+  width = 150
+  action = addbutton
+  actionid = fe90a12c-cf8d-4a48-9932-79dc7c00fee71705371656429
+  y = 30
+  label = Resource Packs...
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.minecraft.class_458%btnaction_splitter_fm%
+  x = 5
+  width = 150
+  action = addbutton
+  actionid = 5305b62e-a6d8-4fd1-bc48-d63063315f361705371895022
+  y = -18
+  label = Controls...
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.minecraft.class_404%btnaction_splitter_fm%
+  x = 5
+  width = 73
+  action = addbutton
+  actionid = 3e6bc750-9719-419d-8e1d-81b0ca837f491705372003134
+  y = 54
+  label = Chat...
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.minecraft.class_8219%btnaction_splitter_fm%
+  x = -155
+  width = 73
+  action = addbutton
+  actionid = 334a4575-66ee-4a9a-9677-1ede4510dbbf1705377992616
+  y = 54
+  label = Credits...
+  height = 20
+}
+
+customization {
+  identifier = %id=635154%
+  orientation = mid-centered
+  x = 157
+  action = movebutton
+  y = 30
+}
+

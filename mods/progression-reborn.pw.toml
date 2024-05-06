@@ -1,0 +1,13 @@
+name = "Progression Reborn"
+filename = "progression-reborn-1.20-v1.3.13.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "873c6a95ba44be8298d5b7b10faf0f664dce33b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5106614
+project-id = 959547

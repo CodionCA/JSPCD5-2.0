@@ -1,0 +1,7 @@
+name = "Structory"
+filename = "Structory_1.20.2_v1.3.4.jar"
+
+[download]
+url = "https://codionca.github.io/JSPCD5/.override/Structory_1.20.2_v1.3.4.jar"
+hash-format = "sha256"
+hash = "b23b6565cac9af8c30a3f5faa110b3b6def6aa0d6d410c178107aacc1524d9a5"

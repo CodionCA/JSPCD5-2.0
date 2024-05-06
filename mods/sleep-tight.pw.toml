@@ -1,0 +1,13 @@
+name = "Sleep Tight"
+filename = "sleep_tight-1.20-1.1.19-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d45cee2f07e824dfe7db908cdaf16b9eaf56fb3c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5085864
+project-id = 817564

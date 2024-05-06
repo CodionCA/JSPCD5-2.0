@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "W": {
+      "tag": "minecraft:air"
+    },
+    "o": {
+      "item": "minecraft:air"
+    },
+    "T": {
+      "item": "minecraft:air"
+    }
+  },
+  "pattern": [
+    "ToT",
+    "oWo",
+    "ToT"
+  ],
+  "result": {
+    "item": "minecraft:air"
+  },
+  "show_notification": false
+}

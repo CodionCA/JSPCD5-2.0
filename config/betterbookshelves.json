@@ -1,0 +1,419 @@
+{
+  "per_book_texture": true,
+  "text_preview": "on",
+  "text_size": 10,
+  "book_textures": [
+    {
+      "book_type": "minecraft:book",
+      "book_model": 0,
+      "hex_color": "3E9293"
+    },
+    {
+      "book_type": "minecraft:written_book",
+      "book_model": 3,
+      "hex_color": "C8335B"
+    },
+    {
+      "book_type": "minecraft:writable_book",
+      "book_model": 1,
+      "hex_color": "749B48"
+    },
+    {
+      "book_type": "minecraft:enchanted_book",
+      "book_model": 2,
+      "hex_color": "9420DF"
+    },
+    {
+      "book_type": "minecraft:knowledge_book",
+      "book_model": 4,
+      "hex_color": "48A045"
+    }
+  ],
+  "enchanted_book_textures": [
+    {
+      "enchantment": "minecraft:looting",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "biomemakeover:insomnia_curse",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchantmentsplus:cubical",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchantmentsplus:raider",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:silk_touch",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:quick_charge",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:flame",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:aqua_affinity",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "biomemakeover:buckling_curse",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:loyalty",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "supplementaries:stasis",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "biomemakeover:depth_curse",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "biomemakeover:suffocation_curse",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:punch",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "guarding:pummeling",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchantmentsplus:thunderlord",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:sharpness",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:frost_walker",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchantmentsplus:levitation",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchantmentsplus:endslayer",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "guarding:barbed",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:impaling",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchantmentsplus:frostbite",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:riptide",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:protection",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:mending",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:swift_sneak",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:smite",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:fire_aspect",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:knockback",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:depth_strider",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "biomemakeover:flammability_curse",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "farmersdelight:backstabbing",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "biomemakeover:inaccuracy_curse",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:infinity",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:vanishing_curse",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "biomemakeover:decay_curse",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "betterarcheology:tunneling",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:efficiency",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:soul_speed",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "betterarcheology:penetrating_strike",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:fortune",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:multishot",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchantmentsplus:sniper",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchantmentsplus:toxicstrike",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:channeling",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:binding_curse",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "betterarcheology:soaring_winds",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchantmentsplus:moonwalker",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchantmentsplus:lifesteal",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchantmentsplus:payback",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:projectile_protection",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:power",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchantmentsplus:excavator",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "additionaladditions:speed",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "biomemakeover:enfeeblement_curse",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchantmentsplus:mysticmind",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchantmentsplus:flashforge",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchantmentsplus:hiker",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:fire_protection",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchantmentsplus:dualleap",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchantmentsplus:stormstrike",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "biomemakeover:unwieldiness_curse",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:luck_of_the_sea",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:respiration",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchantmentsplus:blazewalker",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:piercing",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:feather_falling",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:unbreaking",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:lure",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:sweeping",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "additionaladditions:precision",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchantmentsplus:lunarsight",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "biomemakeover:conductivity_curse",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:blast_protection",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:bane_of_arthropods",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "minecraft:thorns",
+      "book_model": -1,
+      "hex_color": "inherit"
+    }
+  ]
+}

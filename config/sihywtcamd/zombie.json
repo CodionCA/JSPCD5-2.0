@@ -1,0 +1,16 @@
+{
+  "general": {
+    "attackHeal": true,
+    "knockbackResistance": false,
+    "brainless": false,
+    "leaderAndSiege": false
+  },
+  "husk": {
+    "fireResistant": true
+  },
+  "drowned": {
+    "tridentSpawn": false,
+    "highVelocity": false,
+    "guardianJockeySpawn": false
+  }
+}

@@ -1,0 +1,13 @@
+name = "JSPCD5"
+author = "Codion"
+version = "0.5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "58703a5cf9a62be5301c76f7fac815e66b057766b82c353ad369f522a18f47e3"
+
+[versions]
+fabric = "0.15.10"
+minecraft = "1.20.1"

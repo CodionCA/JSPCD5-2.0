@@ -1,0 +1,13 @@
+name = "Mythic Charms"
+filename = "mythic_charms-fabric-1.20.1-0.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b2ece78c1739c24bd27a0ce5de060f1f79b5f7e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5095073
+project-id = 923650

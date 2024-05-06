@@ -1,0 +1,13 @@
+name = "Discerning Furnace"
+filename = "discerning-furnace-1.0.11+MC1.19-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91766f5082401947976f01c4a4a1c980308d931d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4597756
+project-id = 428966

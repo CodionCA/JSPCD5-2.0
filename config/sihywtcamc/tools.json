@@ -1,0 +1,319 @@
+{
+  "newAttributesValues": true,
+  "reachAttribute": true,
+  "swordSweepingEdge": true,
+  "shieldReduceArc": true,
+  "shieldReduceProtection": true,
+  "shieldDamageProtection": 10,
+  "shieldInstantBlock": true,
+  "shieldEnchantable": false,
+  "shieldThorns": false,
+  "shieldCooldown": true,
+  "axeCooldown": false,
+  "bowLessPower": true,
+  "bowPowerExclusive": false,
+  "crossbowMultishotInclusive": false,
+  "flintFireEntities": true,
+  "modifiedTools": [
+    {
+      "identifiers": [
+        "minecraft:netherite_shovel",
+        "end_reborn:remnant_shovel"
+      ],
+      "attackDamage": 5.0,
+      "attackSpeed": 1.5,
+      "attackReach": 3.0
+    },
+    {
+      "identifiers": [
+        "minecraft:wooden_axe",
+        "minecraft:stone_axe",
+        "progression_reborn:deepslate_axe",
+        "progression_reborn:blackstone_axe",
+        "minecraft:golden_axe",
+        "progression_reborn:copper_axe",
+        "progression_reborn:waxed_copper_axe",
+        "progression_reborn:waxed_exposed_copper_axe",
+        "progression_reborn:waxed_weathered_copper_axe",
+        "progression_reborn:waxed_oxidized_copper_axe"
+      ],
+      "attackDamage": 6.0,
+      "attackSpeed": 1.5,
+      "attackReach": 3.0
+    },
+    {
+      "identifiers": [
+        "minecraft:iron_axe",
+        "progression_reborn:rose_axe"
+      ],
+      "attackDamage": 7.0,
+      "attackSpeed": 1.5,
+      "attackReach": 3.0
+    },
+    {
+      "identifiers": [
+        "minecraft:diamond_axe",
+        "progression_reborn:amethyst_axe"
+      ],
+      "attackDamage": 8.0,
+      "attackSpeed": 1.5,
+      "attackReach": 3.0
+    },
+    {
+      "identifiers": [
+        "minecraft:netherite_axe",
+        "end_reborn:remnant_axe"
+      ],
+      "attackDamage": 9.0,
+      "attackSpeed": 1.5,
+      "attackReach": 3.0
+    },
+    {
+      "identifiers": [
+        "minecraft:wooden_pickaxe",
+        "minecraft:stone_pickaxe",
+        "progression_reborn:deepslate_pickaxe",
+        "progression_reborn:blackstone_pickaxe",
+        "end_reborn:end_stone_pickaxe",
+        "minecraft:golden_pickaxe",
+        "progression_reborn:copper_pickaxe",
+        "progression_reborn:waxed_copper_pickaxe",
+        "progression_reborn:waxed_exposed_copper_pickaxe",
+        "progression_reborn:waxed_weathered_copper_pickaxe",
+        "progression_reborn:waxed_oxidized_copper_pickaxe",
+        "end_reborn:popped_chorus_pickaxe"
+      ],
+      "attackDamage": 3.0,
+      "attackSpeed": 1.5,
+      "attackReach": 3.0
+    },
+    {
+      "identifiers": [
+        "minecraft:iron_pickaxe",
+        "progression_reborn:rose_pickaxe"
+      ],
+      "attackDamage": 4.0,
+      "attackSpeed": 1.5,
+      "attackReach": 3.0
+    },
+    {
+      "identifiers": [
+        "minecraft:diamond_pickaxe",
+        "progression_reborn:amethyst_pickaxe"
+      ],
+      "attackDamage": 5.0,
+      "attackSpeed": 1.5,
+      "attackReach": 3.0
+    },
+    {
+      "identifiers": [
+        "minecraft:netherite_pickaxe",
+        "end_reborn:remnant_pickaxe"
+      ],
+      "attackDamage": 6.0,
+      "attackSpeed": 1.5,
+      "attackReach": 3.0
+    },
+    {
+      "identifiers": [
+        "minecraft:wooden_shovel",
+        "minecraft:stone_shovel",
+        "progression_reborn:deepslate_shovel",
+        "progression_reborn:blackstone_shovel",
+        "end_reborn:end_stone_shovel",
+        "minecraft:golden_shovel",
+        "progression_reborn:copper_shovel",
+        "progression_reborn:waxed_copper_shovel",
+        "progression_reborn:waxed_exposed_copper_shovel",
+        "progression_reborn:waxed_weathered_copper_shovel",
+        "progression_reborn:waxed_oxidized_copper_shovel",
+        "end_reborn:popped_chorus_shovel"
+      ],
+      "attackDamage": 2.0,
+      "attackSpeed": 1.5,
+      "attackReach": 3.0
+    },
+    {
+      "identifiers": [
+        "minecraft:iron_shovel",
+        "progression_reborn:rose_shovel"
+      ],
+      "attackDamage": 3.0,
+      "attackSpeed": 1.5,
+      "attackReach": 3.0
+    },
+    {
+      "identifiers": [
+        "minecraft:diamond_shovel",
+        "progression_reborn:amethyst_shovel"
+      ],
+      "attackDamage": 4.0,
+      "attackSpeed": 1.5,
+      "attackReach": 3.0
+    },
+    {
+      "identifiers": [
+        "minecraft:wooden_sword",
+        "minecraft:stone_sword",
+        "progression_reborn:deepslate_sword",
+        "progression_reborn:blackstone_sword",
+        "end_reborn:end_stone_sword",
+        "minecraft:golden_sword",
+        "progression_reborn:copper_sword",
+        "progression_reborn:waxed_copper_sword",
+        "progression_reborn:waxed_exposed_copper_sword",
+        "progression_reborn:waxed_weathered_copper_sword",
+        "progression_reborn:waxed_oxidized_copper_sword",
+        "end_reborn:popped_chorus_sword"
+      ],
+      "attackDamage": 4.0,
+      "attackSpeed": 2.5,
+      "attackReach": 3.0
+    },
+    {
+      "identifiers": [
+        "minecraft:iron_sword",
+        "progression_reborn:rose_sword"
+      ],
+      "attackDamage": 5.0,
+      "attackSpeed": 2.5,
+      "attackReach": 3.0
+    },
+    {
+      "identifiers": [
+        "minecraft:diamond_sword",
+        "progression_reborn:amethyst_sword"
+      ],
+      "attackDamage": 6.0,
+      "attackSpeed": 2.5,
+      "attackReach": 3.0
+    },
+    {
+      "identifiers": [
+        "minecraft:netherite_sword",
+        "end_reborn:remnant_sword"
+      ],
+      "attackDamage": 7.0,
+      "attackSpeed": 2.5,
+      "attackReach": 3.0
+    },
+    {
+      "identifiers": [
+        "minecraft:wooden_hoe"
+      ],
+      "attackDamage": 2.0,
+      "attackSpeed": 1.5,
+      "attackReach": 3.5
+    },
+    {
+      "identifiers": [
+        "minecraft:stone_hoe",
+        "progression_reborn:deepslate_hoe",
+        "progression_reborn:blackstone_hoe",
+        "end_reborn:end_stone_hoe",
+        "minecraft:golden_hoe",
+        "progression_reborn:copper_hoe",
+        "progression_reborn:waxed_copper_hoe",
+        "progression_reborn:waxed_exposed_copper_hoe",
+        "progression_reborn:waxed_weathered_copper_hoe",
+        "progression_reborn:waxed_oxidized_copper_hoe",
+        "end_reborn:popped_chorus_hoe"
+      ],
+      "attackDamage": 2.0,
+      "attackSpeed": 2.0,
+      "attackReach": 3.5
+    },
+    {
+      "identifiers": [
+        "progression_reborn:rose_hoe"
+      ],
+      "attackDamage": 2.5,
+      "attackSpeed": 3.0,
+      "attackReach": 3.5
+    },
+    {
+      "identifiers": [
+        "minecraft:iron_hoe"
+      ],
+      "attackDamage": 3.0,
+      "attackSpeed": 2.5,
+      "attackReach": 3.5
+    },
+    {
+      "identifiers": [
+        "minecraft:diamond_hoe",
+        "progression_reborn:amethyst_hoe"
+      ],
+      "attackDamage": 3.0,
+      "attackSpeed": 3.0,
+      "attackReach": 3.5
+    },
+    {
+      "identifiers": [
+        "minecraft:netherite_hoe",
+        "end_reborn:remnant_hoe"
+      ],
+      "attackDamage": 4.0,
+      "attackSpeed": 3.0,
+      "attackReach": 3.5
+    },
+    {
+      "identifiers": [
+        "farmersdelight:flint_knife",
+        "farmersdelight:golden_knife",
+        "progression_reborn:copper_knife",
+        "progression_reborn:waxed_copper_knife",
+        "progression_reborn:waxed_exposed_copper_knife",
+        "progression_reborn:waxed_weathered_copper_knife",
+        "progression_reborn:waxed_oxidized_copper_knife"
+      ],
+      "attackDamage": 3.5,
+      "attackSpeed": 3.0,
+      "attackReach": 2.5
+    },
+    {
+      "identifiers": [
+        "farmersdelight:iron_knife",
+        "progression_reborn:rose_knife"
+      ],
+      "attackDamage": 4.5,
+      "attackSpeed": 3.0,
+      "attackReach": 2.5
+    },
+    {
+      "identifiers": [
+        "farmersdelight:diamond_knife",
+        "progression_reborn:amethyst_knife"
+      ],
+      "attackDamage": 5.5,
+      "attackSpeed": 3.0,
+      "attackReach": 2.5
+    },
+    {
+      "identifiers": [
+        "farmersdelight:netherite_knife",
+        "legacies_and_legends:ancient_knife",
+        "end_reborn:remnant_knife"
+      ],
+      "attackDamage": 6.5,
+      "attackSpeed": 3.0,
+      "attackReach": 2.5
+    },
+    {
+      "identifiers": [
+        "minecraft:trident"
+      ],
+      "attackDamage": 8.0,
+      "attackSpeed": 1.5,
+      "attackReach": 3.5
+    },
+    {
+      "identifiers": [
+        "legacies_and_legends:hook"
+      ],
+      "attackDamage": 6.0,
+      "attackSpeed": 2.0,
+      "attackReach": 3.5
+    }
+  ]
+}

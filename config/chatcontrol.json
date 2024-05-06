@@ -1,0 +1,15 @@
+{
+  "regexes": [],
+  "phrases": [
+    "WARNING: Immersive Portals mod is incompatible with mod C2ME(c2me). Major issues will occur. You shoul uninstall one of the two mods. (If the two mods suddenly become compatible now, report it to qouteall.)"
+  ],
+  "words": [],
+  "replacementChars": [],
+  "mutedPlayers": [],
+  "tempMutedPlayers": [],
+  "ignoredPlayers": [],
+  "logFiltered": true,
+  "ignoreCommands": true,
+  "caseSensitive": false,
+  "muteCommand": true
+}

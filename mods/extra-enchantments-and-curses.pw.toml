@@ -1,0 +1,13 @@
+name = "Extra Enchantments and Curses"
+filename = "Extra-Enchantments-and-Curses-1.8.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ab05445f7579f98fde2b573346401c072131c7fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4869943
+project-id = 630396

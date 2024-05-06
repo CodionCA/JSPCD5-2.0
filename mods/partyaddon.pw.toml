@@ -1,0 +1,13 @@
+name = "PartyAddon"
+filename = "partyaddon-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "68837d1a8a69c9df0b0648f1133f39077cbefc38"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4752513
+project-id = 862603

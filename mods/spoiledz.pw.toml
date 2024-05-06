@@ -1,0 +1,13 @@
+name = "SpoiledZ"
+filename = "spoiledz-1.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WBzldFmc/versions/Vh6j7Y0P/spoiledz-1.0.10.jar"
+hash-format = "sha1"
+hash = "a72f0caa1f7b1fffae22b6cc08b1c7528714fdbc"
+
+[update]
+[update.modrinth]
+mod-id = "WBzldFmc"
+version = "Vh6j7Y0P"

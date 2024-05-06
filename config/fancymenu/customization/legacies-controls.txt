@@ -1,0 +1,75 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_458
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=505202%
+  orientation = element
+  orientation_element = vanillabtn:505154
+  x = 0
+  action = movebutton
+  y = 72
+}
+
+customization {
+  identifier = %id=345202%
+  orientation = element
+  orientation_element = vanillabtn:345154
+  x = 0
+  action = movebutton
+  y = 72
+}
+
+customization {
+  identifier = %id=505178%
+  orientation = element
+  orientation_element = vanillabtn:345154
+  x = 0
+  action = movebutton
+  y = 24
+}
+
+customization {
+  identifier = %id=345178%
+  orientation = element
+  orientation_element = vanillabtn:345154
+  x = 0
+  action = movebutton
+  y = 48
+}
+
+customization {
+  orientation = element
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  orientation_element = vanillabtn:505154
+  buttonaction = opengui;net.minecraft.class_4189%btnaction_splitter_fm%
+  x = 0
+  width = 150
+  action = addbutton
+  actionid = 244fa6c3-82e2-4d49-b745-521d334aa6631705141054177
+  y = 48
+  label = Accessibility Settings...
+  height = 20
+}
+
+customization {
+  identifier = %id=345226%
+  orientation = element
+  orientation_element = vanillabtn:505154
+  x = 0
+  action = movebutton
+  y = 24
+}
+

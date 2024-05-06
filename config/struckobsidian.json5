@@ -1,0 +1,25 @@
+{
+	"secondStrikeSourceBlockBehavior": "NONE",
+	"spreadBranches": {
+		"minSpreadBranches": 1,
+		"maxSpreadBranches": 3
+	},
+	"spreadAttempts": {
+		"minSpreadAttempts": 1,
+		"maxSpreadAttempts": 8
+	},
+	"spreadAfterAttempts": {
+		"minSpreadAfterAttempts": 1,
+		"maxSpreadAfterAttempts": 4
+	},
+	"spreadDirectionsAllowlist": {
+		"spreadDirectionDown": true,
+		"spreadDirectionUp": true,
+		"spreadDirectionNorth": true,
+		"spreadDirectionSouth": true,
+		"spreadDirectionWest": true,
+		"spreadDirectionEast": true
+	},
+	"debugSourceGlassBlock": false,
+	"debugLogAttempts": false
+}

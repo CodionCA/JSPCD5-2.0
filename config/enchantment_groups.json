@@ -1,0 +1,69 @@
+{
+  "groups": {
+	"trident1": [
+	  "minecraft:loyalty",
+	  "minecraft:riptide"
+	],
+	"melee_damage": [
+	  "minecraft:bane_of_arthropods",
+	  "minecraft:smite",
+	  "extra_enchantments:illagers_bane",
+	  "minecraft:sharpness"
+	],
+	"crossbow": [
+	  "minecraft:multishot",
+	  "minecraft:piercing"
+	],
+	"protection": [
+	  "minecraft:protection",
+	  "minecraft:blast_protection",
+	  "minecraft:fire_protection",
+	  "minecraft:projectile_protection"
+	],
+	"bow": [
+	  "minecraft:mending",
+	  "minecraft:infinity"
+	],
+	"mining": [
+	  "minecraft:fortune",
+	  "minecraft:silk_touch",
+	  "enchantmentsplus:flashforge"
+	],
+	"trident2": [
+	  "minecraft:channeling",
+	  "minecraft:riptide"
+	],
+	"soulbound": [
+	  "minecraft:mending",
+	  "enchantery:soulbound"
+	],
+	"crossbow2": [
+	  "minecraft:quick_charge",
+	  "extra_enchantments:supercharge"
+	],
+	"affinity": [
+	  "minecraft:aqua_affinity",
+	  "charm:aerial_affinity"
+	],
+	"bow2": [
+	  "minecraft:flame",
+	  "extra_enchantments:levitational_shot"
+	],
+	"crossbow3": [
+	  "extra_enchantments:incandescent",
+	  "extra_enchantments:electrifying_shot"
+	],
+	"thorns": [
+	  "minecraft:thorns",
+	  "extra_enchantments:burning_thorns",
+	  "extra_enchantments:freezing_thorns"
+	],
+	"sword": [
+	  "minecraft:fire_aspect",
+	  "extra_enchantments:freezing_aspect"
+	]
+  },
+  "treasures": [
+	"minecraft:frost_walker"
+  ]
+}

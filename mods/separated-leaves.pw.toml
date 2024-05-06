@@ -1,0 +1,13 @@
+name = "Separated Leaves"
+filename = "separatedleaves-2.3.0-fabric-1.20.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af5da972affc3afb333247f8385ce5e5848ab40c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4983130
+project-id = 905482

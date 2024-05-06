@@ -1,0 +1,5 @@
+
+[Core]
+	#Enable debugging mode. Produces more logging output and adds some testing code.
+	"Debug mode" = false
+
