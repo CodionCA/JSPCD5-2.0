@@ -8,6 +8,9 @@
     "notice_board": {
       "centered_text": true
     },
+    "bunting": {
+      "fast_buntings": false
+    },
     "clock_block": {
       "24h_format": true
     },
@@ -46,31 +49,6 @@
         "alexsmobs:hummingbird"
       ]
     },
-    "wall_lantern": {
-      "fast_lanterns": false,
-      "swing_physics": {
-        "frequency": 0.6,
-        "collision_considers_entity_hitbox": true,
-        "collision_inertia": 1.0,
-        "collision_force": 15.0,
-        "min_angle": 0.79999965,
-        "max_angle": 60.0,
-        "damping": 0.525
-      }
-    },
-    "enhanced_hanging_sign": {
-      "enabled": true,
-      "swing_physics": {
-        "frequency": 0.6,
-        "collision_considers_entity_hitbox": true,
-        "collision_inertia": 1.0,
-        "collision_force": 15.0,
-        "min_angle": 0.79999965,
-        "max_angle": 60.0,
-        "damping": 0.525
-      },
-      "fast_signs": false
-    },
     "hat_stand": {
       "swing_physics": {
         "frequency": 1.5,
@@ -101,7 +79,9 @@
   },
   "general": {
     "no_optifine_warn_screen": false,
+    "no_amendments_screen": true,
     "config_button": true,
+    "config_button_y_offset": 0,
     "tooltip_hints": true,
     "placeable_tooltips": true,
     "custom_configured_screen": true,
@@ -132,7 +112,6 @@
     "tooltip_image_size": 80,
     "mob_head_shaders": true,
     "send_chat_on_death": true,
-    "sign_text_color_multiplier": 1.2000000476837158,
     "colored_maps": {
       "tinted_blocks_on_maps": true,
       "tall_grass_color": true,

@@ -18,13 +18,13 @@
 	#Enable/Disable the Game Loading Event
 	enabled = true
 	#The first line of text under the app name
-	description = "Loading Legacies..."
+	description = "Loading JSPCD..."
 	#The second line of text under the app name
 	state = "Booting up the game"
 	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["https://github.com/Rebel459/legacies/blob/main/legacies-logo.png?raw=true"]
+	largeImageKey = ["https://github.com/CodionCA/"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Legacies"
+	largeImageText = "JSPCD 5"
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
@@ -40,9 +40,9 @@
 	#The second line of text under the app name
 	state = "Sitting in the Menu"
 	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["https://github.com/Rebel459/legacies/blob/main/legacies-logo.png?raw=true"]
+	largeImageKey = ["https://codionca.github.io/JSPCD5-2.0/.override/icon.png"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Legacies"
+	largeImageText = "JSPCD 5"
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
@@ -58,9 +58,9 @@
 	#The second line of text under the app name
 	state = "Searching for a server"
 	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["https://github.com/Rebel459/legacies/blob/main/legacies-logo.png?raw=true"]
+	largeImageKey = ["https://codionca.github.io/JSPCD5-2.0/.override/icon.png"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Legacies"
+	largeImageText = "JSPCD 5"
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
@@ -94,9 +94,9 @@
 	#The second line of text under the app name
 	state = "Joining Game"
 	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["https://github.com/Rebel459/legacies/blob/main/legacies-logo.png?raw=true"]
+	largeImageKey = ["https://codionca.github.io/JSPCD5-2.0/.override/icon.png"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Legacies"
+	largeImageText = "JSPCD 5"
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
@@ -112,9 +112,9 @@
 	#The second line of text under the app name
 	state = "Playing Singleplayer"
 	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["https://github.com/Rebel459/legacies/blob/main/legacies-logo.png?raw=true"]
+	largeImageKey = ["https://codionca.github.io/JSPCD5-2.0/.override/icon.png"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Legacies"
+	largeImageText = "JSPCD 5"
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
@@ -126,13 +126,13 @@
 	#Enable/Disable the Multi Player Event
 	enabled = true
 	#The first line of text under the app name
-	description = "Adventuring on %servername% with %players% players"
+	description = "%servername% with %players% players"
 	#The second line of text under the app name
 	state = "Playing Multiplayer"
 	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["https://github.com/Rebel459/legacies/blob/main/legacies-logo.png?raw=true"]
+	largeImageKey = ["https://codionca.github.io/JSPCD5-2.0/.override/icon.png"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Legacies"
+	largeImageText = "JSPCD 5"
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
@@ -160,13 +160,13 @@
 
 [generic]
 	#The first line of text under the app name
-	description = "Playing Legacies"
+	description = "Playing JSPCD 5"
 	#The second line of text under the app name
 	state = ""
 	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["https://github.com/Rebel459/legacies/blob/main/legacies-logo.png?raw=true"]
+	largeImageKey = ["https://codionca.github.io/JSPCD5-2.0/.override/icon.png"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Legacies"
+	largeImageText = "JSPCD 5"
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered

@@ -14,7 +14,7 @@ hash = "ea7451d8bf8033ccae1c3d81e1ca0bcf3ae113777bbf1f9bcea38b1ca83b6651"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "8e63db3618c0e0f1f0e133c3f8e0acd2e6513e2745dd3c626c45ee22c89b66dc"
+hash = "3098cab681f6ea15a6ed9b5df911bd864729e8d0d302ece5d0eb7e8489abb0a5"
 
 [[files]]
 file = "config/EZCoords.properties"
@@ -1361,56 +1361,16 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "ef5070e18d8dbdf4ebea8998363e69cb451c8d8e53bf3aa9cb5e6bfc74f738b8"
 
 [[files]]
-file = "config/fancymenu/customization/legacies-changelog.txt"
-hash = "681088981e1983628b92a5d3dafb4a7bbe30f5b968830ab95f6508a21d6a7f72"
-
-[[files]]
-file = "config/fancymenu/customization/legacies-controller.txt"
-hash = "dab755c96c804db5c85da5df486834ab54f1aea720527f41d335b16cdabc5ee9"
-
-[[files]]
-file = "config/fancymenu/customization/legacies-controls.txt"
-hash = "733fdedc33b4d1464b6d20dce3a8965cc83bd176cd3029d37198ed05a3f93342"
-
-[[files]]
-file = "config/fancymenu/customization/legacies-death.txt"
-hash = "ede46fd3a7806dce7fe4d9876dac8b14e0f1fe604c5eb6cbf213e277e641eb11"
-
-[[files]]
-file = "config/fancymenu/customization/legacies-info.txt"
-hash = "72a09822b95377133bf5abfaeba8a571c834f246b128de76e59f33e78c71d220"
-
-[[files]]
-file = "config/fancymenu/customization/legacies-multiplayer.txt"
-hash = "a6434a2d58ab7d5f484ece46f738b261d6f6e9c2ddf5bced1b46233e9d1d5892"
-
-[[files]]
-file = "config/fancymenu/customization/legacies-options.txt"
-hash = "ef7815313db622a54fca254d399004697ec619c51f28e376c1a4272ddee6e2a4"
-
-[[files]]
-file = "config/fancymenu/customization/legacies-pause.txt"
-hash = "b7026545431821829719b315e4f23d93e3898d82a072910982bad2b45384fb1f"
-
-[[files]]
-file = "config/fancymenu/customization/legacies-vr.txt"
-hash = "54a124f74747645101dcfaf0121a99ef3afec0644308091372dfbc71d440ac0b"
-
-[[files]]
-file = "config/fancymenu/customization/legacies.txt"
-hash = "4e5005382df3b4fd7b0cd66152225638fa01f011857623582c5d8965f6c5433c"
-
-[[files]]
 file = "config/fancymenu/customization/modconfig_layout.txt"
 hash = "e8d1097320561dfad94f56719aa8797f0b3534e2ea62e6b9185bb309d61e6b5d"
 
 [[files]]
 file = "config/fancymenu/customization/multiplayer.txt"
-hash = "c8608706c4cb1cc9a9c625d8aa3393d47066d23f71028f459fc2c8da75d8651a"
+hash = "df929ed4a54520af8f5deae4f79720cd3fd0b67be293fcd588c64d6e2a690474"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "416b2f4fa746f0b2501451cf4798540c5c538c55d5f5db7260ca51b99d934dd4"
+hash = "734b76d30e00bc51d71422de7999c7761b16ca935288ca074f21a547a3da4584"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -1454,7 +1414,7 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "e9432482e82df96fbefeea2de06995de0ab15a7f318b02748013bae32c2873b3"
+hash = "f47ccf8a590da12fd53778d492f0e1458ff7bfcfeb0b1537774924f9a3fe723d"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -1466,7 +1426,7 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "2b0a6d77049df02801165f5591c37ff40f429438cd9cdec93342f43016c06664"
+hash = "102bea58e92872e68412b335056d7f5b016b1fffbe55a88f78fba82e598403e1"
 
 [[files]]
 file = "config/farmersdelight.json"
@@ -2618,7 +2578,7 @@ hash = "17b07ca5f6758448c4c2effbe9cb9f7b2b534c83b1287b5b751c3bbe4f74f2d0"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
-hash = "80f1fefdf07faee64028d4b5c6aac019640c2eee12c2e606a87b830ca41305f4"
+hash = "a37348da7d4eec384cfef23f4d256c0dd0f25b31c228c73e548513c46d5f56dd"
 
 [[files]]
 file = "config/simple_copper_pipes.json5"
@@ -2790,11 +2750,11 @@ hash = "368b8c66caf4b6c39ce4b9b2c82bdf05d56acfc31c3a632e7b741b15b28b4b14"
 
 [[files]]
 file = "config/supplementaries-client.json"
-hash = "891d46e131879c0ad86d09bf21486a63e069ac06534b0412595030cdafc44b58"
+hash = "7585476542aec48d7cda76663818deb7aad939d58364ed589939d1edd404c72b"
 
 [[files]]
 file = "config/supplementaries-common.json"
-hash = "6f736fd1fd49acaa4a0ff5df77dbe9bebf22a11312f292baab658733d075e2a0"
+hash = "459ed674240a7700d502665e2cd9483ad7d2ddd7a8730aafb4051884eda3f154"
 
 [[files]]
 file = "config/swampier_swamps.json5"
@@ -5532,11 +5492,6 @@ hash = "92c90c30edf48fe654e6bbf600b1533f8a391205457b6ca770fc6369d0e8f3f1"
 metafile = true
 
 [[files]]
-file = "mods/corgilib.pw.toml"
-hash = "b71862d4b06835aeadb56ecd0e47acff5e10b2bf6be259c7cc95dfb2a1747bcc"
-metafile = true
-
-[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "17d588c49f6c3bf2ad659c6d3fe073704a6e15c34bf69f70109a6b762e6ea0c3"
 metafile = true
@@ -5709,11 +5664,6 @@ hash = "89cbb5954354a2819dbb46601197aa4cb991f3936ba5b8a142a17dbfff2ac263"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-surroundings-fabric-edition.pw.toml"
-hash = "b4b05c61cafbf7efeef3aaf32e7b7f0aa0ad69f4ac7c18fb3da062b9d0c4c373"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-textures.pw.toml"
 hash = "dab8e8993c659c38d3eda4e20ec680455b9c4f9933fd0f3322c315ceda2587a0"
 metafile = true
@@ -5796,11 +5746,6 @@ metafile = true
 [[files]]
 file = "mods/enhanced-block-entities.pw.toml"
 hash = "de33a63b6e7182dc3229d77c95c118cdc2ad64321ae4fc16d16a23a3b34e746b"
-metafile = true
-
-[[files]]
-file = "mods/enhanced-celestials-fabric.pw.toml"
-hash = "c4e77d5d4cf42514e57aa8f005bd3637e482702314a14f226889b645ccf3b472"
 metafile = true
 
 [[files]]
@@ -6357,11 +6302,6 @@ hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
 metafile = true
 
 [[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "1b4f637283c0c4e87d642641338dee78b0357b97fbc62fe69911cee8d0b557dc"
-metafile = true
-
-[[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "7776c44ec1265a67bbba7cac2a3dfd9f6893ea670ee95ffb4ed94ef5bacdf8cc"
 metafile = true
@@ -6557,9 +6497,8 @@ hash = "0f4cbc95a3ba8b72b62fdae171933c59a6e4f87ec6e03b26e8d0dd2a0150f5ca"
 metafile = true
 
 [[files]]
-file = "mods/profundis.pw.toml"
-hash = "94dff715dd8bec21c61fb8f012394ca92bdc609200f195402be8a57e8539748a"
-metafile = true
+file = "mods/profundis-1.6.0-override.jar"
+hash = "cbc007a8b52bb93cf4f2d59c6c3980957e0d0714fc72f0192ee3071245c3e3cb"
 
 [[files]]
 file = "mods/progression-reborn-knives.pw.toml"
@@ -6855,11 +6794,6 @@ hash = "98ba24187f9a3ee47eaf0c88cfae1e5dd2d9e84d5f6c4adc4afeea3c8402b48b"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "1e086041b1176bd6aaf0ed9de79352b9382a06bab6368816bd2c16fae3e1b8f8"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "d5ed51699dd5358cabc504b6a553b290fd6578c9926ab14f29e14786d43b6b84"
 metafile = true
@@ -7055,11 +6989,6 @@ hash = "bae8f52b4209160aec2c7e24f3d35ea0266748de22aaf68491129f62aaf66f16"
 metafile = true
 
 [[files]]
-file = "mods/twigs.pw.toml"
-hash = "7b9d811345bc97947c0eb2eaa90871c1d22c733779797aa582be0afe7377066a"
-metafile = true
-
-[[files]]
 file = "mods/ui.pw.toml"
 hash = "03eb192887cf14bac08b0459f18ef4e650a92e967e563c82eb5661480dedbc1b"
 metafile = true
@@ -7236,7 +7165,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "331f013c371dc05a8bc87a6e3defb862952f7ac46a527c7786832f311a4707bd"
+hash = "bb9741f1b9b1547f4c85d8e43e34890f4035a1a4729e2d0efff1520d0234cf32"
 
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.9.zip"
@@ -7249,10 +7178,6 @@ hash = "50bfa5d5cc3d7b2dd14c3f92a3a5508809fd6da4122d8f135e406e4c99359052"
 [[files]]
 file = "resourcepacks/JadeStardewValleyTheme.zip"
 hash = "8e19db47cf978237aa581ac434a110cebb23dd174502f88e436826c76232ee18"
-
-[[files]]
-file = "resourcepacks/Simple Boss Bars-custom.zip"
-hash = "f034bd4cc69f5c098857427b356b81fc606d0648c76cdeb28117d339c7f25671"
 
 [[files]]
 file = "resourcepacks/Stylized Overlay`s.zip"
