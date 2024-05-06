@@ -5791,11 +5791,6 @@ hash = "1ee480a09d5d7abc21573634d6ef5f6e4c81da83010027eed84befba8acf1e53"
 metafile = true
 
 [[files]]
-file = "mods/enchantments-plus-fabric.pw.toml"
-hash = "77d2ac6d67f0210b13927dc027ecfd0f88bb95444002e8febfe5c6ccbabd3ac9"
-metafile = true
-
-[[files]]
 file = "mods/enchantments-plus.pw.toml"
 hash = "feb8561e937e413f063e6e3f0fd4f1eb0d1534413cb435d430c1334a5ab86771"
 metafile = true
@@ -5803,16 +5798,6 @@ metafile = true
 [[files]]
 file = "mods/enchanttweaker-1.4.7+mc1.20-1.20.1.jar"
 hash = "e504ef51b81bd67de78684668eb4e3c960c46de45c5b9003e120036ea14785cd"
-
-[[files]]
-file = "mods/end-reborn-expansion.pw.toml"
-hash = "1a0178736c7e56e08fab5b5d442d1433356534206b1ed35fedbd5037aef9ce27"
-metafile = true
-
-[[files]]
-file = "mods/end-reborn.pw.toml"
-hash = "edb584b444f78f30e28988dbc075c14402c141b256eedbedd965d7020c5218b8"
-metafile = true
 
 [[files]]
 file = "mods/enderman-overhaul.pw.toml"
