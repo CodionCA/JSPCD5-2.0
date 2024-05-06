@@ -5473,6 +5473,11 @@ file = "mods/chrysalis-0.1.8.jar"
 hash = "cf30cd32943ace4127c4eb46a9300c0c7abfecc175ff5c38a35e0254e3a1c845"
 
 [[files]]
+file = "mods/chrysalis.pw.toml"
+hash = "36890c7cebf455df60737facf2859592f2dbcf5bd4ee7b69b85d7ad6bfd19896"
+metafile = true
+
+[[files]]
 file = "mods/chunky-border.pw.toml"
 hash = "478088eb9de758c7095e07f9be80eb2708552b2d2262a604a4d87f7873a0a77d"
 metafile = true
@@ -5494,7 +5499,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
@@ -5694,7 +5699,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "a3848973e04ba0bb924983e871236e8685057442dd45cabe690b2faa9356384a"
+hash = "82172ab85179efa72adddb64a2b406832e039284270efd87e491c237cb912f9b"
 metafile = true
 
 [[files]]
@@ -5791,12 +5796,22 @@ hash = "77d2ac6d67f0210b13927dc027ecfd0f88bb95444002e8febfe5c6ccbabd3ac9"
 metafile = true
 
 [[files]]
+file = "mods/enchantments-plus.pw.toml"
+hash = "feb8561e937e413f063e6e3f0fd4f1eb0d1534413cb435d430c1334a5ab86771"
+metafile = true
+
+[[files]]
 file = "mods/enchanttweaker-1.4.7+mc1.20-1.20.1.jar"
 hash = "e504ef51b81bd67de78684668eb4e3c960c46de45c5b9003e120036ea14785cd"
 
 [[files]]
 file = "mods/end-reborn-expansion.pw.toml"
 hash = "1a0178736c7e56e08fab5b5d442d1433356534206b1ed35fedbd5037aef9ce27"
+metafile = true
+
+[[files]]
+file = "mods/end-reborn.pw.toml"
+hash = "edb584b444f78f30e28988dbc075c14402c141b256eedbedd965d7020c5218b8"
 metafile = true
 
 [[files]]
@@ -5860,7 +5875,7 @@ hash = "253398850f0a85936de6b2cbcc7b889d4a84433cee5fb782ca3b205689183d4f"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f65351f79286f2471e3f1954a92940649a7b106667eae8d314ce04c649e043b3"
+hash = "f957e7280d9bae7569829edcaff25b0ba05ddb029d24f4ea53bdfb0a79615fad"
 metafile = true
 
 [[files]]
@@ -6123,11 +6138,6 @@ file = "mods/iris-mc1.20.1-1.6.11.jar"
 hash = "4e09d0fb24cf16c4f3e651d172071fc5a4ddadd157a02ce74c9a520de4553c2b"
 
 [[files]]
-file = "mods/irisshaders.pw.toml"
-hash = "017c5e0517c68941f3d996b94f3d5771f5af764d8e918623bac12a6e3b0012b7"
-metafile = true
-
-[[files]]
 file = "mods/item-borders-fabric.pw.toml"
 hash = "82172c8f35bb42c0ba674a2d13faeea87d611036c51b174eacd55a8b0a8dbb91"
 metafile = true
@@ -6208,12 +6218,7 @@ metafile = true
 
 [[files]]
 file = "mods/legacies-and-legends.pw.toml"
-hash = "d99ac4b57d59452af15a5a5b920a7950dbfec1196cf92a97765f54b5341cfa77"
-metafile = true
-
-[[files]]
-file = "mods/legacies-ns-core.pw.toml"
-hash = "f750c51dfe37307a60cecc9929c0437e3a8e573b877d75edfe8f9077546dea1d"
+hash = "53c3ba7b38a156747dd057d7df1f40511dbb946f8ea70669e1099c0b0eeb7043"
 metafile = true
 
 [[files]]
@@ -6379,8 +6384,13 @@ hash = "32604d7a78b6eea1532e89a2ad6536818a65d64f5ac894dab4f2fda21778c2e6"
 metafile = true
 
 [[files]]
+file = "mods/morebricks.pw.toml"
+hash = "1f8a8308d47314206cde63901b21799b320a4a478f80816c5172c53ae52ae6ef"
+metafile = true
+
+[[files]]
 file = "mods/morebricksplus.pw.toml"
-hash = "3d923dfc5b655ed1f3a419d6d3ac094dba1bcd8730840afc114ca4cc486b72f9"
+hash = "877f6a7f442e1124907e48c2803f3474153723ea4c8ea7025d556739a32434a0"
 metafile = true
 
 [[files]]
@@ -6409,7 +6419,7 @@ metafile = true
 
 [[files]]
 file = "mods/muffins-slime-golem.pw.toml"
-hash = "61d03c7857ceb9badf4ea42f79c7619a86855f0603056b7db11ad558ccdbe44d"
+hash = "ee3b2e247b0167a036e066e65295ab6a4292446cee4f3cacb20b7d0f64c40e0e"
 metafile = true
 
 [[files]]
@@ -6475,7 +6485,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "f13cd411d017440ee22407cc05866276c8ff31a6b163df07d12168bd95619bdb"
+hash = "c737bdfd6940736f88cd39065a0193ba70637a560fbce4389e59f67d72813209"
 metafile = true
 
 [[files]]
@@ -6602,12 +6612,12 @@ hash = "cbc007a8b52bb93cf4f2d59c6c3980957e0d0714fc72f0192ee3071245c3e3cb"
 
 [[files]]
 file = "mods/progression-reborn-knives.pw.toml"
-hash = "ef0923df5e3ebfdc19a90fb9bcbde6775c96e7ea6dd071ecba641908245eadbf"
+hash = "71c1243bf96fda74bc4a13a5c5bf5fa29cd62104f147ca5772dee37a6287fb48"
 metafile = true
 
 [[files]]
 file = "mods/progression-reborn.pw.toml"
-hash = "e9c2d851d7009af28a757d4bd96205c9b4979672dbf0f74a5ae1cfd7020eb2fa"
+hash = "7f1c7fd2e0830c3aca822a5b27116de9d3ace5de856a25b5f5d0784421b14dd6"
 metafile = true
 
 [[files]]
@@ -6681,7 +6691,7 @@ metafile = true
 
 [[files]]
 file = "mods/reimagined-trims.pw.toml"
-hash = "cd72b7ac47ab5e5c4da0a14a09d8f86545a009a5bb262ce3e5147a80072b5641"
+hash = "416ed064c8533803905d539632c321749e6850453454200874e0b4487cd983aa"
 metafile = true
 
 [[files]]
@@ -6700,12 +6710,12 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "2937f8044610c554d49b4617210885a76d3f81cb9325a36dba6bfbd131cc45ab"
+hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
 metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "599d100f81518391514f51b9eec1ead455e9f7e622dd1a3b78009a76bf2b631f"
+hash = "ed3cf45b08dcd6ba3259a7adcc1940fbccfbf4ade1da616d3c4244f17c7f74b2"
 metafile = true
 
 [[files]]
@@ -6876,7 +6886,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "03120897f0dd10a4139a0a36aa0cfe854346be72d056fa9f42a7019098820576"
+hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
 metafile = true
 
 [[files]]
@@ -6951,7 +6961,7 @@ metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "a9434882f6cd388eefcb74b86bbdc199f375f8420c7e01bcdd4b55d274931603"
+hash = "9539d0c5cc10592bc791b9feb173f5d29340f404b83ca1bdd8ab21bca7afb2df"
 metafile = true
 
 [[files]]
@@ -7019,7 +7029,7 @@ metafile = true
 
 [[files]]
 file = "mods/tidal-towns.pw.toml"
-hash = "235845116a1240c584acb8da96e1252a0b366aec338f0f37e524abcc9737572b"
+hash = "b47c07f5182af99016791a7008a241cd19442cb9e993cd56f5f90961a5f1375f"
 metafile = true
 
 [[files]]

@@ -3,11 +3,11 @@ filename = "progression-reborn-knives-1.3.10.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/V45JL0Gs/versions/G36OFgMb/progression-reborn-knives-1.3.10.jar"
 hash-format = "sha1"
 hash = "544679f85e67b2d36b328a2fbc5a4cc8a799e98a"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5100342
-project-id = 959551
+[update.modrinth]
+mod-id = "V45JL0Gs"
+version = "G36OFgMb"

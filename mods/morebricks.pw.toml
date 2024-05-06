@@ -1,0 +1,13 @@
+name = "MoreBricks"
+filename = "morebricks-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/28Z4jb8Q/versions/D7ibJZIQ/morebricks-1.0.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "6e5ca7b4161e2f8f6aa0b6839f08f3c4039806b5"
+
+[update]
+[update.modrinth]
+mod-id = "28Z4jb8Q"
+version = "D7ibJZIQ"

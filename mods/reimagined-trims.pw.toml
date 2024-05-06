@@ -3,11 +3,11 @@ filename = "reimagined-trims-1.0.3.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/Go9Vr0TE/versions/HpOkp0sa/reimagined-trims-1.0.3.jar"
 hash-format = "sha1"
 hash = "b910beac8a41a7323ab34609190f2b7b12169e08"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5016541
-project-id = 959528
+[update.modrinth]
+mod-id = "Go9Vr0TE"
+version = "HpOkp0sa"
