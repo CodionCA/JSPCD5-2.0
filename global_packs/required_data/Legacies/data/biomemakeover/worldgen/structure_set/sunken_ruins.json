@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "biomemakeover:sunken_ruin",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "spacing": 32,
+    "separation": 14,
+    "spread_type": "linear",
+    "salt": 420,
+    "type": "minecraft:random_spread"
+  }
+}

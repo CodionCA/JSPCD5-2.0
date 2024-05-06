@@ -1,0 +1,45 @@
+{
+  "music.dragon": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/end/boss",
+        "stream": true
+      },
+      {
+        "name": "legacies:music/end/minecraft_end_remix",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "legacies:music/end/sweden_end_remix",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "true_ending:dragon",
+        "stream": true,
+        "volume": 0.5
+      }
+    ]
+  },
+  "music.end": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/end/end",
+        "stream": true,
+        "weight": 3
+      },
+      {
+        "name": "legacies:music/end/only_the_beginning",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "dynmus:music/end/creative3",
+        "stream": true
+      }
+    ]
+  }
+}

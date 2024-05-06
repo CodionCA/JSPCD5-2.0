@@ -1,0 +1,368 @@
+{
+  "music_end_crystal_peaks": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "legacies:music/end/only_the_beginning",
+        "stream": true
+      },
+      {
+        "name": "legacies:music/exclusive/voide",
+        "stream": true
+      },
+      {
+        "name": "music/game/end/end",
+        "stream": true
+      }
+    ]
+  },
+  "music_end_the_end": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/end/end",
+        "stream": true
+      }
+    ]
+  },
+  "music_end_shadowlands": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "dynmus:music/end/creative3",
+        "stream": true
+      },
+      {
+        "name": "music/game/end/end",
+        "stream": true,
+        "weight": 3
+      },
+      {
+        "name": "legacies:music/end/only_the_beginning",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "legacies:music/end/vacuum_decay",
+        "stream": true
+      }
+    ]
+  },
+  "music_end_void_barrens": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/end/end",
+        "stream": true
+      },
+      {
+        "name": "legacies:music/end/only_the_beginning",
+        "stream": true
+      },
+      {
+        "name": "legacies:music/end/vacuum_decay",
+        "stream": true
+      }
+    ]
+  },
+  "music_overworld_dark_forest": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "legacies:music/creative/stolen_grid",
+        "stream": true,
+        "volume": 0.7,
+        "weight": 3
+      },
+      {
+        "name": "legacies:music/overworld/814",
+        "stream": true
+      },
+      {
+        "name": "legacies:music/overworld/burning_konkrete",
+        "stream": true
+      },
+      {
+        "name": "legacies:music/overworld/cliff_hanger",
+        "stream": true
+      },
+      {
+        "name": "music/game/bromeliad",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/calm1",
+        "stream": true
+      },
+      {
+        "name": "music/game/calm2",
+        "stream": true
+      },
+      {
+        "name": "music/game/calm3",
+        "stream": true
+      },
+      {
+        "name": "music/game/comforting_memories",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/floating_dream",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/hal1",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal2",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal3",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal4",
+        "stream": true
+      },
+      {
+        "name": "music/game/left_to_bloom",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/nuance1",
+        "stream": true
+      },
+      {
+        "name": "music/game/nuance2",
+        "stream": true
+      },
+      {
+        "name": "music/game/one_more_day",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/piano1",
+        "stream": true
+      },
+      {
+        "name": "music/game/piano2",
+        "stream": true
+      },
+      {
+        "name": "music/game/piano3",
+        "stream": true
+      },
+      {
+        "name": "music/game/swamp/aerie",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/swamp/firebugs",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/swamp/labyrinthine",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music_overworld_snowy": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "legacies:music/overworld/814",
+        "stream": true
+      },
+      {
+        "name": "legacies:music/overworld/albeit",
+        "stream": true
+      },
+      {
+        "name": "legacies:music/overworld/cliff_hanger",
+        "stream": true
+      },
+      {
+        "name": "legacies:music/overworld/fall",
+        "stream": true
+      },
+      {
+        "name": "music/game/calm1",
+        "stream": true
+      },
+      {
+        "name": "music/game/calm2",
+        "stream": true
+      },
+      {
+        "name": "music/game/calm3",
+        "stream": true
+      },
+      {
+        "name": "music/game/comforting_memories",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/floating_dream",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/hal1",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal2",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal3",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal4",
+        "stream": true
+      },
+      {
+        "name": "music/game/left_to_bloom",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/nuance1",
+        "stream": true
+      },
+      {
+        "name": "music/game/nuance2",
+        "stream": true
+      },
+      {
+        "name": "music/game/one_more_day",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/piano1",
+        "stream": true
+      },
+      {
+        "name": "music/game/piano2",
+        "stream": true
+      },
+      {
+        "name": "music/game/piano3",
+        "stream": true
+      }
+    ]
+  },
+  "music_game_hills": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "legacies:music/overworld/814",
+        "stream": true
+      },
+      {
+        "name": "legacies:music/overworld/albeit",
+        "stream": true
+      },
+      {
+        "name": "legacies:music/overworld/cliff_hanger",
+        "stream": true
+      },
+      {
+        "name": "legacies:music/overworld/kall",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "name": "legacies:music/overworld/ravine",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "music/game/a_familiar_room",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/calm1",
+        "stream": true
+      },
+      {
+        "name": "music/game/calm2",
+        "stream": true
+      },
+      {
+        "name": "music/game/calm3",
+        "stream": true
+      },
+      {
+        "name": "music/game/comforting_memories",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/floating_dream",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/hal1",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal2",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal3",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal4",
+        "stream": true
+      },
+      {
+        "name": "music/game/left_to_bloom",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/nuance1",
+        "stream": true
+      },
+      {
+        "name": "music/game/nuance2",
+        "stream": true
+      },
+      {
+        "name": "music/game/one_more_day",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/piano1",
+        "stream": true
+      },
+      {
+        "name": "music/game/piano2",
+        "stream": true
+      },
+      {
+        "name": "music/game/piano3",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:flame",
+    "minecraft:fire_aspect",
+    "minecraft:infinity",
+    "minecraft:lure",
+    "minecraft:frost_walker",
+    "minecraft:looting",
+    "minecraft:fortune",
+    "minecraft:luck_of_the_sea",
+    "minecraft:mending",
+    "minecraft:respiration",
+    "minecraft:feather_falling",
+    "minecraft:thorns",
+    "minecraft:channeling",
+    "minecraft:riptide",
+    "minecraft:soul_speed",
+    "minecraft:swift_sneak",
+    "enchantery:soulbound",
+    "enchantmentsplus:flashforge",
+    "charm:aerial_affinity",
+    "extra_enchantments:burning_thorns",
+    "extra_enchantments:electrifying_shot",
+    "extra_enchantments:experience_catalyst",
+    "extra_enchantments:freezing_aspect",
+    "extra_enchantments:freezing_thorns",
+    "extra_enchantments:incandescent",
+    "extra_enchantments:levitational_shot"
+  ]
+}

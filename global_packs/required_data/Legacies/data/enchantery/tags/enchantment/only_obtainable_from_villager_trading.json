@@ -1,0 +1,24 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:blast_protection",
+    "minecraft:projectile_protection",
+    "minecraft:fire_protection",
+    "minecraft:aqua_affinity",
+    "minecraft:bane_of_arthropods",
+    "minecraft:smite",
+    "minecraft:sweeping",
+    "minecraft:knockback",
+    "minecraft:punch",
+    "minecraft:multishot",
+    "minecraft:quick_charge",
+    "minecraft:loyalty",
+    "minecraft:silk_touch",
+    "minecraft:depth_strider",
+    "guarding:pummeling",
+    "guarding:barbed",
+    "extra_enchantments:illagers_bane",
+    "extra_enchantments:supercharge",
+    "supplementaries:stasis"
+  ]
+}

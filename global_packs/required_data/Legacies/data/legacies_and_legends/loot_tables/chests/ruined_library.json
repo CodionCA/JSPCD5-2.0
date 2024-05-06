@@ -1,0 +1,148 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 3.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:book",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:compass",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:clock",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 7.0,
+                "min": 2.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:paper",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:book",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "enchantments": [
+                "minecraft:unbreaking",
+                "minecraft:efficiency",
+                "minecraft:sharpness",
+                "minecraft:protection",
+                "minecraft:power",
+                "minecraft:unbreaking",
+                "minecraft:quick_charge",
+                "minecraft:fortune",
+                "minecraft:knockback",
+                "minecraft:loyalty"
+              ]
+            }
+          ]
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 8.0,
+        "min": 4.0
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 40
+        },
+        {
+          "type":"item",
+          "name":"minecraft:written_book",
+          "weight":30,
+          "functions":[
+             {
+                "function":"set_nbt",
+                "tag":"{pages:['{\"text\":\"Tales are told of a great Library, hidden in the long-lost strongholds of the world. These libraries contained powerful books of words so strong they imbue unimaginable power into those that wield them. It is said that these Libraries were filled with the knowledge of times
+\"}',
+'{\"text\":\"long since past, but now, these once-mighty strongholds and their libraries have since vanished into the depths of the past, with these few remaining remnants all that remains of the old world.
+                
+
+                                \"}'],title:\"Memories\",author:\"Minecraft\"}"
+             }
+          ]
+       },
+       {
+         "type":"item",
+         "name":"minecraft:written_book",
+         "weight":30,
+         "functions":[
+            {
+               "function":"set_nbt",
+               "tag":"{pages:['{\"text\":\"Libraries were once a place of great power, scattered across the lands. While most were lost to the old world, these surviving remnants still contain valuable knowledge, and carry on the legacies of the past.
+               
+\"}'],title:\"Legacies\",author:\"Minecraft\"}"
+            }
+         ]
+      }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 75
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legacies_and_legends:disc_fragment_far_lands",
+          "weight": 25
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "legacies_and_legends:chests/ruined_library"
+}
