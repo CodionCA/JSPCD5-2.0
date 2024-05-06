@@ -3603,11 +3603,6 @@ hash = "505f89da0af64879da1886bc0eb282ee13a4ae032aaa61a899a4a0a83f15dd6e"
 metafile = true
 
 [[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "e853b0a08068b6cdaa7f84702b71b336c0fdedc3ea84642ea095d05b3796a05d"
-metafile = true
-
-[[files]]
 file = "mods/antixray.pw.toml"
 hash = "e29bebc1e1ec078a95dae84f33bdbbc644b3c6ea08b3ca93f391ebcfe6124162"
 metafile = true
