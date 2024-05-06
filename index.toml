@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "ServerG1GC.txt"
+hash = "45c6678b25a1a1b28c0ede59ecbd2ffd90ce88f530a6aa6f23701a66cc3cb579"
+
+[[files]]
 file = "config/.puzzle_cache/mojangstudios.png"
 hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
 
@@ -4719,38 +4723,6 @@ hash = "8ac1ad6d08a73693d59d1854f79f6ee285d1797cddb993f8287f2485172e7181"
 [[files]]
 file = "datapacks/Legacies/data/tlc/loot_tables/chests/biblio.json"
 hash = "4cc8b6a92ccf8696cda0238efebdfea841eae6accb0b7f90f51e4ae686de7c17"
-
-[[files]]
-file = "datapacks/Legacies/data/twigs/recipes/allium_paper_lantern.json"
-hash = "825fe3d569cf2da1ba288b7863f0ca3e92e460561a279579afe11401a6eeb0ad"
-
-[[files]]
-file = "datapacks/Legacies/data/twigs/recipes/blue_orchid_paper_lantern.json"
-hash = "825fe3d569cf2da1ba288b7863f0ca3e92e460561a279579afe11401a6eeb0ad"
-
-[[files]]
-file = "datapacks/Legacies/data/twigs/recipes/cracked_polished_tuff_bricks.json"
-hash = "825fe3d569cf2da1ba288b7863f0ca3e92e460561a279579afe11401a6eeb0ad"
-
-[[files]]
-file = "datapacks/Legacies/data/twigs/recipes/crimson_roots_paper_lantern.json"
-hash = "825fe3d569cf2da1ba288b7863f0ca3e92e460561a279579afe11401a6eeb0ad"
-
-[[files]]
-file = "datapacks/Legacies/data/twigs/recipes/dandelion_paper_lantern.json"
-hash = "825fe3d569cf2da1ba288b7863f0ca3e92e460561a279579afe11401a6eeb0ad"
-
-[[files]]
-file = "datapacks/Legacies/data/twigs/recipes/paper_lantern.json"
-hash = "825fe3d569cf2da1ba288b7863f0ca3e92e460561a279579afe11401a6eeb0ad"
-
-[[files]]
-file = "datapacks/Legacies/data/twigs/worldgen/placed_feature/azalea_flowers.json"
-hash = "b487a941dd2813ce5e6003c52c174f75ce2560d0d8d52bf1c463aa1b3e65e542"
-
-[[files]]
-file = "datapacks/Legacies/data/twigs/worldgen/structure_set/bloodstone_obelisk.json"
-hash = "1d345edb6b326975441aabd00be8fd34508bd694cd48235d4077cc3a191bbfd9"
 
 [[files]]
 file = "datapacks/Legacies/data/wilderwild/separated_leaves/baobab.json"
