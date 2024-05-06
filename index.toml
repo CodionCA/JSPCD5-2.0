@@ -5948,7 +5948,7 @@ hash = "995ae1021d370d3b5abd6b805db488f93d6678874ecaa0816d41f15329dffe30"
 
 [[files]]
 file = "mods/inertiaanticheat.pw.toml"
-hash = "dfd0ccee152dcb5fcb2343452af5b761520b67d892e27c73b9a362e1d53dd477"
+hash = "468fb6af80a593ac8f15eaac3e0cb5c6638ee46bb99e02390b71528a8a523a39"
 metafile = true
 
 [[files]]
@@ -6003,16 +6003,6 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "c5b4553ad9250281b03636917cd21c26a0e58aa49d88712dac5750cacdf9cb66"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "b5b076663f62cfb0c3d8ee8e304711d6fbfa043f72a4706dc88edb927da6f046"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "f3a2939a893321067f5700c2e25c0c48fc1f9d39dd925449865c90597d65df1b"
 metafile = true
 
 [[files]]

@@ -1,13 +1,14 @@
 name = "Inertia Anti Cheat"
-filename = "InertiaAntiCheat-0.0.7.2+1.20.1.jar"
+filename = "InertiaAntiCheat-0.0.7+1.20.1.jar"
 side = "both"
+pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/ljWczies/versions/hzjVMjzN/InertiaAntiCheat-0.0.7.2%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/ljWczies/versions/X7SzsXMH/InertiaAntiCheat-0.0.7%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "d701a58819485e5d5439bda4f1d18247692e020c"
+hash = "6540f47bf666cfd7b2a6927da86f3b9fbc59ad81"
 
 [update]
 [update.modrinth]
 mod-id = "ljWczies"
-version = "hzjVMjzN"
+version = "X7SzsXMH"
