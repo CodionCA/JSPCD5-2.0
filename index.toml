@@ -3549,1490 +3549,6 @@ file = "emi.json"
 hash = "7ba434f205fe99c64bfd519fe548c8543c1ffbdacc1c43cb84ae20fdc711f148"
 
 [[files]]
-file = "global_packs/required_data/Dungeons and Taverns v3.1-custom.zip"
-hash = "e90232b66cc441c578a59d10c26bf32ecb131263cacfc1acee30f227fdb2c686"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/allthetrims/tags/items/whitelist.json"
-hash = "5a1d96e5f1601f446d8f9e05afe6b6f045dea418b554c4cd8703d5ef4427d9c4"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/archeologyplus/loot_tables/chests/desert_temple_library.json"
-hash = "20bfc1ac36ce0ec0c84002cba92936e1197f65179459d7e4057db43dd1b44fcc"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/archeologyplus/worldgen/structure_set/desert.json"
-hash = "faf56f08aa440c619ce9c7266dc993c19d4811edbb17e6462c2e5d928b96b137"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/archeologyplus/worldgen/structure_set/forest.json"
-hash = "c84b00ecb9fbc9876fdc5547151d564d685bb2e9883aff4ab35eba804ce3dfc6"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/archeologyplus/worldgen/structure_set/jungle.json"
-hash = "f282d82a0205011dcdc181878663961014448482cc7d373113649bbd092f98a0"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/betterdungeons/worldgen/structure_set/skeleton_dungeons.json"
-hash = "4626ab0c583f5fe1bd334aecc639b867ac30312c9393f95db30557a4c7af1772"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/betterdungeons/worldgen/structure_set/spider_dungeons.json"
-hash = "9d63e8185b40281f951bf1fbdaefd3d149c95de6ff81ab2b0ad4b8adb0a813fb"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/betterdungeons/worldgen/structure_set/zombie_dungeons.json"
-hash = "f3eeca4bd92b9a1321ce931343b31463aee3ecbe1c645b08a07dc6b51ab84afe"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/betteroceanmonuments/worldgen/structure_set/ocean_monument.json"
-hash = "4ca08636991a2375dfb80671273b9c14f9f4e2f9f126ae4e7438494681ca8c2e"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/biomemakeover/loot_tables/entities/pillager_additional.json"
-hash = "28fd312521f6d7bb74eca42d663f11ea7d8fc054d1c2fc57a7b590398d52ecfc"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/biomemakeover/loot_tables/entities/pillager_leader_additional.json"
-hash = "5ee908e33ef115845c411615377daf364cfb50ad166c5b208652d2e198dc275b"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/biomemakeover/loot_tables/ghost_town/loot_1.json"
-hash = "69760c2a949947c9cfbeccab2f4d53ab1f6c92d5042fc27ef1550fd705799dfc"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/biomemakeover/loot_tables/mansion/dungeon_good.json"
-hash = "9a068fc60e8c94e96073de3fe2cd07011d60cdc90bb1d0c9973108750737f47a"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/biomemakeover/loot_tables/mansion/good.json"
-hash = "fec13df96447636e11bee540896b9b0ae186959aae8991aef79229a7e43b256a"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/biomemakeover/loot_tables/pillager_outpost_additional.json"
-hash = "5edecc2c0e3cd9a8560df339c1af7e99211ffb704879be30dc4180375b42b7cb"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/biomemakeover/recipes/cladding_armor_upgrade_smithing_template.json"
-hash = "2139b740c9168639833b157b9f0e107237b8e8e033bf632d990cf0c7a7cd2fab"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/biomemakeover/separated_leaves/ancient_oak.json"
-hash = "5294092200d7cd1950d935f312f10bafe62a226733595f2921085ea09d8cc521"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/biomemakeover/separated_leaves/blighted_balsa.json"
-hash = "e1ac4b3293ed6d77c594bd0d61b1ed98d9705e96d7378f5c373a4cdd24a53317"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/biomemakeover/tags/blocks/crab_spawnable_on.json"
-hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/biomemakeover/tags/worldgen/biome/swamps.json"
-hash = "b8839f48ae416d869b04739f50bfccac6bcabab8e01aaa9c43f70a2ebd25db1d"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/biomemakeover/worldgen/placed_feature/badlands/surface_fossil.json"
-hash = "4fb44469886fc4d11425250b2402ef813e2693a6d7a4605477768fe67f81c734"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/biomemakeover/worldgen/placed_feature/mushroom_fields/blighted_balsa_trees.json"
-hash = "d89b07f8ffd2d04f3d73d055cd9e994d2c0e16e4784c14628fd1ca2dcd89f1e8"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/biomemakeover/worldgen/structure_set/ghost_towns.json"
-hash = "bc208bb704f7ab697e31df3790560cb2c242d5f9512aed6c3c26fcea11827344"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/biomemakeover/worldgen/structure_set/mushroom_houses.json"
-hash = "d5e9c8e76564ef5f52cd8b03d1de0c4352e2942333b7ec1efa72e11749aeff8f"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/biomemakeover/worldgen/structure_set/sunken_ruins.json"
-hash = "99d6a0e90b5a7be007a68599f65803316b3b7b02aeaef445f50b91c2b990a859"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/advancements/recipes/brewing/compound_brewing_stand.json"
-hash = "61411eda59779ce023a23f89db8f49169dabf6b3fdb58cd481198b70b50e0a75"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/advancements/recipes/brewing/potion_injector.json"
-hash = "d9a942a6ed973b9250530b85c0029b39a43a5e194e17882980da5f2c5fbece47"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/advancements/recipes/brewing/reinforced_cauldron.json"
-hash = "8097f18d7e63d00b70e7727ed7e9ed5e9ed64bdef9ef8945d1561f0eec8ab5ac"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/advancements/recipes/combat/potioneer_gauntlet.json"
-hash = "1207a5f8813f3221f06a77c2b6e089066c71bd3c858e8769504254d97c204e2d"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/advancements/recipes/combat/rudimentary_gauntlet.json"
-hash = "bb7c24137aa64b7731a022ec4ceb799fa4ea72ed1aaa1b559472f8abcdfce681"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/advancements/recipes/tools/aged_umbrella.json"
-hash = "7cf2986dbb40d1435dd1de112308de2c39bf4fcb87cb6b75196a55f5cb3e7a22"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/advancements/recipes/tools/black_umbrella.json"
-hash = "d4145645f92b18eafce646c57e13dd9fa1148c393e6e0f83486776173cb91d53"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/advancements/recipes/tools/blue_umbrella.json"
-hash = "dbf53d85106985b61f3abe7e3be23a0672e27ab052055337f75df658fd18d0a6"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/advancements/recipes/tools/brown_umbrella.json"
-hash = "224cabede295a55564d522c1247296350d29f211f94f04d65a884782298fe715"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/advancements/recipes/tools/cyan_umbrella.json"
-hash = "d7326edb5764aa4f1d21b03479738855062bfe39e80252e06ff2f111e9c72f43"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/advancements/recipes/tools/gilded_umbrella.json"
-hash = "73a95411571b1ecf6b3dcbf3711a3a833794ed6f0027d8afdea342701e3e2005"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/advancements/recipes/tools/gray_umbrella.json"
-hash = "3ed96ec2efc8ab37c85bd320175cb5b22e69f8113c7e439581bcf89b1417596d"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/advancements/recipes/tools/green_umbrella.json"
-hash = "80e388e5bb1183333510cca0b22021a2d116cd5025ec7592229a42bee2b67249"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/advancements/recipes/tools/light_blue_umbrella.json"
-hash = "fcbe5a66a81c3e22107aeae4a73ce5aebe4e2a35d1cad9d7cdb6584e1ed6e83a"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/advancements/recipes/tools/light_gray_umbrella.json"
-hash = "6859bbe840083e67012229ceb217f0fa7f2e2df997f08989b90a9019066bd2d3"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/advancements/recipes/tools/lime_umbrella.json"
-hash = "8395ff921f489d4c5bb6ce53eae33f0948a6c901d09ee7043eff97b3d267af4b"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/advancements/recipes/tools/magenta_umbrella.json"
-hash = "f7441e4b88cfb1b14d2d9cc30b3a1bf22358ccf7f5ddf4ed692e47ca56572a15"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/advancements/recipes/tools/orange_umbrella.json"
-hash = "7cb9339fc44817bb269678a50fc89a6f4cbe904254e940f509e15b9bef5fd809"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/advancements/recipes/tools/pink_umbrella.json"
-hash = "fcc46ebada2633b89d0cb6de75c3b5d6f17e39b04dfb8655d5e55a67ed1db293"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/advancements/recipes/tools/purple_umbrella.json"
-hash = "07553fd39b391fb6c3afc837f24c48fa08cba5651c4623a7c9f057d11b7af7e8"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/advancements/recipes/tools/red_umbrella.json"
-hash = "5643d9363ea5e5f20567819f9884d0e01dd51e58e691c4b591616140fffe1049"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/advancements/recipes/tools/white_umbrella.json"
-hash = "db69dd2e516a20353ac50e52cc4df941ce83af0490915b43cd38e77f7b841b5f"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/advancements/recipes/tools/yellow_umbrella.json"
-hash = "6ff90f8db2a89b16c2c06968e826e6326bf3873105f9a9d4f61fb2c47011114c"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/loot_tables/blocks/compound_brewing_stand.json"
-hash = "25f4381a37acbc69ce6d04344015fbeb745a71bbb806e1f5ce455f1ecb9ebd9c"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/loot_tables/blocks/magic_lectern.json"
-hash = "c27cad38bf1c6aa790ffae8a9b10c57f91d29e4bf94213e513a40e32e6a29774"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/loot_tables/blocks/potion_injector.json"
-hash = "a3ff6db69646b7a1183aca115ff96f35d938df564e5e7fcff9b89167c662a221"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/loot_tables/blocks/reinforced_cauldron.json"
-hash = "6334b31661ea3b415f8c88da49aecd67b22853b4b5c6afc794bc308533d185e9"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/loot_tables/blocks/reinforced_water_cauldron.json"
-hash = "0166b57b2c8e8085142dcbd4fc570eb1f3052023a5aa3f5723d8104f8d659496"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/recipes/aged_umbrella.json"
-hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/recipes/black_umbrella.json"
-hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/recipes/blue_umbrella.json"
-hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/recipes/brown_umbrella.json"
-hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/recipes/cyan_umbrella.json"
-hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/recipes/gilded_umbrella.json"
-hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/recipes/gray_umbrella.json"
-hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/recipes/green_umbrella.json"
-hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/recipes/light_blue_umbrella.json"
-hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/recipes/light_gray_umbrella.json"
-hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/recipes/lime_umbrella.json"
-hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/recipes/magenta_umbrella.json"
-hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/recipes/orange_umbrella.json"
-hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/recipes/pink_umbrella.json"
-hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/recipes/potion_injector.json"
-hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/recipes/potioneer_gauntlet.json"
-hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/recipes/purple_umbrella.json"
-hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/recipes/red_umbrella.json"
-hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/recipes/rudimentary_gauntlet.json"
-hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/recipes/white_umbrella.json"
-hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/recipes/yellow_umbrella.json"
-hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/tags/items/blacklisted.json"
-hash = "40a6803c1c025892cc14c03131b5dcd4dc21d782717425eec6b7786b7c25412f"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/davespotioneering/tags/items/whitelisted.json"
-hash = "15eac2527cafc3f3bf0d59d5d33e8e5845c8e52b51e03a56b8f891aa47b806f1"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/ecologics/separated_leaves/coconut.json"
-hash = "34a8b98a653989716ffeeba6371a0d26c75c8d07a3eb6a675b544046332f2bec"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/enchantery/loot_tables/injects/bastion_bridge.json"
-hash = "b2479f106d0925c07157cdbb9d3c9e2639487aea93362b15c4c0dafb45ae7177"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/enchantery/loot_tables/injects/bastion_treasure.json"
-hash = "b2479f106d0925c07157cdbb9d3c9e2639487aea93362b15c4c0dafb45ae7177"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/enchantery/loot_tables/injects/end_city_treasure.json"
-hash = "b2479f106d0925c07157cdbb9d3c9e2639487aea93362b15c4c0dafb45ae7177"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/enchantery/loot_tables/injects/nether_bridge.json"
-hash = "b2479f106d0925c07157cdbb9d3c9e2639487aea93362b15c4c0dafb45ae7177"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/enchantery/loot_tables/injects/ruined_portal.json"
-hash = "b2479f106d0925c07157cdbb9d3c9e2639487aea93362b15c4c0dafb45ae7177"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/enchantery/overrides/loot_tables/abandoned_mineshaft.json"
-hash = "1dfe190a8e5adb80ccabd969f6e09fd9ea99b236aea44c17c3d883ab18baef71"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/enchantery/overrides/loot_tables/ancient_city.json"
-hash = "aa91a61799a34f5bbd7eeca495ae387d953f3256a100664af604ae987fa91377"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/enchantery/overrides/loot_tables/desert_pyramid.json"
-hash = "0403db209f49a49d5721359d34971e8b42a0778be4edb13c82ccde1e8b3188df"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/enchantery/overrides/loot_tables/jungle_temple.json"
-hash = "6c2502d83d624a584d8c21c2c882ef2ddcbaa3ecfe1e7f1d0f8824b7d56c2ef1"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/enchantery/overrides/loot_tables/piglin_bartering.json"
-hash = "da672107683af508bd70e5f4efac23044bb5437a9ebc18a4155b0dbbeba3d8bd"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/enchantery/overrides/loot_tables/pillager_outpost.json"
-hash = "edd9ecca78cb27a11eac04d9fe5ecfbca1d3b6f9fc5b4d1129beba199d819738"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/enchantery/overrides/loot_tables/simple_dungeon.json"
-hash = "9361aa52549267cc7a70e82e1630e64945b1e8a45f3bda0f39800b7eb975ddcc"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/enchantery/overrides/loot_tables/stronghold_corridor.json"
-hash = "92fc623341afecd06f43c8fdd7b953e45ccaaf565424e2ac819d69a5952cefe8"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/enchantery/overrides/loot_tables/stronghold_crossing.json"
-hash = "edc5415e8f879d197e9c453fe1917427de9b492085a30e0d7ccce04af651bd96"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/enchantery/overrides/loot_tables/stronghold_library.json"
-hash = "3e81a1c5cee4bc088cecf10d63e23228c5e2cda5df66d2974f8542e7f7372675"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/enchantery/overrides/loot_tables/underwater_ruin_big.json"
-hash = "62e4f5004e943d6fe668c4777301f8945402d687e5515d8be1b8290d86c6c2fd"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/enchantery/overrides/loot_tables/woodland_mansion.json"
-hash = "34e0c0ebee07b921882efdbeae8ac0d38a0cf3757c976a3f46f9817801d1b62a"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/enchantery/tags/enchantment/all_enchants_reference_file.json"
-hash = "0c71bf7432d70fc581e45a1ef58d74ce4be85aa42fc295490739bd26686d1dff"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/enchantery/tags/enchantment/always_obtainable_from_enchanting_table.json"
-hash = "dbfa9285bf71b9f1261fc67b4b199c6de622a1c38211abf1e23e118dec1887c4"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/enchantery/tags/enchantment/only_obtainable_from_villager_trading.json"
-hash = "0cf4be7b9c0b07c9cd125cac7d445199928890be821d39bcc0f305c60e4c7d5c"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/enchantery/tags/enchantment/treasure.json"
-hash = "b7b12b30c0cb65e01c5aafc147d0017f5b570df7059ee806aa469bdca644fda6"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/end_reborn/loot_tables/blocks/end_iron_ore.json"
-hash = "d4556d5c12451523415b3442cf5de9ea308da5c5e08c2b4c66bc9ee50ea00e1c"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/endermanoverhaul/loot_tables/entities/end_enderman.json"
-hash = "58c9c25b332de2dbc21fcd922a884ef4bf5054479be959189990424bc4c800ea"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/endermanoverhaul/recipes/corrupted_blade.json"
-hash = "320ebb5f06e58b9032f2c566e52523c5fbd286f0c072ce473758a9e6a40af97a"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/endermanoverhaul/recipes/corrupted_shield.json"
-hash = "10cfc86fb551bbfd9b83fd63e8ab33f79438647343b6c79845ed85734f3ff519"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/farmersdelight/loot_tables/inject/chests/abandoned_mineshaft.json"
-hash = "02ffe5f462bdc8e883010c65002b8c7139956fc3f5aabd46342370eb63057726"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/farmersdelight/loot_tables/inject/chests/shipwreck_supply.json"
-hash = "f1e60d7ab0b396f76ce4890bebd376f2dc69c8d30591b18e5f75d2f8e4f1e49e"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/farmersdelight/loot_tables/inject/chests/simple_dungeon.json"
-hash = "f42e799ca9f086f18255210a6069b01cae0a030501765ab3fccfc091bc9a9c1d"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/farmersdelight/recipes/iron_knife.json"
-hash = "e2de63daa3396849759fd78b698a047cd5749ba8cbc784acc0166dfe54b8afcf"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/farmersdelight/recipes/rope.json"
-hash = "6cb6c6fb8a6ac0981266a0eb5dd43745b7b93b97ff50f38cb7c532f7e89d97ba"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/farmersdelight/recipes/rope_from_safety_net.json"
-hash = "86cbd8c95cb3d4e3ea8072bb218ff416c31e7db158477828c3f8715b80af2c38"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/farmersdelight/recipes/safety_net.json"
-hash = "678afe2d178c92dbcad6b42a1a2490ac8076a23f90f3be1075c2bfd899109b49"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/friendsandfoes/worldgen/structure_set/citadel.json"
-hash = "120381c931d6d4bac5bb7d2180e2dff500d09771e26af0f5941d41391beaf908"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/friendsandfoes/worldgen/structure_set/iceologer_cabin.json"
-hash = "826a3e7d9fe4fb9340db0017844c1d5024d28ac22a6ed0ac50444610e6834483"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/friendsandfoes/worldgen/structure_set/illusioner_shack.json"
-hash = "4dc9e40ab1da4cf26d5b79d7c7363b1711642ce9f69ab9eaaff534b41a92e499"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/friendsandfoes/worldgen/structure_set/illusioner_training_grounds.json"
-hash = "2373617b3a2140aac9270c6fafcb54b0afc42930ee4a178fd173834ac6756b25"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/fwaystones/recipes/abyss_watcher.json"
-hash = "6bc9aa6e91acd90ff68310b5b3b44da722a3fc75c3ac55d6aa221ab3326478e1"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/gipples_galore/tags/worldgen/biome/extra_gipple_habitats.json"
-hash = "a60c92d15a8f35ad4a3b8ab5ac0323ca9cfc0b2878c97bfbb496bd0801b92dde"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/gipples_galore/worldgen/placed_feature/gipple_colony.json"
-hash = "c592100505eb089e2f081f943a3f872788f4384f6ba22ce598b6be17a7eef325"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/gipples_galore/worldgen/placed_feature/gipple_colony_common.json"
-hash = "b550824dadf9ac83cc8ea78543a83ca242801c3205759a6b8e76638ee0458f8a"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/guarding/recipes/netherite_shield_smithing.json"
-hash = "c1926e8f0c673662289c57203c61f341ce64e8043226103b6b0e201f9c084aaa"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/joshie/worldgen/structure_set/village_ocean.json"
-hash = "a39a1e69cd7d260b11eb4be299cc4fb75f256652dae42571f0266dff3e7c6c06"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/recipes/compass.json"
-hash = "8d27ac234ce96d1047df2cd3d9b6fa4c237546c959af1e6811653e2b0265ae50"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/structures/normal_house_blue.nbt"
-hash = "cf24227d6f1ec598434f1d40f201536f60313e753b10003d2ec1c31008f1f7c0"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/structures/normal_house_brown.nbt"
-hash = "590c74d09457fc02a4a120e12f7a4f947f48fb780fc8e7f2f2bb1e9797d010be"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/structures/normal_house_light_blue.nbt"
-hash = "628170ec8946d201335bdf07b6f735d8cfcbcc3a14adb88da8c934632e3e7c82"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/structures/normal_house_lime.nbt"
-hash = "ea8306a38116df12bb5d6405eaad97eeb983bc135b8157c55b208b11c885ca06"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/structures/normal_house_orange.nbt"
-hash = "045171db27bb2c7edfac19d1fa70af5fb9483f456f0da22b03bca40c32dfc473"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/structures/normal_house_red.nbt"
-hash = "d00b810383eb3a87fa21747502dc177043f4457a04ed951e253de53aecec2446"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/structures/waystone.nbt"
-hash = "08297030b1a83db3ce57d6cb3f3812dc4bd32ce239189d8d2248d33dd4fe3f79"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/tags/worldgen/biome/has_structure/normal_house.json"
-hash = "1664356815c7d828a43d083b593c9843fcfe831f8dc02f052f1d6d00d0fee11b"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/tags/worldgen/biome/has_structure/waystone.json"
-hash = "6a41432460760132511738f0d92cd03f531c8f31f202c73764d435e01723d547"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/configured_feature/ns_flower_default.json"
-hash = "a980e243f30ee78553cc349efc858c08184c33d64bc4b14546b3a86aee8cbfdd"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/configured_feature/ns_flower_flower_forest.json"
-hash = "0fe0515358fb95a02c55e16e5420a785585f305244fa4cc467315b06601100e5"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/configured_feature/ns_flower_meadow.json"
-hash = "a2c6cec8d84038365955979e48151226cbc3b3927c87942f4f11bb690453e332"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/configured_feature/ns_flower_plain.json"
-hash = "663b06a50d62eac0b3d2f338d69fbb30b699a3d6e65413c05b2bebdd509c3e11"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/configured_feature/ns_flower_warm.json"
-hash = "587a672dbde26d7668f41def324a39d71a85292d91e86e3aca06d793dc5c5d00"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/configured_feature/ns_forest_flowers.json"
-hash = "c2739a7ee20b45fadc73116724ca43880e14d20d6265a8009ca24c4377fc4f69"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/placed_feature/ns_flower_default.json"
-hash = "e40a6e1eb53cebad98b1b7d5cb9e35c61963bbc2fad229960d0b65bacf64819a"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/placed_feature/ns_flower_flower_forest.json"
-hash = "0b106bfcebac665d37d916c6dd2ddd7007677129040412876f7392aaf6df3a22"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/placed_feature/ns_flower_meadow.json"
-hash = "a6121dc64406e76f0bd0752fe2d631ecb1c2869214759f3f6ebe7cee67cb102c"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/placed_feature/ns_flower_plain.json"
-hash = "fd2091df8776ab46ada7f3df1bf1a4e0ccbbcfff28f8559bb1e5666ae02f7ce0"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/placed_feature/ns_flower_warm.json"
-hash = "97d5317fd4ac63b353d8796b2fc119254b9ef963d79e26718bea7a3852fb8858"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/placed_feature/ns_forest_flowers.json"
-hash = "405db10e313fa3d9bd4c00ebf2b41ca4f5f92ae6b3b827ea6a588ac4676a5bd7"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/processor_list/normal_house.json"
-hash = "7d9f026917bc1abe489335077aae6c599e1935908652e0e01e2d737fcf5c1e70"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/processor_list/waystone.json"
-hash = "e7e8429a8eaf10052a85d777338769df415c552c320a3dec3b6226daec5c3d3d"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/structure/normal_house_blue.json"
-hash = "e8a49c4106beeb653e59d70d5426302f007ff6144ce333100b4e6a650116d8b5"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/structure/normal_house_brown.json"
-hash = "95b186b74481705aa460226c05e3d72131747d7293d2bf7798fcbee901b2459b"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/structure/normal_house_light_blue.json"
-hash = "3a439506b7e241353f76a83cceb4eb012c4de3d05cf2689c85bee0fbb99df8ca"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/structure/normal_house_lime.json"
-hash = "2174f9556fa8494d1711a0c92e86522c6be9a2ab461fcf6ad9e1b2fce28440cd"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/structure/normal_house_orange.json"
-hash = "32a48b4e5612e11ad6e66bd7b6509b9abf5c5642ff57dfd91bd90e9a43f71670"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/structure/normal_house_red.json"
-hash = "e0a1dfc73e675618f19d10250ae1e917407e1bb9f1c864f84c6777e3176ec125"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/structure/waystone.json"
-hash = "b4f2e3a0fdcb457d57ffd5af29a08da5b7ce43efd24386fe17fefef005a013cd"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/structure_set/normal_house.json"
-hash = "9aaaffa78daaec4217a6bdd4b5e3f459d45e10d06b53e8b20119b771b9f665db"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/structure_set/waystone.json"
-hash = "7a6974028bce60d03af54ff6b3b83c9f97e6de3e85a78b67490e2add69fd56f5"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/template_pool/normal_house_blue.json"
-hash = "b8bc04c67e5df063cbe2a4d9dbb55f8c109dc52730fbe5f2a519ac1f09412631"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/template_pool/normal_house_brown.json"
-hash = "489765b4812b8befa93fce9f74e12370da1074b30d6ca8e4ec781f92a557300d"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/template_pool/normal_house_light_blue.json"
-hash = "2fdb41fee642757433bc935f2df3658447fe0b8938d3b866b07d32ef7ad1eff5"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/template_pool/normal_house_lime.json"
-hash = "fb55c541bc7243805bf89638bb1f13f98b5b32d35fd1c381fa974f4dc7485cf6"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/template_pool/normal_house_orange.json"
-hash = "0ce858958217912649eb00bff9bdb630e14fae135f2fb5b6fe31b8a206448676"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/template_pool/normal_house_red.json"
-hash = "b3fcc1aae7304580a4dc7e2e9a13600fafda9baa8a870d7275b0cef03d78e427"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies/worldgen/template_pool/waystone.json"
-hash = "9425cf43626103fb2148ccdf92fc331b32e3c4d9e2b05dd3ba714ac693fb7c5b"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies_and_legends/loot_tables/chests/cherry_ruins.json"
-hash = "fc64bc461721b3e7d252c3f9beee6521c96efcdb7c419c543b41776c107b4d85"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies_and_legends/loot_tables/chests/end_remnants.json"
-hash = "0e8a85aab47275d8f2595da189882df31e0661c34e5ba16e4727edba695f16dc"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies_and_legends/loot_tables/chests/end_ruins.json"
-hash = "1d9be0349b1e78a44be7244bcc328a0cddaf5208aa551910a604764374709df9"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies_and_legends/loot_tables/chests/ruined_aether_portal.json"
-hash = "6ca790d366b340e68e5f23ed1b941b55a8ce32d59ad0174590d0139f794dc850"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies_and_legends/loot_tables/chests/ruined_library.json"
-hash = "9b7ec96eea0468ec77ea1acff7c4f3cf6d1b30410307cf629bf50c4af27a089b"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies_and_legends/loot_tables/chests/ruins.json"
-hash = "47a5ae4c08cc95e9ff279d6bcb01974ae58c4d1effb88122a12711535193dd51"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies_and_legends/loot_tables/chests/sculk_ruins.json"
-hash = "fcd894bb9a3e39037fb8d5e632c03fc4943cf574e33fd37199df2b77ad36571a"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies_and_legends/loot_tables/chests/underground_remnants.json"
-hash = "560cceaaee87a61dcce15b62bc5a4f2a7f5c0a725c9740e5cd4f693e1e2ad5aa"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies_and_legends/worldgen/structure/ruined_aether_portal.json"
-hash = "95129c2a5067be7dde317b20736dc1abca5e69b79a2180177febc39b7da40208"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies_and_legends/worldgen/structure/ruined_aether_portal_2.json"
-hash = "1be562d70edd27b864865e4786f0465486742c5a7f8c05df8aad04dceb1f5008"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies_and_legends/worldgen/structure/ruined_aether_portal_crimson.json"
-hash = "7dc98bd65c31f6fa3e850b8ef8e6c4c61c74e7a81b010b6e008785db6e2dd872"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies_and_legends/worldgen/structure/ruined_aether_portal_warped.json"
-hash = "d474feb7c738b037b0433ac2ab252d2b5e0e151be12c149a2ec194a72a554272"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies_and_legends/worldgen/structure_set/end_remnants.json"
-hash = "a3fd2a224c409b4491370e0339918c7ec6377dcf821d5ae1f4113f0a75c89f32"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/legacies_and_legends/worldgen/structure_set/end_ruins.json"
-hash = "b79ff3b2bf0691a7186ef8b6dd108d74cb138c90dcde7c66347c09466fce03f0"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/dimension_type/overworld.json"
-hash = "fbb40bf397c674c8cdcda46cbe3d9fdc37d3e8bffbcd1c0f043203650ba54b41"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/loot_tables/archaeology/trail_ruins_rare.json"
-hash = "3632501e9113495b55d8d090fcc52c7eb7b0996d9b2946b66f31191a81aa848d"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/loot_tables/chests/abandoned_mineshaft.json"
-hash = "1dfe190a8e5adb80ccabd969f6e09fd9ea99b236aea44c17c3d883ab18baef71"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/loot_tables/chests/ancient_city.json"
-hash = "aa91a61799a34f5bbd7eeca495ae387d953f3256a100664af604ae987fa91377"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/loot_tables/chests/bastion_other.json"
-hash = "2a69b573dcf7f7a573468aaf0ab2063ed6b715ec26cb8012a9bff44fbfcb3db5"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/loot_tables/chests/bastion_treasure.json"
-hash = "cbafe050061f00cbfb12a9c9abc5cbc9629ee5316353043f0859af4c9937b380"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/loot_tables/chests/desert_pyramid.json"
-hash = "0403db209f49a49d5721359d34971e8b42a0778be4edb13c82ccde1e8b3188df"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/loot_tables/chests/end_city_treasure.json"
-hash = "6833e79a818c109ea5e01cf88bf0abeabc5e6c38a1722c823013cf7f72396ef4"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/loot_tables/chests/gameplay/piglin_bartering.json"
-hash = "da672107683af508bd70e5f4efac23044bb5437a9ebc18a4155b0dbbeba3d8bd"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/loot_tables/chests/igloo_chest.json"
-hash = "8b4f4b4c39d270f70a7ae37802a635253b7267b1a679b00b9d017fb0dbb99b9a"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/loot_tables/chests/jungle_temple.json"
-hash = "68f6392a862bf372e9c4128e8830bd656af4024f192def326a404e2c86d28e6e"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/loot_tables/chests/nether_bridge.json"
-hash = "d79d6bb534c93345e38ace7ad3fdc4642f65b81c91dc323a434964e550a7e71e"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/loot_tables/chests/pillager_outpost.json"
-hash = "edd9ecca78cb27a11eac04d9fe5ecfbca1d3b6f9fc5b4d1129beba199d819738"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/loot_tables/chests/ruined_portal.json"
-hash = "f98d74035b77dab48502fc053f99588c92c38a91c9edb2fcab5fcf0691036cf9"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/loot_tables/chests/shipwreck_treasure.json"
-hash = "d3c142a3d3e301704fb7f16dc46de8943a0a4a91086a98b31f682635d6cb1e25"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/loot_tables/chests/simple_dungeon.json"
-hash = "9361aa52549267cc7a70e82e1630e64945b1e8a45f3bda0f39800b7eb975ddcc"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/loot_tables/chests/stronghold_corridor.json"
-hash = "92fc623341afecd06f43c8fdd7b953e45ccaaf565424e2ac819d69a5952cefe8"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/loot_tables/chests/stronghold_crossing.json"
-hash = "edc5415e8f879d197e9c453fe1917427de9b492085a30e0d7ccce04af651bd96"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/loot_tables/chests/stronghold_library.json"
-hash = "3e81a1c5cee4bc088cecf10d63e23228c5e2cda5df66d2974f8542e7f7372675"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/loot_tables/chests/underwater_ruin_big.json"
-hash = "3038bf6ebe322d535c74a5eacf63a977f9a61fdbf03b0e8c283c52c1b68dd72c"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/loot_tables/chests/village/village_tannery.json"
-hash = "4374067cf7ad5b290449b4408600bfc6a5fcc834614819f019f6df2590478c3e"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/loot_tables/chests/village/village_weaponsmith.json"
-hash = "4058888fc9b889bb22feb528754e5ef141b69cea1dd9a6125f960f7fc71cac27"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/loot_tables/chests/woodland_mansion.json"
-hash = "34e0c0ebee07b921882efdbeae8ac0d38a0cf3757c976a3f46f9817801d1b62a"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/loot_tables/gameplay/fishing/treasure.json"
-hash = "0346038a204cccc7d1ae8259a531a4471af9e2c6b237edcf49e577a2d61851b7"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/recipes/compass.json"
-hash = "0412c2095ac02235c743466f4152fc139a947d1b75fcccd2ae2dfbaf83e3ce75"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/recipes/lodestone.json"
-hash = "834217aa0495bca02e5a5bc334ada3c9a3e419da385f214d89c813727581b4fd"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/recipes/netherite_gauntlet_smithing.json"
-hash = "7f73c64b920f294fca625928570c9fbd51d7334ae8c35e7046890a8aeee48253"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/recipes/recovery_compass.json"
-hash = "e5a5d86246579605d7e69ca3dee7c13a5c8ce9402d15addd4705ce6b46c9497c"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/separated_leaves/azalea.json"
-hash = "a6cbef68e0533d5592af2ed8c671aad0236d6e20f4e247570d18ba48643a7f76"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/trades/armorer.json"
-hash = "30addf1d24a2ae0d3a3628d0391690f24f99630ba9d874dd68912c8619ea598b"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/trades/farmer.json"
-hash = "e8855c56ec2a69c2098931f8034c3eb14cee11ff87abc4f6260e029f464242ce"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/trades/toolsmith.json"
-hash = "a6d6c942cc82a858ff16159eabbe10b40876ad0384880f994ed52e50a13025e5"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/trades/weaponsmith.json"
-hash = "bb8db5e0561f544791685a3c44edaf86167ee8041b2be9ebb42256286a90187c"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/biome/dark_forest.json"
-hash = "0829d454046eb87c6504b3ac90d32ab6dee1cd29e098ded87ac5cd415fcc50f9"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/biome/deep_frozen_ocean.json"
-hash = "ed0a0c958d1cd940e3337d664e991d7893f7ab2773209fe9901a47c22e0ce481"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/biome/frozen_ocean.json"
-hash = "82627e30069cfd4e820d574806e2b5bfbec3f4fc8a4b05bba78fe906271ba9de"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/biome/frozen_river.json"
-hash = "790c9f24a210a6345dc13a5b78214029a92828c1d27eb6b7bdc4d6aa089b2d20"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/biome/ice_spikes.json"
-hash = "ff63a8088e32836ecde87dd705cffbc3a4b38a29635e936e1a906125b95751d3"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/biome/snowy_beach.json"
-hash = "497f8fa8dacb3efa14cf5f103ce862892590640d3d67d24970a70c457f53aca0"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/biome/snowy_plains.json"
-hash = "13dd5d5506939b87dcf31685ff836be050fe12b269c9453db03227779dd3c0b4"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/biome/snowy_taiga.json"
-hash = "6ca3e33b17b362ee54396a5a6210d5fdff57ef496758567b984ab49af69ca411"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/biome/stony_shore.json"
-hash = "80971e7679a8759ce4f02d75bffd251cbf633ca50eafe36858d2ce19eb103627"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/biome/the_end.json"
-hash = "c307cadf485d82cb8e1c228458fc2de9a7aac8a9e8436a855ce743cc8e921c31"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/biome/windswept_gravelly_hills.json"
-hash = "055094bc35867426bafc59643aa85b216a47ea731a1f7e36b3ac4e2e160ce71c"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/biome/windswept_hills.json"
-hash = "055094bc35867426bafc59643aa85b216a47ea731a1f7e36b3ac4e2e160ce71c"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/configured_feature/flower_warm.json"
-hash = "13e14696d840ab236c35769f76421c9a876f7c0dc0caa944cb41ae59e023aaf4"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/noise/continentalness.json"
-hash = "b9632b0228d8f2927aca494d958cdac10d265fc1e83e837ba0b58b22e9eae01f"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/noise/continentalness_large.json"
-hash = "88461ffa21671d015f80c97fad54b5d0d2f9086877468d71f58f3f572b90aa64"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/noise/erosion.json"
-hash = "678c9804f7f85c286012f89712181ec9f61bb7a662ecca263e087a1ce99740af"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/noise/erosion_large.json"
-hash = "1a60f6db38cec4425de6195d6fbf437eebfea9c369160b254749d019dfc8268a"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/noise/temperature.json"
-hash = "fe64a37886472059b987225e32599a3398e8cf79db09431207cab3acb2a5a1d2"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/noise/temperature_large.json"
-hash = "c850b06eaaf56305b9b94642e041ec727fa1f9cce211093bbd67fcc513e1d8bd"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/noise/vegetation.json"
-hash = "14fbce5dd647cab3076a49831fcd80b2a383ee6ba4c064ef550c0d5b71b97215"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/noise/vegetation_large.json"
-hash = "7698e66ace41dc2d17e1412f65b50db61b9b96aa8d0b0e8351872d7ce5d28807"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/noise_settings/large_biomes.json"
-hash = "18d10c8026100e0e7522aeaffab61538adab701a2bbdd46846bf8c498094af96"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/noise_settings/overworld.json"
-hash = "20fa62e2c093fd41d3250390d6941cd6350710b7ffd12d3c9779361348b4dffb"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/structure_set/pillager_outposts.json"
-hash = "08f6034d674b7ec56b80bfd353b5fb7c2d7642d77a31cd50c619b673819ec975"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/structure_set/ruined_portals.json"
-hash = "e87ab50e97ac17763be6515677a38a5f81e6872fa411dad106505f6080409314"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/structure_set/shipwrecks.json"
-hash = "1b7829dddd2963c65d902c23fbf715472b9da03a3faf9884146dbff81e1deb26"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/minecraft/worldgen/structure_set/villages.json"
-hash = "29cc7fa150453d2f5cf625c90740859eeefed554bbdd584f560fe30413150f96"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/more_armor_trims/recipes/beast_armor_trim_smithing_template.json"
-hash = "3fa2c475fc280c287c104298a49a88e2d34c84ba4299fa5f2e1e8aa17da00b04"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/more_armor_trims/recipes/fever_armor_trim_smithing_template.json"
-hash = "9a6fbf4eafdbe5308b04724b218d449ffe5f18e94ca0478bf7285a583fc87d4d"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/more_armor_trims/recipes/greed_armor_trim_smithing_template.json"
-hash = "92ea970c8b886a5db7782cefdc2ebe5478ba31bf3d4f513c3695618d10974f66"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/more_armor_trims/recipes/myth_armor_trim_smithing_template.json"
-hash = "b07d9111aa5c12dd976705195749f2166123d474a5a9948339a65c7d283d0802"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/more_armor_trims/recipes/ram_armor_trim_smithing_template.json"
-hash = "79b0076e6fb72eed0fca76a4cd5aa53a0bc457dad4028a9ee556c8dde96d7a47"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/more_armor_trims/recipes/storm_armor_trim_smithing_template.json"
-hash = "f783641654a730cf11ad54c2c07f2f2895a1586aec7717161d2dcc57735b9aa5"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/loot_tables/blocks/chert_coal_ore.json"
-hash = "843d8c40d01640d3f3aadd3ba50d11fefa906e219af12db68369db5e3e79b8ec"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/loot_tables/blocks/chert_copper_ore.json"
-hash = "1652aedc0838b117ca18469fbd679151918f3abd7a3ae1a390d2b582996a359c"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/loot_tables/blocks/chert_diamond_ore.json"
-hash = "62828a9e69bf153165c32b6f094ccf7df8f3aa8d18a7f9deb8aae574da770228"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/loot_tables/blocks/chert_emerald_ore.json"
-hash = "644519cf871c19c0f5168e3457be082ba728a11042f0e0c7c96d0eae81a380ba"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/loot_tables/blocks/chert_gold_ore.json"
-hash = "0d0e339b5a4ce1745dc3aba361a0ec8a1a12089e89236e396997c4134c3a14e3"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/loot_tables/blocks/chert_iron_ore.json"
-hash = "b6c9c519e3565b29c2345eba5ee128825492fd793cbacf3a42e2628e060e9f61"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/loot_tables/blocks/chert_lapis_ore.json"
-hash = "5a619197b25f8b0405669bb285679b4bdf8450720129dd6519a729ebd59ff246"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/loot_tables/blocks/chert_redstone_ore.json"
-hash = "33a64bc6fc7d22412a3423231617923ea979066c7e0cf1c800a8a2d0e5ac3891"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/separated_leaves/aspen.json"
-hash = "8c2b4c5a679db2e1701fd81216d97ea87458ec1ef0040aab503d46c7f21cb027"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/separated_leaves/fir.json"
-hash = "803c13690dbee9e4a7e08c57e8622bb93ec0f1259d875aa06dc18664b8747662"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/separated_leaves/joshua.json"
-hash = "39973d77b020178004a2c9152ccc41be78b0c961c794b86ba36d94145b341043"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/separated_leaves/maple.json"
-hash = "116b27687c13942ba86b9ecd348dbc9ab592d3c1ed54b80c4a96f7eb437fafbe"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/worldgen/biome/aspen_forest.json"
-hash = "0840e99ca5e029b7789792f6b26fac6dc014ff23e2b7f08686294ef817e1a642"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/worldgen/biome/blooming_dunes.json"
-hash = "13635cf3cc0029f9f59326ad11db0e91a006bbd1250ba8388c0be8147a749035"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/worldgen/biome/blooming_highlands.json"
-hash = "4ee83ce1dac27a27341266a89bd79a1df027a32dc6d8c070ec39681bf2859a9f"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/worldgen/biome/drylands.json"
-hash = "425b04f31e155dd9457d6271d0c3dea90ba9fbca01479a44d4786fa4dd3e9d54"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/worldgen/biome/fir_forest.json"
-hash = "59bfd83a996287e8a77b05d66279a4eac48c35ac7c0497a2a1d18d87892b079a"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/worldgen/biome/golden_wilds.json"
-hash = "3c865892c608a5874ad785c46eaebd6449ff49e30b712a9f8c28f741259d9c03"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/worldgen/biome/heather_fields.json"
-hash = "ae350b0f4632f9b50f70b44fced21850fc4e16c2c3c54253a5b57d0d1a5c064b"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/worldgen/biome/maple_woodlands.json"
-hash = "2e5a22433c07ce6c4a0b979ded5ebe8c6495e47dc59e0866698ffb0c2e1af0c4"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/worldgen/biome/marigold_meadows.json"
-hash = "13b6648545948c0aa612612cc214c152e72916ee8558db5dc7fb5c0108f63451"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/worldgen/biome/prairie.json"
-hash = "f43bb8944abf71839fdb4217190379a108baedf34d7fb3da23d980dfcf323d31"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/worldgen/biome/tundra.json"
-hash = "a603572afa16be563e43c5295d4a237c5208569a9cba6218c8e6682ee5337cad"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/worldgen/biome/wooded_drylands.json"
-hash = "22360eb937b95919b1074ce921800a2c9f5324f4e2e08dcb1ab3db0330474b55"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/worldgen/placed_feature/patch_scorched_grass_placed.json"
-hash = "2909ff57c5093bebb82348c5b6ef782002e846caa9ea79208bc1c25407e2e589"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/worldgen/placed_feature/patch_tall_scorched_grass_placed.json"
-hash = "369656c2d39900ac92b2a59c311728fc0828fe4b2296373177e7954dccf45cbb"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/natures_spirit/worldgen/placed_feature/patch_tundra_red_vegetation.json"
-hash = "78f01a25f44b00ad9d2f19f73d0a4743335205cba6674cbc405a601862c98edd"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/nethersdelight/recipes/diamond_machete.json"
-hash = "88189992a353d84a5f137006435f1efbfb08101cb39c1434b5a86a4b600e46b9"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/nethersdelight/recipes/golden_machete.json"
-hash = "88189992a353d84a5f137006435f1efbfb08101cb39c1434b5a86a4b600e46b9"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/nethersdelight/recipes/iron_machete.json"
-hash = "d971920a2ec93d3455937bdc7d1e17ca84ee1d1b5a4e677e765713717355e538"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/nethersdelight/recipes/netherite_machete_smithing.json"
-hash = "7f73c64b920f294fca625928570c9fbd51d7334ae8c35e7046890a8aeee48253"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/nethersdelight/worldgen/placed_feature/patch_propelplant_cane.json"
-hash = "44e79b3a7ed9ec86ef0262b5bd90706a639286503f442bc2d26927c6adcfdecc"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/njb/worldgen/placed_feature/well/badlands.json"
-hash = "ea5b87b130d5435c1298f7e2d84731e371328743353ddade6199c146359322dd"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/njb/worldgen/placed_feature/well/frozen.json"
-hash = "68d773f2c05d678f48d492ff888105f45b4920bca60bc8fe1fd0ce699571f3ff"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/nullscape/worldgen/biome/crystal_peaks.json"
-hash = "5afeed28bf61054c2fa26a1440e49afae2d91fdb26cf4b540b8bf23983d8645f"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/nullscape/worldgen/biome/shadowlands.json"
-hash = "10e0c94540a21dd05f41481b54b514c0bde2d95933b086effa2ec1a772469ec0"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/nullscape/worldgen/biome/void_barrens.json"
-hash = "7b3e851b34e842c2ece4a6efe0e3e75c9d498f1d35a5e0fe81bff6a16ec377ff"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/pearfection/separated_leaves/callery.json"
-hash = "68b8163853e0bd966210812a665a7cba816442f2d81cd544e0ef18fbe1ee5918"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/profundis/worldgen/structure/amethyst_dungeon.json"
-hash = "fd630f57285d7a1cda8e69fbe2f9bd9dd347cb508817f79e769ec221d74e28f8"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/profundis/worldgen/structure_set/amethyst_dungeon.json"
-hash = "738960db6ae47ec33a8c5c904ae3a7d0465899f3e5deb9fd47beea2037e245ac"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/profundis/worldgen/structure_set/cabin.json"
-hash = "3d12c9cd46f36a97e6f33dc5ae46dfe3377f6ef3906c27239b66c83bce2fe3d1"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/profundis/worldgen/structure_set/ice_dungeon.json"
-hash = "610aae340741cad42e14788af143e34a5781dc099f5ca540d22948ddb5c07e4e"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/profundis/worldgen/structure_set/mushroom_house.json"
-hash = "a9455db49f5f66e80eb89ca358180d1058ab059e13a8c87ac80639647018d78f"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/recovery_plus/recipes/smart_recovery_compass.json"
-hash = "6be873e493eae61719f62bc8140e9698819aed2b0cf25505f19ef42b88d08e56"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/snowyspirit/loot_tables/chests/igloo_sled.json"
-hash = "aa53cb698fd75f611493780da00520d903c4625bfdf4324dba1831faf885d653"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/snowyspirit/tags/worldgen/biome/has_gingerbread_house.json"
-hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/snowyspirit/worldgen/structure_set/gingerbread_house.json"
-hash = "ce018d14c13aab0851d24da9e13b543ece65563e7d2b94168d6ad8b704e862d3"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/sprout/worldgen/configured_feature/cattails.json"
-hash = "8e191337e5df3c1c3e12d3f7d529b06c194c3f428fa4a784726fad43913c4444"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/sprout/worldgen/configured_feature/dune_grass.json"
-hash = "e6d311ad41f14f0f907e62ac589de3f7f42245d247e28b25478a081916ac0650"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/sprout/worldgen/configured_feature/sprouts.json"
-hash = "934209cae9ee408f92a0d86509bf1aaf003462402f05b7cc368054cd2769e22e"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/sprout/worldgen/configured_feature/tall_dead_bush.json"
-hash = "4731daebd117a7d3e613dbf862980636ae6f2347cf3f538c748171f1d4451f00"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/supplementaries/worldgen/structure_set/way_signs.json"
-hash = "8ac1ad6d08a73693d59d1854f79f6ee285d1797cddb993f8287f2485172e7181"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/tlc/loot_tables/chests/biblio.json"
-hash = "4cc8b6a92ccf8696cda0238efebdfea841eae6accb0b7f90f51e4ae686de7c17"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/twigs/recipes/allium_paper_lantern.json"
-hash = "825fe3d569cf2da1ba288b7863f0ca3e92e460561a279579afe11401a6eeb0ad"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/twigs/recipes/blue_orchid_paper_lantern.json"
-hash = "825fe3d569cf2da1ba288b7863f0ca3e92e460561a279579afe11401a6eeb0ad"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/twigs/recipes/cracked_polished_tuff_bricks.json"
-hash = "825fe3d569cf2da1ba288b7863f0ca3e92e460561a279579afe11401a6eeb0ad"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/twigs/recipes/crimson_roots_paper_lantern.json"
-hash = "825fe3d569cf2da1ba288b7863f0ca3e92e460561a279579afe11401a6eeb0ad"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/twigs/recipes/dandelion_paper_lantern.json"
-hash = "825fe3d569cf2da1ba288b7863f0ca3e92e460561a279579afe11401a6eeb0ad"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/twigs/recipes/paper_lantern.json"
-hash = "825fe3d569cf2da1ba288b7863f0ca3e92e460561a279579afe11401a6eeb0ad"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/twigs/worldgen/placed_feature/azalea_flowers.json"
-hash = "b487a941dd2813ce5e6003c52c174f75ce2560d0d8d52bf1c463aa1b3e65e542"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/twigs/worldgen/structure_set/bloodstone_obelisk.json"
-hash = "1d345edb6b326975441aabd00be8fd34508bd694cd48235d4077cc3a191bbfd9"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/wilderwild/separated_leaves/baobab.json"
-hash = "df274dd9437fad3a987b374030fb6a0b117de4272c9c369a667ee65f366ff937"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/wilderwild/worldgen/configured_feature/savanna_trees.json"
-hash = "475d6f4254c017041286a16bb26fd873bc575e593084b0c019e433a7304478a5"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/wilderwild/worldgen/placed_feature/milkweed.json"
-hash = "16e09eb6606a5766e90f0e76b08f535abeef7cc654958faeab6292132e35f7d2"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/wilderwild/worldgen/placed_feature/milkweed_rare.json"
-hash = "8c183238c8a6349fdabeec5d7fd1774077e815b391c5f6f532f1a832ba2ecc78"
-
-[[files]]
-file = "global_packs/required_data/Legacies/data/wilderwild/worldgen/structure_set/abandoned_cabins.json"
-hash = "e1657e8addac5e66a70f680a72aba3ae652166edf55a7e4e90858a67d5fbda1c"
-
-[[files]]
-file = "global_packs/required_data/Legacies/pack.mcmeta"
-hash = "eb025c38fe707904da7a9b4b1eee30b1abbf85f329015677052241f84f0af01a"
-
-[[files]]
-file = "global_packs/required_data/NetherRatio_1.20-1.20.1-custom.zip"
-hash = "3b790e402aa4531f629182b15566082708eca0065eb9e7f97db47db9b8de9809"
-
-[[files]]
-file = "global_packs/required_data/New-End-Cities.zip"
-hash = "67f66923e77a6c09981b408bb104610fedc5c0a6b6b3c7b1ed11c90b4e5df393"
-
-[[files]]
-file = "global_packs/required_data/New-Ocean-Ruins.zip"
-hash = "142ba317a5393dbe78d1415d6b0c3758d2050c93183b78b6a9f46c097e94a74f"
-
-[[files]]
-file = "global_packs/required_data/New-Ruined-Portals.zip"
-hash = "0fa71cb631d9f3a5f03f7e74d1f5a49424d193ca9fe034f5ac647eae27b26525"
-
-[[files]]
-file = "global_packs/required_data/ctov-wizards-add-on-v2-1.zip"
-hash = "c263293cbc757d7445d21bfa3879a17050839a0178a8e32a4874629652e87984"
-
-[[files]]
-file = "global_packs/required_data/explorify-1.19-1.3.0-custom.zip"
-hash = "840eb00e84ba7fa1253a9ff99a659bb6947650ceed82d170a2f230f9eec72b36"
-
-[[files]]
-file = "global_packs/required_data/ns_modified_badlands-custom/data/minecraft/worldgen/biome/badlands.json"
-hash = "b7a1cfe712475d8d4b280c98bf7bf88124b1993b912f087665a1f4f43f21df69"
-
-[[files]]
-file = "global_packs/required_data/ns_modified_badlands-custom/data/minecraft/worldgen/biome/eroded_badlands.json"
-hash = "b7a1cfe712475d8d4b280c98bf7bf88124b1993b912f087665a1f4f43f21df69"
-
-[[files]]
-file = "global_packs/required_data/ns_modified_badlands-custom/data/minecraft/worldgen/biome/wooded_badlands.json"
-hash = "526789e58f9121f9036d8ffd5e276d6d7eaf38d112ec664fdcb1242e66a1d656"
-
-[[files]]
-file = "global_packs/required_data/ns_modified_badlands-custom/pack.mcmeta"
-hash = "1e0071fc3f3bb422747a6d7dc818990b8defd70cbd4cde07b925559edabbb05b"
-
-[[files]]
-file = "global_packs/required_data/ns_modified_badlands-custom/pack.png"
-hash = "02f5ef7ba226e5c2bd56ebe2177a6042a2e2cce18dba08f866ea08bdccf316d7"
-
-[[files]]
-file = "global_packs/required_data/ns_modified_mountain_biomes-custom/data/minecraft/worldgen/biome/cherry_grove.json"
-hash = "e61efe2117ff976e1682d4d380c52edeb669e57bd5ae94432696f4d33c37bac3"
-
-[[files]]
-file = "global_packs/required_data/ns_modified_mountain_biomes-custom/data/minecraft/worldgen/biome/grove.json"
-hash = "c1682e04e4a6a9f67f8bc3e00d06486a8192e5520036a7f0d0ccd7c6006d706f"
-
-[[files]]
-file = "global_packs/required_data/ns_modified_mountain_biomes-custom/data/minecraft/worldgen/biome/meadow.json"
-hash = "db7191d5150121582575d7090929a9ade4c46f432f124f1b072b432e6afbdb00"
-
-[[files]]
-file = "global_packs/required_data/ns_modified_mountain_biomes-custom/data/minecraft/worldgen/biome/snowy_slopes.json"
-hash = "a1bc3aed83339e4337ab4625d943b31fcf413769b52b8564d792679a895a977c"
-
-[[files]]
-file = "global_packs/required_data/ns_modified_mountain_biomes-custom/pack.mcmeta"
-hash = "f2d2df1cc380069046606f04840ca60de1bbfc0e56cda31c45d73f9e392a4dd1"
-
-[[files]]
-file = "global_packs/required_data/ns_modified_mountain_biomes-custom/pack.png"
-hash = "d2060b146590963044b6e66ed10767fd9be71ed50a7516b49bda5d7e4c30607e"
-
-[[files]]
-file = "global_packs/required_data/ns_modified_swamp/data/minecraft/worldgen/biome/swamp.json"
-hash = "70739a5e002a23744b4c35d215d5bc789a376cf0f48a094c12f34390adf1af91"
-
-[[files]]
-file = "global_packs/required_data/ns_modified_swamp/data/minecraft/worldgen/configured_feature/patch_sugar_cane_swamp.json"
-hash = "81c05370d9ac61a281427a6fdae786f663e952ef04bf581fcdb13b636f65f713"
-
-[[files]]
-file = "global_packs/required_data/ns_modified_swamp/data/minecraft/worldgen/placed_feature/patch_sugar_cane_swamp.json"
-hash = "bffebc87593a0bcee5e29c139763d0c19b498faaba13c586dc8528ad7426fbb0"
-
-[[files]]
-file = "global_packs/required_data/ns_modified_swamp/pack.mcmeta"
-hash = "77b5fd0cf575ab2f17dea1029be47231290b7d6e6a0efc891605c12d557c2036"
-
-[[files]]
-file = "global_packs/required_data/ns_modified_swamp/pack.png"
-hash = "bfd40bb06e4911ff58dd3acdca5f999d9076a0cf169b54ae4d8fa7fc78707d97"
-
-[[files]]
-file = "global_packs/required_data/pause-server-when-no-players.zip"
-hash = "6d1a747bebda1949c4eb40efeab75eb787422a841ee1323391e312e57ef782e5"
-
-[[files]]
-file = "global_packs/required_data/shears_required_for_nether_roots.zip"
-hash = "9520bad39661f46fb45d4207f0d3d8d5182a3b838c88acf620e5c20596757ed9"
-
-[[files]]
-file = "global_packs/required_data/trueending_v1.1.0b_1.20.x.zip"
-hash = "584db07e956bb736b9f8eb662eed9075885c2057aa0633acca50642b8ed9fd55"
-
-[[files]]
-file = "global_packs/required_data/vanillarefresh-v1.4.19h_1.20.x.zip"
-hash = "d54d7b1cca251512366c44030eb069fd6eccc5b3ef0b074750f784f59db88928"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/dynmus/sounds/music/end/creative3.ogg"
-hash = "33d0666c3068d42379416b1900264a6908c832469b42bc489369943f58c8b90c"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/itemswapper/itemgroups/v2/tools.json"
-hash = "06f7ba00d50f48d5eef82312cf670cc0c34b9cb8e4a4fdbc9ff169ef7a8634fd"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/itemswapper/itemgroups/v2/weapons.json"
-hash = "5b03cb79d770f527dc7e355437496babdc6413c0b00eae8835c818ed184bea02"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/legacies/sounds.json"
-hash = "c81ec38f7b0290e3404e31e6b0eb1cb72521db1fe851d8c60d9fe6832153897a"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/legacies/tips/anvils.json"
-hash = "f4753a9e33b3f73bf762ff9b4718755a4460582f163520e44dbfec628cf8536b"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/legacies/tips/celestial-moons.json"
-hash = "b863c870ca896ee208d85857413b917e9ca28f556fa004b2aa19b5f10fd2d54f"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/legacies/tips/death.json"
-hash = "a26dd252bc8cb02a6b3519b64ab8a4bba83a46a07c67ee5769ea6a4a308914c8"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/legacies/tips/difficulty.json"
-hash = "e0a67c4bab10900c860e1a4505e49f25e78c1e84f679ab45fe55479b7bfd2513"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/legacies/tips/discs.json"
-hash = "f422e88680416e6fb64422ea398f1a6230847c4196c89decd5d7a8ae7f0e0b65"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/legacies/tips/ducks.json"
-hash = "244b3f641c8a00b62b52caecc68d1b083990a865b2cf5c1d36d706211bc0c00c"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/legacies/tips/enchanting.json"
-hash = "ffa58afb15db286a769c64e18b6528c4756252314b3b340853fda86795fa0883"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/legacies/tips/end-remastered.json"
-hash = "a5c91ec44c41eeceeef23dc8cf294884fadaa91ae4d59521787f6cc552cac157"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/legacies/tips/end.json"
-hash = "d9cedb77a20429067bcb4d859cc172b5deba52af63a3c26ccc1308847eb3fcc6"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/legacies/tips/fishing.json"
-hash = "3aed83681e1a4aa52cf7b1d504f0925c16b793377135ea43e37b8a3aebdce69b"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/legacies/tips/gateway.json"
-hash = "038b36ccd70bc7e1561f3e3558f40f1a58773d686e70fcbda483ad1a5f647b55"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/legacies/tips/golems.json"
-hash = "2356e49a80bc7b31e63ef3d645a068a37213f701daa807dadb0a4a66e79f59fd"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/legacies/tips/inventory.json"
-hash = "7f9c4d9bfbfc8c8c14ed2bb16b2135f1224d672928dc780aaf12773abbb59772"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/legacies/tips/iron-upgrade.json"
-hash = "b1918d0088b923441c319eaa80c3ed6aa37a267be35dd8901d2ffb9fb54f8569"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/legacies/tips/multiplayer.json"
-hash = "fda06ee786aeb2048ac66f7ee213bbd218fc3ce8bb8f4c4107e6a0150a7cb43d"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/legacies/tips/ore.json"
-hash = "2c2e2d54abae221deea5df6a7b38f3ae1d572b3d8d8175cb4507d746a1e9b643"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/legacies/tips/rose.json"
-hash = "58f0918669e1304c9f14aedcbcd6ac50f4b32d65806fff9a156a0174ac20b738"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/legacies/tips/spyglass.json"
-hash = "3a732419af0f85cac05d9d250447fea97b54b11b87ad938a295a76907a949473"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/legacies/tips/templates.json"
-hash = "e49d59f78265212f5ee0d9a538f097589a9cb946ee2274ab31a2f04762b74fda"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/legacies/tips/transportation.json"
-hash = "02181a6a4d1e8b1bed2826340df878198b2f94bea517c9ecb645af8a501cff1a"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/legacies/tips/trims.json"
-hash = "fc7221f4342061308225a5710a70d18fb6dd6af17dc4e86dc61d90d6c641b724"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/minecraft/sounds.json"
-hash = "42ba2cb24773abc8c69a9bf78a65616541be330bcf0c86df1f21d50e31d96e32"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/minecraft/texts/splashes.txt"
-hash = "7f812e590e0494a9c288170cfd42b717ff96d0ebb21b7e08a60d69c591cd8a44"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "e029bd17e4aea717c406f09582b6f0c262b8d062541566ea6fa8fc015f128eed"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "07786a3e412834f65299843cbfde339d984d0e09c2405c2cbd21a504fa85fe77"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "24518de9093cc444f76db52c31e98945d13643010c6bf3baa3a452af9a837579"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "1a77504e775a793744a2fe34285e78e987b49691c6ce97202ea21b3203fb52fe"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "bb297da5b87f76c41ff62934a87faef2ecf025912891457bbd9e95ec022d5bd8"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "998c497e84f77c0e1cae989d0dfc35e34ae14e2f158aea4e4f660166dde90801"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/minecraft/textures/gui/title/edition.png"
-hash = "a11d663eec3166132c11bea9bfbe90386f18cb2e16747cdf731fcd8c81a11af1"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/minecraft/textures/gui/title/minecraft.png"
-hash = "daebe121e08722e4e5d4ea2a5d295a376551144f9062938669a41af4097c68ce"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/assets/true_ending/sounds/dragon.ogg"
-hash = "0d71c07b6302f5637b2cc4418e2faafbbb171bbc6ff764d95d6ec4002df97049"
-
-[[files]]
-file = "global_packs/required_resources/Legacies/pack.mcmeta"
-hash = "925484f9d416ebf5eb30453e837a15771ed0f79dc5e17f5ccf3a8366616dc94b"
-
-[[files]]
-file = "global_packs/required_resources/Nature's Spirit.zip"
-hash = "ec716186dfac83b07f2029563cfc871f3e4ece45eeb031108a1ba5a36aa13fe8"
-
-[[files]]
 file = "mods/Server-Translations-2.0.0+1.20.jar"
 hash = "d09e88745daff35bfaecc2bcc806036f42bf96d3d508f74fad23b531aed45a3c"
 
@@ -5875,11 +4391,6 @@ metafile = true
 [[files]]
 file = "mods/gipples-galore.pw.toml"
 hash = "220d7379e904c3e20f114b3efb527ef3fae1aaf700cbf5d676752639d9e03f89"
-metafile = true
-
-[[files]]
-file = "mods/globalpacks.pw.toml"
-hash = "dd95cf09d9a642a0914a01790dee89b72963e088a4ceb88e206efea6998b03a4"
 metafile = true
 
 [[files]]
@@ -10758,3 +9269,1335 @@ hash = "14f859d113590200e866dbe57a47ae11dbde0a6aeeee20ad539e59be4eee4a10"
 [[files]]
 file = "shaderpacks/Pixel-Perfect-1-5-0.zip"
 hash = "68acb4a223e8fc6a3f9553e80aad10c93168fa0b4f5fbc28b4453dfef57a9267"
+
+[[files]]
+file = "world/datapacks/Dungeons and Taverns v3.1-custom.zip"
+hash = "e90232b66cc441c578a59d10c26bf32ecb131263cacfc1acee30f227fdb2c686"
+
+[[files]]
+file = "world/datapacks/Legacies/data/allthetrims/tags/items/whitelist.json"
+hash = "5a1d96e5f1601f446d8f9e05afe6b6f045dea418b554c4cd8703d5ef4427d9c4"
+
+[[files]]
+file = "world/datapacks/Legacies/data/archeologyplus/loot_tables/chests/desert_temple_library.json"
+hash = "20bfc1ac36ce0ec0c84002cba92936e1197f65179459d7e4057db43dd1b44fcc"
+
+[[files]]
+file = "world/datapacks/Legacies/data/archeologyplus/worldgen/structure_set/desert.json"
+hash = "faf56f08aa440c619ce9c7266dc993c19d4811edbb17e6462c2e5d928b96b137"
+
+[[files]]
+file = "world/datapacks/Legacies/data/archeologyplus/worldgen/structure_set/forest.json"
+hash = "c84b00ecb9fbc9876fdc5547151d564d685bb2e9883aff4ab35eba804ce3dfc6"
+
+[[files]]
+file = "world/datapacks/Legacies/data/archeologyplus/worldgen/structure_set/jungle.json"
+hash = "f282d82a0205011dcdc181878663961014448482cc7d373113649bbd092f98a0"
+
+[[files]]
+file = "world/datapacks/Legacies/data/betterdungeons/worldgen/structure_set/skeleton_dungeons.json"
+hash = "4626ab0c583f5fe1bd334aecc639b867ac30312c9393f95db30557a4c7af1772"
+
+[[files]]
+file = "world/datapacks/Legacies/data/betterdungeons/worldgen/structure_set/spider_dungeons.json"
+hash = "9d63e8185b40281f951bf1fbdaefd3d149c95de6ff81ab2b0ad4b8adb0a813fb"
+
+[[files]]
+file = "world/datapacks/Legacies/data/betterdungeons/worldgen/structure_set/zombie_dungeons.json"
+hash = "f3eeca4bd92b9a1321ce931343b31463aee3ecbe1c645b08a07dc6b51ab84afe"
+
+[[files]]
+file = "world/datapacks/Legacies/data/betteroceanmonuments/worldgen/structure_set/ocean_monument.json"
+hash = "4ca08636991a2375dfb80671273b9c14f9f4e2f9f126ae4e7438494681ca8c2e"
+
+[[files]]
+file = "world/datapacks/Legacies/data/biomemakeover/loot_tables/entities/pillager_additional.json"
+hash = "28fd312521f6d7bb74eca42d663f11ea7d8fc054d1c2fc57a7b590398d52ecfc"
+
+[[files]]
+file = "world/datapacks/Legacies/data/biomemakeover/loot_tables/entities/pillager_leader_additional.json"
+hash = "5ee908e33ef115845c411615377daf364cfb50ad166c5b208652d2e198dc275b"
+
+[[files]]
+file = "world/datapacks/Legacies/data/biomemakeover/loot_tables/ghost_town/loot_1.json"
+hash = "69760c2a949947c9cfbeccab2f4d53ab1f6c92d5042fc27ef1550fd705799dfc"
+
+[[files]]
+file = "world/datapacks/Legacies/data/biomemakeover/loot_tables/mansion/dungeon_good.json"
+hash = "9a068fc60e8c94e96073de3fe2cd07011d60cdc90bb1d0c9973108750737f47a"
+
+[[files]]
+file = "world/datapacks/Legacies/data/biomemakeover/loot_tables/mansion/good.json"
+hash = "fec13df96447636e11bee540896b9b0ae186959aae8991aef79229a7e43b256a"
+
+[[files]]
+file = "world/datapacks/Legacies/data/biomemakeover/loot_tables/pillager_outpost_additional.json"
+hash = "5edecc2c0e3cd9a8560df339c1af7e99211ffb704879be30dc4180375b42b7cb"
+
+[[files]]
+file = "world/datapacks/Legacies/data/biomemakeover/recipes/cladding_armor_upgrade_smithing_template.json"
+hash = "2139b740c9168639833b157b9f0e107237b8e8e033bf632d990cf0c7a7cd2fab"
+
+[[files]]
+file = "world/datapacks/Legacies/data/biomemakeover/separated_leaves/ancient_oak.json"
+hash = "5294092200d7cd1950d935f312f10bafe62a226733595f2921085ea09d8cc521"
+
+[[files]]
+file = "world/datapacks/Legacies/data/biomemakeover/separated_leaves/blighted_balsa.json"
+hash = "e1ac4b3293ed6d77c594bd0d61b1ed98d9705e96d7378f5c373a4cdd24a53317"
+
+[[files]]
+file = "world/datapacks/Legacies/data/biomemakeover/tags/blocks/crab_spawnable_on.json"
+hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
+
+[[files]]
+file = "world/datapacks/Legacies/data/biomemakeover/tags/worldgen/biome/swamps.json"
+hash = "b8839f48ae416d869b04739f50bfccac6bcabab8e01aaa9c43f70a2ebd25db1d"
+
+[[files]]
+file = "world/datapacks/Legacies/data/biomemakeover/worldgen/placed_feature/badlands/surface_fossil.json"
+hash = "4fb44469886fc4d11425250b2402ef813e2693a6d7a4605477768fe67f81c734"
+
+[[files]]
+file = "world/datapacks/Legacies/data/biomemakeover/worldgen/placed_feature/mushroom_fields/blighted_balsa_trees.json"
+hash = "d89b07f8ffd2d04f3d73d055cd9e994d2c0e16e4784c14628fd1ca2dcd89f1e8"
+
+[[files]]
+file = "world/datapacks/Legacies/data/biomemakeover/worldgen/structure_set/ghost_towns.json"
+hash = "bc208bb704f7ab697e31df3790560cb2c242d5f9512aed6c3c26fcea11827344"
+
+[[files]]
+file = "world/datapacks/Legacies/data/biomemakeover/worldgen/structure_set/mushroom_houses.json"
+hash = "d5e9c8e76564ef5f52cd8b03d1de0c4352e2942333b7ec1efa72e11749aeff8f"
+
+[[files]]
+file = "world/datapacks/Legacies/data/biomemakeover/worldgen/structure_set/sunken_ruins.json"
+hash = "99d6a0e90b5a7be007a68599f65803316b3b7b02aeaef445f50b91c2b990a859"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/advancements/recipes/brewing/compound_brewing_stand.json"
+hash = "61411eda59779ce023a23f89db8f49169dabf6b3fdb58cd481198b70b50e0a75"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/advancements/recipes/brewing/potion_injector.json"
+hash = "d9a942a6ed973b9250530b85c0029b39a43a5e194e17882980da5f2c5fbece47"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/advancements/recipes/brewing/reinforced_cauldron.json"
+hash = "8097f18d7e63d00b70e7727ed7e9ed5e9ed64bdef9ef8945d1561f0eec8ab5ac"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/advancements/recipes/combat/potioneer_gauntlet.json"
+hash = "1207a5f8813f3221f06a77c2b6e089066c71bd3c858e8769504254d97c204e2d"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/advancements/recipes/combat/rudimentary_gauntlet.json"
+hash = "bb7c24137aa64b7731a022ec4ceb799fa4ea72ed1aaa1b559472f8abcdfce681"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/advancements/recipes/tools/aged_umbrella.json"
+hash = "7cf2986dbb40d1435dd1de112308de2c39bf4fcb87cb6b75196a55f5cb3e7a22"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/advancements/recipes/tools/black_umbrella.json"
+hash = "d4145645f92b18eafce646c57e13dd9fa1148c393e6e0f83486776173cb91d53"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/advancements/recipes/tools/blue_umbrella.json"
+hash = "dbf53d85106985b61f3abe7e3be23a0672e27ab052055337f75df658fd18d0a6"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/advancements/recipes/tools/brown_umbrella.json"
+hash = "224cabede295a55564d522c1247296350d29f211f94f04d65a884782298fe715"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/advancements/recipes/tools/cyan_umbrella.json"
+hash = "d7326edb5764aa4f1d21b03479738855062bfe39e80252e06ff2f111e9c72f43"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/advancements/recipes/tools/gilded_umbrella.json"
+hash = "73a95411571b1ecf6b3dcbf3711a3a833794ed6f0027d8afdea342701e3e2005"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/advancements/recipes/tools/gray_umbrella.json"
+hash = "3ed96ec2efc8ab37c85bd320175cb5b22e69f8113c7e439581bcf89b1417596d"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/advancements/recipes/tools/green_umbrella.json"
+hash = "80e388e5bb1183333510cca0b22021a2d116cd5025ec7592229a42bee2b67249"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/advancements/recipes/tools/light_blue_umbrella.json"
+hash = "fcbe5a66a81c3e22107aeae4a73ce5aebe4e2a35d1cad9d7cdb6584e1ed6e83a"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/advancements/recipes/tools/light_gray_umbrella.json"
+hash = "6859bbe840083e67012229ceb217f0fa7f2e2df997f08989b90a9019066bd2d3"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/advancements/recipes/tools/lime_umbrella.json"
+hash = "8395ff921f489d4c5bb6ce53eae33f0948a6c901d09ee7043eff97b3d267af4b"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/advancements/recipes/tools/magenta_umbrella.json"
+hash = "f7441e4b88cfb1b14d2d9cc30b3a1bf22358ccf7f5ddf4ed692e47ca56572a15"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/advancements/recipes/tools/orange_umbrella.json"
+hash = "7cb9339fc44817bb269678a50fc89a6f4cbe904254e940f509e15b9bef5fd809"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/advancements/recipes/tools/pink_umbrella.json"
+hash = "fcc46ebada2633b89d0cb6de75c3b5d6f17e39b04dfb8655d5e55a67ed1db293"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/advancements/recipes/tools/purple_umbrella.json"
+hash = "07553fd39b391fb6c3afc837f24c48fa08cba5651c4623a7c9f057d11b7af7e8"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/advancements/recipes/tools/red_umbrella.json"
+hash = "5643d9363ea5e5f20567819f9884d0e01dd51e58e691c4b591616140fffe1049"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/advancements/recipes/tools/white_umbrella.json"
+hash = "db69dd2e516a20353ac50e52cc4df941ce83af0490915b43cd38e77f7b841b5f"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/advancements/recipes/tools/yellow_umbrella.json"
+hash = "6ff90f8db2a89b16c2c06968e826e6326bf3873105f9a9d4f61fb2c47011114c"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/loot_tables/blocks/compound_brewing_stand.json"
+hash = "25f4381a37acbc69ce6d04344015fbeb745a71bbb806e1f5ce455f1ecb9ebd9c"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/loot_tables/blocks/magic_lectern.json"
+hash = "c27cad38bf1c6aa790ffae8a9b10c57f91d29e4bf94213e513a40e32e6a29774"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/loot_tables/blocks/potion_injector.json"
+hash = "a3ff6db69646b7a1183aca115ff96f35d938df564e5e7fcff9b89167c662a221"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/loot_tables/blocks/reinforced_cauldron.json"
+hash = "6334b31661ea3b415f8c88da49aecd67b22853b4b5c6afc794bc308533d185e9"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/loot_tables/blocks/reinforced_water_cauldron.json"
+hash = "0166b57b2c8e8085142dcbd4fc570eb1f3052023a5aa3f5723d8104f8d659496"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/recipes/aged_umbrella.json"
+hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/recipes/black_umbrella.json"
+hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/recipes/blue_umbrella.json"
+hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/recipes/brown_umbrella.json"
+hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/recipes/cyan_umbrella.json"
+hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/recipes/gilded_umbrella.json"
+hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/recipes/gray_umbrella.json"
+hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/recipes/green_umbrella.json"
+hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/recipes/light_blue_umbrella.json"
+hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/recipes/light_gray_umbrella.json"
+hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/recipes/lime_umbrella.json"
+hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/recipes/magenta_umbrella.json"
+hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/recipes/orange_umbrella.json"
+hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/recipes/pink_umbrella.json"
+hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/recipes/potion_injector.json"
+hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/recipes/potioneer_gauntlet.json"
+hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/recipes/purple_umbrella.json"
+hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/recipes/red_umbrella.json"
+hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/recipes/rudimentary_gauntlet.json"
+hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/recipes/white_umbrella.json"
+hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/recipes/yellow_umbrella.json"
+hash = "05c136e6859988cb1a713882a275e7c34923e7f32806b0b5357db355164b1bfe"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/tags/items/blacklisted.json"
+hash = "40a6803c1c025892cc14c03131b5dcd4dc21d782717425eec6b7786b7c25412f"
+
+[[files]]
+file = "world/datapacks/Legacies/data/davespotioneering/tags/items/whitelisted.json"
+hash = "15eac2527cafc3f3bf0d59d5d33e8e5845c8e52b51e03a56b8f891aa47b806f1"
+
+[[files]]
+file = "world/datapacks/Legacies/data/ecologics/separated_leaves/coconut.json"
+hash = "34a8b98a653989716ffeeba6371a0d26c75c8d07a3eb6a675b544046332f2bec"
+
+[[files]]
+file = "world/datapacks/Legacies/data/enchantery/loot_tables/injects/bastion_bridge.json"
+hash = "b2479f106d0925c07157cdbb9d3c9e2639487aea93362b15c4c0dafb45ae7177"
+
+[[files]]
+file = "world/datapacks/Legacies/data/enchantery/loot_tables/injects/bastion_treasure.json"
+hash = "b2479f106d0925c07157cdbb9d3c9e2639487aea93362b15c4c0dafb45ae7177"
+
+[[files]]
+file = "world/datapacks/Legacies/data/enchantery/loot_tables/injects/end_city_treasure.json"
+hash = "b2479f106d0925c07157cdbb9d3c9e2639487aea93362b15c4c0dafb45ae7177"
+
+[[files]]
+file = "world/datapacks/Legacies/data/enchantery/loot_tables/injects/nether_bridge.json"
+hash = "b2479f106d0925c07157cdbb9d3c9e2639487aea93362b15c4c0dafb45ae7177"
+
+[[files]]
+file = "world/datapacks/Legacies/data/enchantery/loot_tables/injects/ruined_portal.json"
+hash = "b2479f106d0925c07157cdbb9d3c9e2639487aea93362b15c4c0dafb45ae7177"
+
+[[files]]
+file = "world/datapacks/Legacies/data/enchantery/overrides/loot_tables/abandoned_mineshaft.json"
+hash = "1dfe190a8e5adb80ccabd969f6e09fd9ea99b236aea44c17c3d883ab18baef71"
+
+[[files]]
+file = "world/datapacks/Legacies/data/enchantery/overrides/loot_tables/ancient_city.json"
+hash = "aa91a61799a34f5bbd7eeca495ae387d953f3256a100664af604ae987fa91377"
+
+[[files]]
+file = "world/datapacks/Legacies/data/enchantery/overrides/loot_tables/desert_pyramid.json"
+hash = "0403db209f49a49d5721359d34971e8b42a0778be4edb13c82ccde1e8b3188df"
+
+[[files]]
+file = "world/datapacks/Legacies/data/enchantery/overrides/loot_tables/jungle_temple.json"
+hash = "6c2502d83d624a584d8c21c2c882ef2ddcbaa3ecfe1e7f1d0f8824b7d56c2ef1"
+
+[[files]]
+file = "world/datapacks/Legacies/data/enchantery/overrides/loot_tables/piglin_bartering.json"
+hash = "da672107683af508bd70e5f4efac23044bb5437a9ebc18a4155b0dbbeba3d8bd"
+
+[[files]]
+file = "world/datapacks/Legacies/data/enchantery/overrides/loot_tables/pillager_outpost.json"
+hash = "edd9ecca78cb27a11eac04d9fe5ecfbca1d3b6f9fc5b4d1129beba199d819738"
+
+[[files]]
+file = "world/datapacks/Legacies/data/enchantery/overrides/loot_tables/simple_dungeon.json"
+hash = "9361aa52549267cc7a70e82e1630e64945b1e8a45f3bda0f39800b7eb975ddcc"
+
+[[files]]
+file = "world/datapacks/Legacies/data/enchantery/overrides/loot_tables/stronghold_corridor.json"
+hash = "92fc623341afecd06f43c8fdd7b953e45ccaaf565424e2ac819d69a5952cefe8"
+
+[[files]]
+file = "world/datapacks/Legacies/data/enchantery/overrides/loot_tables/stronghold_crossing.json"
+hash = "edc5415e8f879d197e9c453fe1917427de9b492085a30e0d7ccce04af651bd96"
+
+[[files]]
+file = "world/datapacks/Legacies/data/enchantery/overrides/loot_tables/stronghold_library.json"
+hash = "3e81a1c5cee4bc088cecf10d63e23228c5e2cda5df66d2974f8542e7f7372675"
+
+[[files]]
+file = "world/datapacks/Legacies/data/enchantery/overrides/loot_tables/underwater_ruin_big.json"
+hash = "62e4f5004e943d6fe668c4777301f8945402d687e5515d8be1b8290d86c6c2fd"
+
+[[files]]
+file = "world/datapacks/Legacies/data/enchantery/overrides/loot_tables/woodland_mansion.json"
+hash = "34e0c0ebee07b921882efdbeae8ac0d38a0cf3757c976a3f46f9817801d1b62a"
+
+[[files]]
+file = "world/datapacks/Legacies/data/enchantery/tags/enchantment/all_enchants_reference_file.json"
+hash = "0c71bf7432d70fc581e45a1ef58d74ce4be85aa42fc295490739bd26686d1dff"
+
+[[files]]
+file = "world/datapacks/Legacies/data/enchantery/tags/enchantment/always_obtainable_from_enchanting_table.json"
+hash = "dbfa9285bf71b9f1261fc67b4b199c6de622a1c38211abf1e23e118dec1887c4"
+
+[[files]]
+file = "world/datapacks/Legacies/data/enchantery/tags/enchantment/only_obtainable_from_villager_trading.json"
+hash = "0cf4be7b9c0b07c9cd125cac7d445199928890be821d39bcc0f305c60e4c7d5c"
+
+[[files]]
+file = "world/datapacks/Legacies/data/enchantery/tags/enchantment/treasure.json"
+hash = "b7b12b30c0cb65e01c5aafc147d0017f5b570df7059ee806aa469bdca644fda6"
+
+[[files]]
+file = "world/datapacks/Legacies/data/end_reborn/loot_tables/blocks/end_iron_ore.json"
+hash = "d4556d5c12451523415b3442cf5de9ea308da5c5e08c2b4c66bc9ee50ea00e1c"
+
+[[files]]
+file = "world/datapacks/Legacies/data/endermanoverhaul/loot_tables/entities/end_enderman.json"
+hash = "58c9c25b332de2dbc21fcd922a884ef4bf5054479be959189990424bc4c800ea"
+
+[[files]]
+file = "world/datapacks/Legacies/data/endermanoverhaul/recipes/corrupted_blade.json"
+hash = "320ebb5f06e58b9032f2c566e52523c5fbd286f0c072ce473758a9e6a40af97a"
+
+[[files]]
+file = "world/datapacks/Legacies/data/endermanoverhaul/recipes/corrupted_shield.json"
+hash = "10cfc86fb551bbfd9b83fd63e8ab33f79438647343b6c79845ed85734f3ff519"
+
+[[files]]
+file = "world/datapacks/Legacies/data/farmersdelight/loot_tables/inject/chests/abandoned_mineshaft.json"
+hash = "02ffe5f462bdc8e883010c65002b8c7139956fc3f5aabd46342370eb63057726"
+
+[[files]]
+file = "world/datapacks/Legacies/data/farmersdelight/loot_tables/inject/chests/shipwreck_supply.json"
+hash = "f1e60d7ab0b396f76ce4890bebd376f2dc69c8d30591b18e5f75d2f8e4f1e49e"
+
+[[files]]
+file = "world/datapacks/Legacies/data/farmersdelight/loot_tables/inject/chests/simple_dungeon.json"
+hash = "f42e799ca9f086f18255210a6069b01cae0a030501765ab3fccfc091bc9a9c1d"
+
+[[files]]
+file = "world/datapacks/Legacies/data/farmersdelight/recipes/iron_knife.json"
+hash = "e2de63daa3396849759fd78b698a047cd5749ba8cbc784acc0166dfe54b8afcf"
+
+[[files]]
+file = "world/datapacks/Legacies/data/farmersdelight/recipes/rope.json"
+hash = "6cb6c6fb8a6ac0981266a0eb5dd43745b7b93b97ff50f38cb7c532f7e89d97ba"
+
+[[files]]
+file = "world/datapacks/Legacies/data/farmersdelight/recipes/rope_from_safety_net.json"
+hash = "86cbd8c95cb3d4e3ea8072bb218ff416c31e7db158477828c3f8715b80af2c38"
+
+[[files]]
+file = "world/datapacks/Legacies/data/farmersdelight/recipes/safety_net.json"
+hash = "678afe2d178c92dbcad6b42a1a2490ac8076a23f90f3be1075c2bfd899109b49"
+
+[[files]]
+file = "world/datapacks/Legacies/data/friendsandfoes/worldgen/structure_set/citadel.json"
+hash = "120381c931d6d4bac5bb7d2180e2dff500d09771e26af0f5941d41391beaf908"
+
+[[files]]
+file = "world/datapacks/Legacies/data/friendsandfoes/worldgen/structure_set/iceologer_cabin.json"
+hash = "826a3e7d9fe4fb9340db0017844c1d5024d28ac22a6ed0ac50444610e6834483"
+
+[[files]]
+file = "world/datapacks/Legacies/data/friendsandfoes/worldgen/structure_set/illusioner_shack.json"
+hash = "4dc9e40ab1da4cf26d5b79d7c7363b1711642ce9f69ab9eaaff534b41a92e499"
+
+[[files]]
+file = "world/datapacks/Legacies/data/friendsandfoes/worldgen/structure_set/illusioner_training_grounds.json"
+hash = "2373617b3a2140aac9270c6fafcb54b0afc42930ee4a178fd173834ac6756b25"
+
+[[files]]
+file = "world/datapacks/Legacies/data/fwaystones/recipes/abyss_watcher.json"
+hash = "6bc9aa6e91acd90ff68310b5b3b44da722a3fc75c3ac55d6aa221ab3326478e1"
+
+[[files]]
+file = "world/datapacks/Legacies/data/gipples_galore/tags/worldgen/biome/extra_gipple_habitats.json"
+hash = "a60c92d15a8f35ad4a3b8ab5ac0323ca9cfc0b2878c97bfbb496bd0801b92dde"
+
+[[files]]
+file = "world/datapacks/Legacies/data/gipples_galore/worldgen/placed_feature/gipple_colony.json"
+hash = "c592100505eb089e2f081f943a3f872788f4384f6ba22ce598b6be17a7eef325"
+
+[[files]]
+file = "world/datapacks/Legacies/data/gipples_galore/worldgen/placed_feature/gipple_colony_common.json"
+hash = "b550824dadf9ac83cc8ea78543a83ca242801c3205759a6b8e76638ee0458f8a"
+
+[[files]]
+file = "world/datapacks/Legacies/data/guarding/recipes/netherite_shield_smithing.json"
+hash = "c1926e8f0c673662289c57203c61f341ce64e8043226103b6b0e201f9c084aaa"
+
+[[files]]
+file = "world/datapacks/Legacies/data/joshie/worldgen/structure_set/village_ocean.json"
+hash = "a39a1e69cd7d260b11eb4be299cc4fb75f256652dae42571f0266dff3e7c6c06"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/recipes/compass.json"
+hash = "8d27ac234ce96d1047df2cd3d9b6fa4c237546c959af1e6811653e2b0265ae50"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/structures/normal_house_blue.nbt"
+hash = "cf24227d6f1ec598434f1d40f201536f60313e753b10003d2ec1c31008f1f7c0"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/structures/normal_house_brown.nbt"
+hash = "590c74d09457fc02a4a120e12f7a4f947f48fb780fc8e7f2f2bb1e9797d010be"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/structures/normal_house_light_blue.nbt"
+hash = "628170ec8946d201335bdf07b6f735d8cfcbcc3a14adb88da8c934632e3e7c82"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/structures/normal_house_lime.nbt"
+hash = "ea8306a38116df12bb5d6405eaad97eeb983bc135b8157c55b208b11c885ca06"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/structures/normal_house_orange.nbt"
+hash = "045171db27bb2c7edfac19d1fa70af5fb9483f456f0da22b03bca40c32dfc473"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/structures/normal_house_red.nbt"
+hash = "d00b810383eb3a87fa21747502dc177043f4457a04ed951e253de53aecec2446"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/structures/waystone.nbt"
+hash = "08297030b1a83db3ce57d6cb3f3812dc4bd32ce239189d8d2248d33dd4fe3f79"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/tags/worldgen/biome/has_structure/normal_house.json"
+hash = "1664356815c7d828a43d083b593c9843fcfe831f8dc02f052f1d6d00d0fee11b"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/tags/worldgen/biome/has_structure/waystone.json"
+hash = "6a41432460760132511738f0d92cd03f531c8f31f202c73764d435e01723d547"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/configured_feature/ns_flower_default.json"
+hash = "a980e243f30ee78553cc349efc858c08184c33d64bc4b14546b3a86aee8cbfdd"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/configured_feature/ns_flower_flower_forest.json"
+hash = "0fe0515358fb95a02c55e16e5420a785585f305244fa4cc467315b06601100e5"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/configured_feature/ns_flower_meadow.json"
+hash = "a2c6cec8d84038365955979e48151226cbc3b3927c87942f4f11bb690453e332"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/configured_feature/ns_flower_plain.json"
+hash = "663b06a50d62eac0b3d2f338d69fbb30b699a3d6e65413c05b2bebdd509c3e11"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/configured_feature/ns_flower_warm.json"
+hash = "587a672dbde26d7668f41def324a39d71a85292d91e86e3aca06d793dc5c5d00"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/configured_feature/ns_forest_flowers.json"
+hash = "c2739a7ee20b45fadc73116724ca43880e14d20d6265a8009ca24c4377fc4f69"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/placed_feature/ns_flower_default.json"
+hash = "e40a6e1eb53cebad98b1b7d5cb9e35c61963bbc2fad229960d0b65bacf64819a"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/placed_feature/ns_flower_flower_forest.json"
+hash = "0b106bfcebac665d37d916c6dd2ddd7007677129040412876f7392aaf6df3a22"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/placed_feature/ns_flower_meadow.json"
+hash = "a6121dc64406e76f0bd0752fe2d631ecb1c2869214759f3f6ebe7cee67cb102c"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/placed_feature/ns_flower_plain.json"
+hash = "fd2091df8776ab46ada7f3df1bf1a4e0ccbbcfff28f8559bb1e5666ae02f7ce0"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/placed_feature/ns_flower_warm.json"
+hash = "97d5317fd4ac63b353d8796b2fc119254b9ef963d79e26718bea7a3852fb8858"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/placed_feature/ns_forest_flowers.json"
+hash = "405db10e313fa3d9bd4c00ebf2b41ca4f5f92ae6b3b827ea6a588ac4676a5bd7"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/processor_list/normal_house.json"
+hash = "7d9f026917bc1abe489335077aae6c599e1935908652e0e01e2d737fcf5c1e70"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/processor_list/waystone.json"
+hash = "e7e8429a8eaf10052a85d777338769df415c552c320a3dec3b6226daec5c3d3d"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/structure/normal_house_blue.json"
+hash = "e8a49c4106beeb653e59d70d5426302f007ff6144ce333100b4e6a650116d8b5"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/structure/normal_house_brown.json"
+hash = "95b186b74481705aa460226c05e3d72131747d7293d2bf7798fcbee901b2459b"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/structure/normal_house_light_blue.json"
+hash = "3a439506b7e241353f76a83cceb4eb012c4de3d05cf2689c85bee0fbb99df8ca"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/structure/normal_house_lime.json"
+hash = "2174f9556fa8494d1711a0c92e86522c6be9a2ab461fcf6ad9e1b2fce28440cd"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/structure/normal_house_orange.json"
+hash = "32a48b4e5612e11ad6e66bd7b6509b9abf5c5642ff57dfd91bd90e9a43f71670"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/structure/normal_house_red.json"
+hash = "e0a1dfc73e675618f19d10250ae1e917407e1bb9f1c864f84c6777e3176ec125"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/structure/waystone.json"
+hash = "b4f2e3a0fdcb457d57ffd5af29a08da5b7ce43efd24386fe17fefef005a013cd"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/structure_set/normal_house.json"
+hash = "9aaaffa78daaec4217a6bdd4b5e3f459d45e10d06b53e8b20119b771b9f665db"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/structure_set/waystone.json"
+hash = "7a6974028bce60d03af54ff6b3b83c9f97e6de3e85a78b67490e2add69fd56f5"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/template_pool/normal_house_blue.json"
+hash = "b8bc04c67e5df063cbe2a4d9dbb55f8c109dc52730fbe5f2a519ac1f09412631"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/template_pool/normal_house_brown.json"
+hash = "489765b4812b8befa93fce9f74e12370da1074b30d6ca8e4ec781f92a557300d"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/template_pool/normal_house_light_blue.json"
+hash = "2fdb41fee642757433bc935f2df3658447fe0b8938d3b866b07d32ef7ad1eff5"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/template_pool/normal_house_lime.json"
+hash = "fb55c541bc7243805bf89638bb1f13f98b5b32d35fd1c381fa974f4dc7485cf6"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/template_pool/normal_house_orange.json"
+hash = "0ce858958217912649eb00bff9bdb630e14fae135f2fb5b6fe31b8a206448676"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/template_pool/normal_house_red.json"
+hash = "b3fcc1aae7304580a4dc7e2e9a13600fafda9baa8a870d7275b0cef03d78e427"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies/worldgen/template_pool/waystone.json"
+hash = "9425cf43626103fb2148ccdf92fc331b32e3c4d9e2b05dd3ba714ac693fb7c5b"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies_and_legends/loot_tables/chests/cherry_ruins.json"
+hash = "fc64bc461721b3e7d252c3f9beee6521c96efcdb7c419c543b41776c107b4d85"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies_and_legends/loot_tables/chests/end_remnants.json"
+hash = "0e8a85aab47275d8f2595da189882df31e0661c34e5ba16e4727edba695f16dc"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies_and_legends/loot_tables/chests/end_ruins.json"
+hash = "1d9be0349b1e78a44be7244bcc328a0cddaf5208aa551910a604764374709df9"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies_and_legends/loot_tables/chests/ruined_aether_portal.json"
+hash = "6ca790d366b340e68e5f23ed1b941b55a8ce32d59ad0174590d0139f794dc850"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies_and_legends/loot_tables/chests/ruined_library.json"
+hash = "9b7ec96eea0468ec77ea1acff7c4f3cf6d1b30410307cf629bf50c4af27a089b"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies_and_legends/loot_tables/chests/ruins.json"
+hash = "47a5ae4c08cc95e9ff279d6bcb01974ae58c4d1effb88122a12711535193dd51"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies_and_legends/loot_tables/chests/sculk_ruins.json"
+hash = "fcd894bb9a3e39037fb8d5e632c03fc4943cf574e33fd37199df2b77ad36571a"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies_and_legends/loot_tables/chests/underground_remnants.json"
+hash = "560cceaaee87a61dcce15b62bc5a4f2a7f5c0a725c9740e5cd4f693e1e2ad5aa"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies_and_legends/worldgen/structure/ruined_aether_portal.json"
+hash = "95129c2a5067be7dde317b20736dc1abca5e69b79a2180177febc39b7da40208"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies_and_legends/worldgen/structure/ruined_aether_portal_2.json"
+hash = "1be562d70edd27b864865e4786f0465486742c5a7f8c05df8aad04dceb1f5008"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies_and_legends/worldgen/structure/ruined_aether_portal_crimson.json"
+hash = "7dc98bd65c31f6fa3e850b8ef8e6c4c61c74e7a81b010b6e008785db6e2dd872"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies_and_legends/worldgen/structure/ruined_aether_portal_warped.json"
+hash = "d474feb7c738b037b0433ac2ab252d2b5e0e151be12c149a2ec194a72a554272"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies_and_legends/worldgen/structure_set/end_remnants.json"
+hash = "a3fd2a224c409b4491370e0339918c7ec6377dcf821d5ae1f4113f0a75c89f32"
+
+[[files]]
+file = "world/datapacks/Legacies/data/legacies_and_legends/worldgen/structure_set/end_ruins.json"
+hash = "b79ff3b2bf0691a7186ef8b6dd108d74cb138c90dcde7c66347c09466fce03f0"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/dimension_type/overworld.json"
+hash = "fbb40bf397c674c8cdcda46cbe3d9fdc37d3e8bffbcd1c0f043203650ba54b41"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/loot_tables/archaeology/trail_ruins_rare.json"
+hash = "3632501e9113495b55d8d090fcc52c7eb7b0996d9b2946b66f31191a81aa848d"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/loot_tables/chests/abandoned_mineshaft.json"
+hash = "1dfe190a8e5adb80ccabd969f6e09fd9ea99b236aea44c17c3d883ab18baef71"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/loot_tables/chests/ancient_city.json"
+hash = "aa91a61799a34f5bbd7eeca495ae387d953f3256a100664af604ae987fa91377"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/loot_tables/chests/bastion_other.json"
+hash = "2a69b573dcf7f7a573468aaf0ab2063ed6b715ec26cb8012a9bff44fbfcb3db5"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/loot_tables/chests/bastion_treasure.json"
+hash = "cbafe050061f00cbfb12a9c9abc5cbc9629ee5316353043f0859af4c9937b380"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/loot_tables/chests/desert_pyramid.json"
+hash = "0403db209f49a49d5721359d34971e8b42a0778be4edb13c82ccde1e8b3188df"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/loot_tables/chests/end_city_treasure.json"
+hash = "6833e79a818c109ea5e01cf88bf0abeabc5e6c38a1722c823013cf7f72396ef4"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/loot_tables/chests/gameplay/piglin_bartering.json"
+hash = "da672107683af508bd70e5f4efac23044bb5437a9ebc18a4155b0dbbeba3d8bd"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/loot_tables/chests/igloo_chest.json"
+hash = "8b4f4b4c39d270f70a7ae37802a635253b7267b1a679b00b9d017fb0dbb99b9a"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/loot_tables/chests/jungle_temple.json"
+hash = "68f6392a862bf372e9c4128e8830bd656af4024f192def326a404e2c86d28e6e"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/loot_tables/chests/nether_bridge.json"
+hash = "d79d6bb534c93345e38ace7ad3fdc4642f65b81c91dc323a434964e550a7e71e"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/loot_tables/chests/pillager_outpost.json"
+hash = "edd9ecca78cb27a11eac04d9fe5ecfbca1d3b6f9fc5b4d1129beba199d819738"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/loot_tables/chests/ruined_portal.json"
+hash = "f98d74035b77dab48502fc053f99588c92c38a91c9edb2fcab5fcf0691036cf9"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/loot_tables/chests/shipwreck_treasure.json"
+hash = "d3c142a3d3e301704fb7f16dc46de8943a0a4a91086a98b31f682635d6cb1e25"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/loot_tables/chests/simple_dungeon.json"
+hash = "9361aa52549267cc7a70e82e1630e64945b1e8a45f3bda0f39800b7eb975ddcc"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/loot_tables/chests/stronghold_corridor.json"
+hash = "92fc623341afecd06f43c8fdd7b953e45ccaaf565424e2ac819d69a5952cefe8"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/loot_tables/chests/stronghold_crossing.json"
+hash = "edc5415e8f879d197e9c453fe1917427de9b492085a30e0d7ccce04af651bd96"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/loot_tables/chests/stronghold_library.json"
+hash = "3e81a1c5cee4bc088cecf10d63e23228c5e2cda5df66d2974f8542e7f7372675"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/loot_tables/chests/underwater_ruin_big.json"
+hash = "3038bf6ebe322d535c74a5eacf63a977f9a61fdbf03b0e8c283c52c1b68dd72c"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/loot_tables/chests/village/village_tannery.json"
+hash = "4374067cf7ad5b290449b4408600bfc6a5fcc834614819f019f6df2590478c3e"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/loot_tables/chests/village/village_weaponsmith.json"
+hash = "4058888fc9b889bb22feb528754e5ef141b69cea1dd9a6125f960f7fc71cac27"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/loot_tables/chests/woodland_mansion.json"
+hash = "34e0c0ebee07b921882efdbeae8ac0d38a0cf3757c976a3f46f9817801d1b62a"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/loot_tables/gameplay/fishing/treasure.json"
+hash = "0346038a204cccc7d1ae8259a531a4471af9e2c6b237edcf49e577a2d61851b7"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/recipes/compass.json"
+hash = "0412c2095ac02235c743466f4152fc139a947d1b75fcccd2ae2dfbaf83e3ce75"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/recipes/lodestone.json"
+hash = "834217aa0495bca02e5a5bc334ada3c9a3e419da385f214d89c813727581b4fd"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/recipes/netherite_gauntlet_smithing.json"
+hash = "7f73c64b920f294fca625928570c9fbd51d7334ae8c35e7046890a8aeee48253"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/recipes/recovery_compass.json"
+hash = "e5a5d86246579605d7e69ca3dee7c13a5c8ce9402d15addd4705ce6b46c9497c"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/separated_leaves/azalea.json"
+hash = "a6cbef68e0533d5592af2ed8c671aad0236d6e20f4e247570d18ba48643a7f76"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/trades/armorer.json"
+hash = "30addf1d24a2ae0d3a3628d0391690f24f99630ba9d874dd68912c8619ea598b"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/trades/farmer.json"
+hash = "e8855c56ec2a69c2098931f8034c3eb14cee11ff87abc4f6260e029f464242ce"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/trades/toolsmith.json"
+hash = "a6d6c942cc82a858ff16159eabbe10b40876ad0384880f994ed52e50a13025e5"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/trades/weaponsmith.json"
+hash = "bb8db5e0561f544791685a3c44edaf86167ee8041b2be9ebb42256286a90187c"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/biome/dark_forest.json"
+hash = "0829d454046eb87c6504b3ac90d32ab6dee1cd29e098ded87ac5cd415fcc50f9"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/biome/deep_frozen_ocean.json"
+hash = "ed0a0c958d1cd940e3337d664e991d7893f7ab2773209fe9901a47c22e0ce481"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/biome/frozen_ocean.json"
+hash = "82627e30069cfd4e820d574806e2b5bfbec3f4fc8a4b05bba78fe906271ba9de"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/biome/frozen_river.json"
+hash = "790c9f24a210a6345dc13a5b78214029a92828c1d27eb6b7bdc4d6aa089b2d20"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/biome/ice_spikes.json"
+hash = "ff63a8088e32836ecde87dd705cffbc3a4b38a29635e936e1a906125b95751d3"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/biome/snowy_beach.json"
+hash = "497f8fa8dacb3efa14cf5f103ce862892590640d3d67d24970a70c457f53aca0"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/biome/snowy_plains.json"
+hash = "13dd5d5506939b87dcf31685ff836be050fe12b269c9453db03227779dd3c0b4"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/biome/snowy_taiga.json"
+hash = "6ca3e33b17b362ee54396a5a6210d5fdff57ef496758567b984ab49af69ca411"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/biome/stony_shore.json"
+hash = "80971e7679a8759ce4f02d75bffd251cbf633ca50eafe36858d2ce19eb103627"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/biome/the_end.json"
+hash = "c307cadf485d82cb8e1c228458fc2de9a7aac8a9e8436a855ce743cc8e921c31"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/biome/windswept_gravelly_hills.json"
+hash = "055094bc35867426bafc59643aa85b216a47ea731a1f7e36b3ac4e2e160ce71c"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/biome/windswept_hills.json"
+hash = "055094bc35867426bafc59643aa85b216a47ea731a1f7e36b3ac4e2e160ce71c"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/configured_feature/flower_warm.json"
+hash = "13e14696d840ab236c35769f76421c9a876f7c0dc0caa944cb41ae59e023aaf4"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/noise/continentalness.json"
+hash = "b9632b0228d8f2927aca494d958cdac10d265fc1e83e837ba0b58b22e9eae01f"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/noise/continentalness_large.json"
+hash = "88461ffa21671d015f80c97fad54b5d0d2f9086877468d71f58f3f572b90aa64"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/noise/erosion.json"
+hash = "678c9804f7f85c286012f89712181ec9f61bb7a662ecca263e087a1ce99740af"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/noise/erosion_large.json"
+hash = "1a60f6db38cec4425de6195d6fbf437eebfea9c369160b254749d019dfc8268a"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/noise/temperature.json"
+hash = "fe64a37886472059b987225e32599a3398e8cf79db09431207cab3acb2a5a1d2"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/noise/temperature_large.json"
+hash = "c850b06eaaf56305b9b94642e041ec727fa1f9cce211093bbd67fcc513e1d8bd"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/noise/vegetation.json"
+hash = "14fbce5dd647cab3076a49831fcd80b2a383ee6ba4c064ef550c0d5b71b97215"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/noise/vegetation_large.json"
+hash = "7698e66ace41dc2d17e1412f65b50db61b9b96aa8d0b0e8351872d7ce5d28807"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/noise_settings/large_biomes.json"
+hash = "18d10c8026100e0e7522aeaffab61538adab701a2bbdd46846bf8c498094af96"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/noise_settings/overworld.json"
+hash = "20fa62e2c093fd41d3250390d6941cd6350710b7ffd12d3c9779361348b4dffb"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/structure_set/pillager_outposts.json"
+hash = "08f6034d674b7ec56b80bfd353b5fb7c2d7642d77a31cd50c619b673819ec975"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/structure_set/ruined_portals.json"
+hash = "e87ab50e97ac17763be6515677a38a5f81e6872fa411dad106505f6080409314"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/structure_set/shipwrecks.json"
+hash = "1b7829dddd2963c65d902c23fbf715472b9da03a3faf9884146dbff81e1deb26"
+
+[[files]]
+file = "world/datapacks/Legacies/data/minecraft/worldgen/structure_set/villages.json"
+hash = "29cc7fa150453d2f5cf625c90740859eeefed554bbdd584f560fe30413150f96"
+
+[[files]]
+file = "world/datapacks/Legacies/data/more_armor_trims/recipes/beast_armor_trim_smithing_template.json"
+hash = "3fa2c475fc280c287c104298a49a88e2d34c84ba4299fa5f2e1e8aa17da00b04"
+
+[[files]]
+file = "world/datapacks/Legacies/data/more_armor_trims/recipes/fever_armor_trim_smithing_template.json"
+hash = "9a6fbf4eafdbe5308b04724b218d449ffe5f18e94ca0478bf7285a583fc87d4d"
+
+[[files]]
+file = "world/datapacks/Legacies/data/more_armor_trims/recipes/greed_armor_trim_smithing_template.json"
+hash = "92ea970c8b886a5db7782cefdc2ebe5478ba31bf3d4f513c3695618d10974f66"
+
+[[files]]
+file = "world/datapacks/Legacies/data/more_armor_trims/recipes/myth_armor_trim_smithing_template.json"
+hash = "b07d9111aa5c12dd976705195749f2166123d474a5a9948339a65c7d283d0802"
+
+[[files]]
+file = "world/datapacks/Legacies/data/more_armor_trims/recipes/ram_armor_trim_smithing_template.json"
+hash = "79b0076e6fb72eed0fca76a4cd5aa53a0bc457dad4028a9ee556c8dde96d7a47"
+
+[[files]]
+file = "world/datapacks/Legacies/data/more_armor_trims/recipes/storm_armor_trim_smithing_template.json"
+hash = "f783641654a730cf11ad54c2c07f2f2895a1586aec7717161d2dcc57735b9aa5"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/loot_tables/blocks/chert_coal_ore.json"
+hash = "843d8c40d01640d3f3aadd3ba50d11fefa906e219af12db68369db5e3e79b8ec"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/loot_tables/blocks/chert_copper_ore.json"
+hash = "1652aedc0838b117ca18469fbd679151918f3abd7a3ae1a390d2b582996a359c"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/loot_tables/blocks/chert_diamond_ore.json"
+hash = "62828a9e69bf153165c32b6f094ccf7df8f3aa8d18a7f9deb8aae574da770228"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/loot_tables/blocks/chert_emerald_ore.json"
+hash = "644519cf871c19c0f5168e3457be082ba728a11042f0e0c7c96d0eae81a380ba"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/loot_tables/blocks/chert_gold_ore.json"
+hash = "0d0e339b5a4ce1745dc3aba361a0ec8a1a12089e89236e396997c4134c3a14e3"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/loot_tables/blocks/chert_iron_ore.json"
+hash = "b6c9c519e3565b29c2345eba5ee128825492fd793cbacf3a42e2628e060e9f61"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/loot_tables/blocks/chert_lapis_ore.json"
+hash = "5a619197b25f8b0405669bb285679b4bdf8450720129dd6519a729ebd59ff246"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/loot_tables/blocks/chert_redstone_ore.json"
+hash = "33a64bc6fc7d22412a3423231617923ea979066c7e0cf1c800a8a2d0e5ac3891"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/separated_leaves/aspen.json"
+hash = "8c2b4c5a679db2e1701fd81216d97ea87458ec1ef0040aab503d46c7f21cb027"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/separated_leaves/fir.json"
+hash = "803c13690dbee9e4a7e08c57e8622bb93ec0f1259d875aa06dc18664b8747662"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/separated_leaves/joshua.json"
+hash = "39973d77b020178004a2c9152ccc41be78b0c961c794b86ba36d94145b341043"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/separated_leaves/maple.json"
+hash = "116b27687c13942ba86b9ecd348dbc9ab592d3c1ed54b80c4a96f7eb437fafbe"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/worldgen/biome/aspen_forest.json"
+hash = "0840e99ca5e029b7789792f6b26fac6dc014ff23e2b7f08686294ef817e1a642"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/worldgen/biome/blooming_dunes.json"
+hash = "13635cf3cc0029f9f59326ad11db0e91a006bbd1250ba8388c0be8147a749035"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/worldgen/biome/blooming_highlands.json"
+hash = "4ee83ce1dac27a27341266a89bd79a1df027a32dc6d8c070ec39681bf2859a9f"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/worldgen/biome/drylands.json"
+hash = "425b04f31e155dd9457d6271d0c3dea90ba9fbca01479a44d4786fa4dd3e9d54"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/worldgen/biome/fir_forest.json"
+hash = "59bfd83a996287e8a77b05d66279a4eac48c35ac7c0497a2a1d18d87892b079a"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/worldgen/biome/golden_wilds.json"
+hash = "3c865892c608a5874ad785c46eaebd6449ff49e30b712a9f8c28f741259d9c03"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/worldgen/biome/heather_fields.json"
+hash = "ae350b0f4632f9b50f70b44fced21850fc4e16c2c3c54253a5b57d0d1a5c064b"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/worldgen/biome/maple_woodlands.json"
+hash = "2e5a22433c07ce6c4a0b979ded5ebe8c6495e47dc59e0866698ffb0c2e1af0c4"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/worldgen/biome/marigold_meadows.json"
+hash = "13b6648545948c0aa612612cc214c152e72916ee8558db5dc7fb5c0108f63451"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/worldgen/biome/prairie.json"
+hash = "f43bb8944abf71839fdb4217190379a108baedf34d7fb3da23d980dfcf323d31"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/worldgen/biome/tundra.json"
+hash = "a603572afa16be563e43c5295d4a237c5208569a9cba6218c8e6682ee5337cad"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/worldgen/biome/wooded_drylands.json"
+hash = "22360eb937b95919b1074ce921800a2c9f5324f4e2e08dcb1ab3db0330474b55"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/worldgen/placed_feature/patch_scorched_grass_placed.json"
+hash = "2909ff57c5093bebb82348c5b6ef782002e846caa9ea79208bc1c25407e2e589"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/worldgen/placed_feature/patch_tall_scorched_grass_placed.json"
+hash = "369656c2d39900ac92b2a59c311728fc0828fe4b2296373177e7954dccf45cbb"
+
+[[files]]
+file = "world/datapacks/Legacies/data/natures_spirit/worldgen/placed_feature/patch_tundra_red_vegetation.json"
+hash = "78f01a25f44b00ad9d2f19f73d0a4743335205cba6674cbc405a601862c98edd"
+
+[[files]]
+file = "world/datapacks/Legacies/data/nethersdelight/recipes/diamond_machete.json"
+hash = "88189992a353d84a5f137006435f1efbfb08101cb39c1434b5a86a4b600e46b9"
+
+[[files]]
+file = "world/datapacks/Legacies/data/nethersdelight/recipes/golden_machete.json"
+hash = "88189992a353d84a5f137006435f1efbfb08101cb39c1434b5a86a4b600e46b9"
+
+[[files]]
+file = "world/datapacks/Legacies/data/nethersdelight/recipes/iron_machete.json"
+hash = "d971920a2ec93d3455937bdc7d1e17ca84ee1d1b5a4e677e765713717355e538"
+
+[[files]]
+file = "world/datapacks/Legacies/data/nethersdelight/recipes/netherite_machete_smithing.json"
+hash = "7f73c64b920f294fca625928570c9fbd51d7334ae8c35e7046890a8aeee48253"
+
+[[files]]
+file = "world/datapacks/Legacies/data/nethersdelight/worldgen/placed_feature/patch_propelplant_cane.json"
+hash = "44e79b3a7ed9ec86ef0262b5bd90706a639286503f442bc2d26927c6adcfdecc"
+
+[[files]]
+file = "world/datapacks/Legacies/data/njb/worldgen/placed_feature/well/badlands.json"
+hash = "ea5b87b130d5435c1298f7e2d84731e371328743353ddade6199c146359322dd"
+
+[[files]]
+file = "world/datapacks/Legacies/data/njb/worldgen/placed_feature/well/frozen.json"
+hash = "68d773f2c05d678f48d492ff888105f45b4920bca60bc8fe1fd0ce699571f3ff"
+
+[[files]]
+file = "world/datapacks/Legacies/data/nullscape/worldgen/biome/crystal_peaks.json"
+hash = "5afeed28bf61054c2fa26a1440e49afae2d91fdb26cf4b540b8bf23983d8645f"
+
+[[files]]
+file = "world/datapacks/Legacies/data/nullscape/worldgen/biome/shadowlands.json"
+hash = "10e0c94540a21dd05f41481b54b514c0bde2d95933b086effa2ec1a772469ec0"
+
+[[files]]
+file = "world/datapacks/Legacies/data/nullscape/worldgen/biome/void_barrens.json"
+hash = "7b3e851b34e842c2ece4a6efe0e3e75c9d498f1d35a5e0fe81bff6a16ec377ff"
+
+[[files]]
+file = "world/datapacks/Legacies/data/pearfection/separated_leaves/callery.json"
+hash = "68b8163853e0bd966210812a665a7cba816442f2d81cd544e0ef18fbe1ee5918"
+
+[[files]]
+file = "world/datapacks/Legacies/data/profundis/worldgen/structure/amethyst_dungeon.json"
+hash = "fd630f57285d7a1cda8e69fbe2f9bd9dd347cb508817f79e769ec221d74e28f8"
+
+[[files]]
+file = "world/datapacks/Legacies/data/profundis/worldgen/structure_set/amethyst_dungeon.json"
+hash = "738960db6ae47ec33a8c5c904ae3a7d0465899f3e5deb9fd47beea2037e245ac"
+
+[[files]]
+file = "world/datapacks/Legacies/data/profundis/worldgen/structure_set/cabin.json"
+hash = "3d12c9cd46f36a97e6f33dc5ae46dfe3377f6ef3906c27239b66c83bce2fe3d1"
+
+[[files]]
+file = "world/datapacks/Legacies/data/profundis/worldgen/structure_set/ice_dungeon.json"
+hash = "610aae340741cad42e14788af143e34a5781dc099f5ca540d22948ddb5c07e4e"
+
+[[files]]
+file = "world/datapacks/Legacies/data/profundis/worldgen/structure_set/mushroom_house.json"
+hash = "a9455db49f5f66e80eb89ca358180d1058ab059e13a8c87ac80639647018d78f"
+
+[[files]]
+file = "world/datapacks/Legacies/data/recovery_plus/recipes/smart_recovery_compass.json"
+hash = "6be873e493eae61719f62bc8140e9698819aed2b0cf25505f19ef42b88d08e56"
+
+[[files]]
+file = "world/datapacks/Legacies/data/snowyspirit/loot_tables/chests/igloo_sled.json"
+hash = "aa53cb698fd75f611493780da00520d903c4625bfdf4324dba1831faf885d653"
+
+[[files]]
+file = "world/datapacks/Legacies/data/snowyspirit/tags/worldgen/biome/has_gingerbread_house.json"
+hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
+
+[[files]]
+file = "world/datapacks/Legacies/data/snowyspirit/worldgen/structure_set/gingerbread_house.json"
+hash = "ce018d14c13aab0851d24da9e13b543ece65563e7d2b94168d6ad8b704e862d3"
+
+[[files]]
+file = "world/datapacks/Legacies/data/sprout/worldgen/configured_feature/cattails.json"
+hash = "8e191337e5df3c1c3e12d3f7d529b06c194c3f428fa4a784726fad43913c4444"
+
+[[files]]
+file = "world/datapacks/Legacies/data/sprout/worldgen/configured_feature/dune_grass.json"
+hash = "e6d311ad41f14f0f907e62ac589de3f7f42245d247e28b25478a081916ac0650"
+
+[[files]]
+file = "world/datapacks/Legacies/data/sprout/worldgen/configured_feature/sprouts.json"
+hash = "934209cae9ee408f92a0d86509bf1aaf003462402f05b7cc368054cd2769e22e"
+
+[[files]]
+file = "world/datapacks/Legacies/data/sprout/worldgen/configured_feature/tall_dead_bush.json"
+hash = "4731daebd117a7d3e613dbf862980636ae6f2347cf3f538c748171f1d4451f00"
+
+[[files]]
+file = "world/datapacks/Legacies/data/supplementaries/worldgen/structure_set/way_signs.json"
+hash = "8ac1ad6d08a73693d59d1854f79f6ee285d1797cddb993f8287f2485172e7181"
+
+[[files]]
+file = "world/datapacks/Legacies/data/tlc/loot_tables/chests/biblio.json"
+hash = "4cc8b6a92ccf8696cda0238efebdfea841eae6accb0b7f90f51e4ae686de7c17"
+
+[[files]]
+file = "world/datapacks/Legacies/data/twigs/recipes/allium_paper_lantern.json"
+hash = "825fe3d569cf2da1ba288b7863f0ca3e92e460561a279579afe11401a6eeb0ad"
+
+[[files]]
+file = "world/datapacks/Legacies/data/twigs/recipes/blue_orchid_paper_lantern.json"
+hash = "825fe3d569cf2da1ba288b7863f0ca3e92e460561a279579afe11401a6eeb0ad"
+
+[[files]]
+file = "world/datapacks/Legacies/data/twigs/recipes/cracked_polished_tuff_bricks.json"
+hash = "825fe3d569cf2da1ba288b7863f0ca3e92e460561a279579afe11401a6eeb0ad"
+
+[[files]]
+file = "world/datapacks/Legacies/data/twigs/recipes/crimson_roots_paper_lantern.json"
+hash = "825fe3d569cf2da1ba288b7863f0ca3e92e460561a279579afe11401a6eeb0ad"
+
+[[files]]
+file = "world/datapacks/Legacies/data/twigs/recipes/dandelion_paper_lantern.json"
+hash = "825fe3d569cf2da1ba288b7863f0ca3e92e460561a279579afe11401a6eeb0ad"
+
+[[files]]
+file = "world/datapacks/Legacies/data/twigs/recipes/paper_lantern.json"
+hash = "825fe3d569cf2da1ba288b7863f0ca3e92e460561a279579afe11401a6eeb0ad"
+
+[[files]]
+file = "world/datapacks/Legacies/data/twigs/worldgen/placed_feature/azalea_flowers.json"
+hash = "b487a941dd2813ce5e6003c52c174f75ce2560d0d8d52bf1c463aa1b3e65e542"
+
+[[files]]
+file = "world/datapacks/Legacies/data/twigs/worldgen/structure_set/bloodstone_obelisk.json"
+hash = "1d345edb6b326975441aabd00be8fd34508bd694cd48235d4077cc3a191bbfd9"
+
+[[files]]
+file = "world/datapacks/Legacies/data/wilderwild/separated_leaves/baobab.json"
+hash = "df274dd9437fad3a987b374030fb6a0b117de4272c9c369a667ee65f366ff937"
+
+[[files]]
+file = "world/datapacks/Legacies/data/wilderwild/worldgen/configured_feature/savanna_trees.json"
+hash = "475d6f4254c017041286a16bb26fd873bc575e593084b0c019e433a7304478a5"
+
+[[files]]
+file = "world/datapacks/Legacies/data/wilderwild/worldgen/placed_feature/milkweed.json"
+hash = "16e09eb6606a5766e90f0e76b08f535abeef7cc654958faeab6292132e35f7d2"
+
+[[files]]
+file = "world/datapacks/Legacies/data/wilderwild/worldgen/placed_feature/milkweed_rare.json"
+hash = "8c183238c8a6349fdabeec5d7fd1774077e815b391c5f6f532f1a832ba2ecc78"
+
+[[files]]
+file = "world/datapacks/Legacies/data/wilderwild/worldgen/structure_set/abandoned_cabins.json"
+hash = "e1657e8addac5e66a70f680a72aba3ae652166edf55a7e4e90858a67d5fbda1c"
+
+[[files]]
+file = "world/datapacks/Legacies/pack.mcmeta"
+hash = "eb025c38fe707904da7a9b4b1eee30b1abbf85f329015677052241f84f0af01a"
+
+[[files]]
+file = "world/datapacks/NetherRatio_1.20-1.20.1-custom.zip"
+hash = "3b790e402aa4531f629182b15566082708eca0065eb9e7f97db47db9b8de9809"
+
+[[files]]
+file = "world/datapacks/New-End-Cities.zip"
+hash = "67f66923e77a6c09981b408bb104610fedc5c0a6b6b3c7b1ed11c90b4e5df393"
+
+[[files]]
+file = "world/datapacks/New-Ocean-Ruins.zip"
+hash = "142ba317a5393dbe78d1415d6b0c3758d2050c93183b78b6a9f46c097e94a74f"
+
+[[files]]
+file = "world/datapacks/New-Ruined-Portals.zip"
+hash = "0fa71cb631d9f3a5f03f7e74d1f5a49424d193ca9fe034f5ac647eae27b26525"
+
+[[files]]
+file = "world/datapacks/ctov-wizards-add-on-v2-1.zip"
+hash = "c263293cbc757d7445d21bfa3879a17050839a0178a8e32a4874629652e87984"
+
+[[files]]
+file = "world/datapacks/explorify-1.19-1.3.0-custom.zip"
+hash = "840eb00e84ba7fa1253a9ff99a659bb6947650ceed82d170a2f230f9eec72b36"
+
+[[files]]
+file = "world/datapacks/ns_modified_badlands-custom/data/minecraft/worldgen/biome/badlands.json"
+hash = "b7a1cfe712475d8d4b280c98bf7bf88124b1993b912f087665a1f4f43f21df69"
+
+[[files]]
+file = "world/datapacks/ns_modified_badlands-custom/data/minecraft/worldgen/biome/eroded_badlands.json"
+hash = "b7a1cfe712475d8d4b280c98bf7bf88124b1993b912f087665a1f4f43f21df69"
+
+[[files]]
+file = "world/datapacks/ns_modified_badlands-custom/data/minecraft/worldgen/biome/wooded_badlands.json"
+hash = "526789e58f9121f9036d8ffd5e276d6d7eaf38d112ec664fdcb1242e66a1d656"
+
+[[files]]
+file = "world/datapacks/ns_modified_badlands-custom/pack.mcmeta"
+hash = "1e0071fc3f3bb422747a6d7dc818990b8defd70cbd4cde07b925559edabbb05b"
+
+[[files]]
+file = "world/datapacks/ns_modified_badlands-custom/pack.png"
+hash = "02f5ef7ba226e5c2bd56ebe2177a6042a2e2cce18dba08f866ea08bdccf316d7"
+
+[[files]]
+file = "world/datapacks/ns_modified_mountain_biomes-custom/data/minecraft/worldgen/biome/cherry_grove.json"
+hash = "e61efe2117ff976e1682d4d380c52edeb669e57bd5ae94432696f4d33c37bac3"
+
+[[files]]
+file = "world/datapacks/ns_modified_mountain_biomes-custom/data/minecraft/worldgen/biome/grove.json"
+hash = "c1682e04e4a6a9f67f8bc3e00d06486a8192e5520036a7f0d0ccd7c6006d706f"
+
+[[files]]
+file = "world/datapacks/ns_modified_mountain_biomes-custom/data/minecraft/worldgen/biome/meadow.json"
+hash = "db7191d5150121582575d7090929a9ade4c46f432f124f1b072b432e6afbdb00"
+
+[[files]]
+file = "world/datapacks/ns_modified_mountain_biomes-custom/data/minecraft/worldgen/biome/snowy_slopes.json"
+hash = "a1bc3aed83339e4337ab4625d943b31fcf413769b52b8564d792679a895a977c"
+
+[[files]]
+file = "world/datapacks/ns_modified_mountain_biomes-custom/pack.mcmeta"
+hash = "f2d2df1cc380069046606f04840ca60de1bbfc0e56cda31c45d73f9e392a4dd1"
+
+[[files]]
+file = "world/datapacks/ns_modified_mountain_biomes-custom/pack.png"
+hash = "d2060b146590963044b6e66ed10767fd9be71ed50a7516b49bda5d7e4c30607e"
+
+[[files]]
+file = "world/datapacks/ns_modified_swamp/data/minecraft/worldgen/biome/swamp.json"
+hash = "70739a5e002a23744b4c35d215d5bc789a376cf0f48a094c12f34390adf1af91"
+
+[[files]]
+file = "world/datapacks/ns_modified_swamp/data/minecraft/worldgen/configured_feature/patch_sugar_cane_swamp.json"
+hash = "81c05370d9ac61a281427a6fdae786f663e952ef04bf581fcdb13b636f65f713"
+
+[[files]]
+file = "world/datapacks/ns_modified_swamp/data/minecraft/worldgen/placed_feature/patch_sugar_cane_swamp.json"
+hash = "bffebc87593a0bcee5e29c139763d0c19b498faaba13c586dc8528ad7426fbb0"
+
+[[files]]
+file = "world/datapacks/ns_modified_swamp/pack.mcmeta"
+hash = "77b5fd0cf575ab2f17dea1029be47231290b7d6e6a0efc891605c12d557c2036"
+
+[[files]]
+file = "world/datapacks/ns_modified_swamp/pack.png"
+hash = "bfd40bb06e4911ff58dd3acdca5f999d9076a0cf169b54ae4d8fa7fc78707d97"
+
+[[files]]
+file = "world/datapacks/pause-server-when-no-players.zip"
+hash = "6d1a747bebda1949c4eb40efeab75eb787422a841ee1323391e312e57ef782e5"
+
+[[files]]
+file = "world/datapacks/shears_required_for_nether_roots.zip"
+hash = "9520bad39661f46fb45d4207f0d3d8d5182a3b838c88acf620e5c20596757ed9"
+
+[[files]]
+file = "world/datapacks/trueending_v1.1.0b_1.20.x.zip"
+hash = "584db07e956bb736b9f8eb662eed9075885c2057aa0633acca50642b8ed9fd55"
+
+[[files]]
+file = "world/datapacks/vanillarefresh-v1.4.19h_1.20.x.zip"
+hash = "d54d7b1cca251512366c44030eb069fd6eccc5b3ef0b074750f784f59db88928"
