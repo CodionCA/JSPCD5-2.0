@@ -5523,11 +5523,6 @@ hash = "a7aa5cef271cb7e8d1a00a959cee8081e9707da03b513cac502993773e99e510"
 metafile = true
 
 [[files]]
-file = "mods/dataloader.pw.toml"
-hash = "60172c258cc9297e51f7712ff68da42b3f690f59cfb243a4131437d3f75f9c3a"
-metafile = true
-
-[[files]]
 file = "mods/daves-potioneering.pw.toml"
 hash = "33b2b9b968c1f219eafd8022ea6bcd7eb3ed507e45e8b283358174fc1ec95330"
 metafile = true
