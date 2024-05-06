@@ -5133,10 +5133,6 @@ file = "mods/Server-Translations-2.0.0+1.20.jar"
 hash = "d09e88745daff35bfaecc2bcc806036f42bf96d3d508f74fad23b531aed45a3c"
 
 [[files]]
-file = "mods/ShoulderSurfing-Fabric-1.20.1-2.8.1.jar"
-hash = "69ec111fc883bbc8b6d89e308426d71a8c077ab125d3ee87e70ed83bd1f5aae9"
-
-[[files]]
 file = "mods/ShutUpMojang-1.4.1.jar"
 hash = "f70219f392591bf3e51e80a777b1ecc8876fb6b6bc212d910a5faed800516304"
 
