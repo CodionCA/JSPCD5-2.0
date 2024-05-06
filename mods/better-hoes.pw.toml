@@ -1,0 +1,13 @@
+name = "Better Hoes"
+filename = "better-hoes-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lpuBBsSp/versions/7prpkq0m/better-hoes-1.2.1.jar"
+hash-format = "sha1"
+hash = "8cfbf74435673712384cc895b688935a1a05f2ca"
+
+[update]
+[update.modrinth]
+mod-id = "lpuBBsSp"
+version = "7prpkq0m"

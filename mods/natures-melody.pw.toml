@@ -1,0 +1,13 @@
+name = "Nature's Melody"
+filename = "natures-melody-1.20.1-v1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rWVjvEgI/versions/CkiCbcaX/natures-melody-1.20.1-v1.0.0.jar"
+hash-format = "sha1"
+hash = "00431b94be087bcf414a7e1523a426c4d36fe642"
+
+[update]
+[update.modrinth]
+mod-id = "rWVjvEgI"
+version = "CkiCbcaX"

@@ -1,0 +1,13 @@
+name = "Tough Glass"
+filename = "toughglass-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e9Jq2nL8/versions/si72cOWE/toughglass-3.0.1.jar"
+hash-format = "sha1"
+hash = "9222b82659918420671be24470398a238717c333"
+
+[update]
+[update.modrinth]
+mod-id = "e9Jq2nL8"
+version = "si72cOWE"

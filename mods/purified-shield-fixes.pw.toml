@@ -1,0 +1,13 @@
+name = "Walksy's (Purified) Shield Fixes"
+filename = "purified-walksy-shield-fixes-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TX3jZPTl/versions/Fy0z75wb/purified-walksy-shield-fixes-1.0.jar"
+hash-format = "sha1"
+hash = "5767707fb2eafd487582b15c1e9ea11c9cfa3643"
+
+[update]
+[update.modrinth]
+mod-id = "TX3jZPTl"
+version = "Fy0z75wb"
