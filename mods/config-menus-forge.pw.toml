@@ -1,6 +1,7 @@
 name = "Forge Config Screens [Forge & Fabric]"
 filename = "ForgeConfigScreens-v8.0.2-1.20.1-Fabric.jar"
-side = "both"
+side = "client"
+pin = true
 
 [download]
 hash-format = "sha1"

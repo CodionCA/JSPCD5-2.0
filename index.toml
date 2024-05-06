@@ -5293,7 +5293,7 @@ metafile = true
 
 [[files]]
 file = "mods/config-menus-forge.pw.toml"
-hash = "f396dea8cc44bbe8e57f06b3bacc348a8daedfb11b10d09aa510b59bd0c6109a"
+hash = "e8925294ad1baecd301189a5fe57c44e46d67876e97b4975439f848cc45f0cb8"
 metafile = true
 
 [[files]]
