@@ -3833,11 +3833,6 @@ hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
 metafile = true
 
 [[files]]
-file = "mods/carpet.pw.toml"
-hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
-metafile = true
-
-[[files]]
 file = "mods/cat_jam.pw.toml"
 hash = "487ddf6fff64ecacf2a546509568e2269d459b827f17fce1849cd64eeb974986"
 metafile = true
@@ -3924,11 +3919,6 @@ metafile = true
 [[files]]
 file = "mods/conduits-prevent-drowned.pw.toml"
 hash = "7e6918a7b7e757b1492299367f1ec6d0e169e9826db55faeb318b2803e1fca81"
-metafile = true
-
-[[files]]
-file = "mods/config-menus-forge.pw.toml"
-hash = "e8925294ad1baecd301189a5fe57c44e46d67876e97b4975439f848cc45f0cb8"
 metafile = true
 
 [[files]]
@@ -4144,11 +4134,6 @@ hash = "6e28aecc1374da8b38cef4b63578bb4d00c8a17c19948ced3e1284e60c221011"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "587142b33082d5677c233f1cf91e3c7390c15b371335118abe42802ec3303802"
-metafile = true
-
-[[files]]
 file = "mods/enchant-tweaker.pw.toml"
 hash = "253bd71361eedba6b5863b341a9319f9dfdcd4e8982cf3b24040c04803894f6a"
 metafile = true
@@ -4221,11 +4206,6 @@ metafile = true
 [[files]]
 file = "mods/extra-enchantments-and-curses.pw.toml"
 hash = "ca55187da2639d28e6f2e7e42bd85796c83ff0b3041a5088c7db0383683c78b2"
-metafile = true
-
-[[files]]
-file = "mods/extra-mod-integrations.pw.toml"
-hash = "d30518783eb28af0bc9c90315bee1f65368daece3e3ba6957a85b11b6da67478"
 metafile = true
 
 [[files]]
@@ -4311,11 +4291,6 @@ metafile = true
 [[files]]
 file = "mods/fastanim.pw.toml"
 hash = "a572cf3fe79af016c34abcbb7c286c28a840f98f1ab52b91167cde7cd3ae925a"
-metafile = true
-
-[[files]]
-file = "mods/faster-random.pw.toml"
-hash = "9afa18269996bcaa57899af3175ad0bef142363c3c863b1ed7206089677fcd3d"
 metafile = true
 
 [[files]]
@@ -5254,11 +5229,6 @@ hash = "9539d0c5cc10592bc791b9feb173f5d29340f404b83ca1bdd8ab21bca7afb2df"
 metafile = true
 
 [[files]]
-file = "mods/stutterfix.pw.toml"
-hash = "0174f372918ed7eb79d853c42943495b0d5d9bb6ab7326ca30f466dbc340d4ef"
-metafile = true
-
-[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "d8fea7b65f0e5ce3e77bdc748bb114439859956ab74b7b0a10ec5286b5da4889"
 metafile = true
@@ -5411,11 +5381,6 @@ metafile = true
 [[files]]
 file = "mods/urkaz-moon-tools.pw.toml"
 hash = "2482b0c57ae89eeb5506e245f0d4c70b6560f49c32504b2d6b4a48038e8c2fb6"
-metafile = true
-
-[[files]]
-file = "mods/videotape.pw.toml"
-hash = "9551dd0b80f44fd212a0ce14d9c3ffa2c1775468f2b4c94f891385d4806c783d"
 metafile = true
 
 [[files]]
