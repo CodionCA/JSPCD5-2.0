@@ -5476,7 +5476,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky-pregenerator.pw.toml"
-hash = "c9046358764d73949cc7f24ebd02741f996db89ce448c92f94bb3a2ae4f17e74"
+hash = "8f3e01ad47042d186087576cd17e91f78576295e7ca16fb885550910cb97caa4"
 metafile = true
 
 [[files]]
@@ -5535,7 +5535,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "9c9cca44c21fdd75778aa172a2e5b0f7f5f2a29cc27c28489c62d88d358695dd"
+hash = "6aa466cbe171e16ea0fc1730122432c370083cbd8fb132e5884b742b24049090"
 metafile = true
 
 [[files]]
