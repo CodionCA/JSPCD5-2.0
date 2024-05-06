@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:end_highlands",
+        {
+            "id": "nullscape:shadowlands",
+            "required": false
+        },
+        {
+            "id": "nullscape:void_barrens",
+            "required": false
+        }
+    ]
+}

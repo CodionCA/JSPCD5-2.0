@@ -1,0 +1,71 @@
+{
+  "pools": [{
+    "name": "main",
+    "rolls": 10,
+    "entries": [
+      {
+        "type": "minecraft:item",
+        "weight": 2,
+        "name": "minecraft:book",
+        "functions": [
+          {
+            "function": "minecraft:enchant_randomly",
+            "enchantments": [
+              "minecraft:channeling",
+              "enchantery:soulbound",
+              "extra_enchantments:electrifying_shot"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "minecraft:item",
+        "weight": 4,
+        "name": "minecraft:book",
+        "functions": [
+          {
+            "function": "minecraft:enchant_randomly",
+            "enchantments": [
+              "minecraft:quick_charge",
+              "minecraft:multishot",
+              "minecraft:piercing",
+              "minecraft:sharpness",
+              "minecraft:unbreaking",
+              "minecraft:efficiency",
+              "guarding:pummeling",
+              "extra_enchantments:supercharge"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "minecraft:item",
+        "weight": 5,
+        "functions": [{"function": "minecraft:set_count", "count": {"min": 1.0, "max": 3.0, "type": "minecraft:uniform"}}], "name": "minecraft:book"
+      },
+      {
+        "type": "minecraft:item",
+        "weight": 4,
+        "functions": [{"function": "minecraft:set_count", "count": {"min": 1.0, "max": 3.0, "type": "minecraft:uniform"}}], "name": "minecraft:firework_rocket"
+      },
+      {
+        "type": "minecraft:item",
+        "weight": 8,
+        "functions": [{"function": "minecraft:set_count", "count": {"min": 1.0, "max": 3.0, "type": "minecraft:uniform"}}], "name": "minecraft:paper"
+      },
+      {
+        "type": "minecraft:item",
+        "weight": 8,
+        "functions": [{"function": "minecraft:set_count", "count": {"min": 1.0, "max": 3.0, "type": "minecraft:uniform"}}], "name": "minecraft:ink_sac"
+      },
+      {
+        "type": "minecraft:item",
+        "weight": 3,
+        "functions": [{"function": "minecraft:set_count", "count": {"min": 1.0, "max": 3.0, "type": "minecraft:uniform"}}], "name": "minecraft:leather"
+      },
+      {
+        "type": "empty", "weight": 10
+      }
+    ]
+  }]
+}

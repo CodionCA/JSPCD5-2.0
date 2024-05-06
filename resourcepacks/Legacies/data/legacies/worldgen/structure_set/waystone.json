@@ -1,0 +1,14 @@
+{
+    "structures":[
+      {
+         "structure":"legacies:waystone",
+         "weight":1
+      }
+    ],
+    "placement":{
+       "type":"minecraft:random_spread",
+       "salt":487304,
+       "spacing":45,
+       "separation":15
+    }
+ }
