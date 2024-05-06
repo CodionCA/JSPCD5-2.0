@@ -5348,11 +5348,6 @@ hash = "f04f6619202e8b2b22e33c4ce152f879633577d82ada897327603c050da601df"
 metafile = true
 
 [[files]]
-file = "mods/betterz.pw.toml"
-hash = "107d1eb8a49ec27787d59d8e5cadb8a2e2f02c41b05e8102027f232eb68a6677"
-metafile = true
-
-[[files]]
 file = "mods/biome-makeover.pw.toml"
 hash = "69f4811aeabdab83c026b764ded07740595e6d74bf28970a83f1bf6e36a0244b"
 metafile = true
@@ -6141,11 +6136,6 @@ hash = "92dcfb598285922727b8a446cd9fb6154686412746eb6c1479052a0e93a9275e"
 metafile = true
 
 [[files]]
-file = "mods/jobsaddon.pw.toml"
-hash = "643bd4c130a5ad6960a4c6ae1c90ff6ad125124559dcc56fd037ba0406f16241"
-metafile = true
-
-[[files]]
 file = "mods/keybind-fix.pw.toml"
 hash = "48777d535f2dbe76ec2adb6a001ab4442e40e0e403570eb5dc9a49e6957e40a1"
 metafile = true
@@ -6197,16 +6187,6 @@ metafile = true
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "e4ea8b4858171d25a461833cb0944b34c8d3403119e7a5d83309c0c56f5ee4f8"
-metafile = true
-
-[[files]]
-file = "mods/levelz.pw.toml"
-hash = "46da76d650af422233ae0a20187b8acb2b1565afa014e22c833c61e5d736b721"
-metafile = true
-
-[[files]]
-file = "mods/libz.pw.toml"
-hash = "1549ddf6a28c530fe7e54d00a28149bf8bf1c3e66231a0aefb7b9185a827a2ae"
 metafile = true
 
 [[files]]
@@ -6488,18 +6468,8 @@ hash = "57b8a5d76bf66af547618353b986d3b9a7663b3e7efc7cfe5382207ae84405d9"
 metafile = true
 
 [[files]]
-file = "mods/paladinz.pw.toml"
-hash = "c878234bb2c4d55749384915afe08ae55ec89f7ff78f6b9f32f9fb6d1d319841"
-metafile = true
-
-[[files]]
 file = "mods/particle-tweaks.pw.toml"
 hash = "7ff5ec6974692934c0d8d844287998d341a7222072e21d8e985a76ad8a82da72"
-metafile = true
-
-[[files]]
-file = "mods/partyaddon.pw.toml"
-hash = "429132fbaabcaf89e6596dcf8b0e19b2cffc9bb33d60219b79650ad49bfd6a35"
 metafile = true
 
 [[files]]
