@@ -5121,10 +5121,6 @@ file = "mods/EnhancedBookWriting-1.1.0+mc1.19.4.jar"
 hash = "32eaabd8544993b4fe6a50e8a848ffe849a2d617f5dde2ad0a37bba6e327a070"
 
 [[files]]
-file = "mods/HorseBuff-1.20-2.1.2.jar"
-hash = "96fce1ec8bc95c34304c9a8445e7bca0f4ab6c27c2ead63ae2f019f1e432102d"
-
-[[files]]
 file = "mods/JustEnoughResources-Fabric-1.20.1-1.4.0.247.jar"
 hash = "86ba80927b955997cfffbc08c62511febf37bc4171d0971a9e6b4b919ad9e8a2"
 
@@ -5467,10 +5463,6 @@ metafile = true
 file = "mods/choicetheorems-overhauled-village.pw.toml"
 hash = "7485b78730f025a099feb745f2436f6eeca35bdb66fe5581b9a3be605d597d53"
 metafile = true
-
-[[files]]
-file = "mods/chrysalis-0.1.8.jar"
-hash = "cf30cd32943ace4127c4eb46a9300c0c7abfecc175ff5c38a35e0254e3a1c845"
 
 [[files]]
 file = "mods/chrysalis.pw.toml"
@@ -5994,14 +5986,6 @@ hash = "5e25b23f945691a14a0a2e8b54210163597ff2270d13d29804703a610c8f597c"
 metafile = true
 
 [[files]]
-file = "mods/geckolib-fabric-1.20.1-4.3.1.jar"
-hash = "b45dad882f6b9d1d5e93c78e0717dba309657c6d14c7a4abd3dc4c2e3f3b8448"
-
-[[files]]
-file = "mods/geckolib-fabric-1.20.1-4.4.jar"
-hash = "6584c5e1b3b3c5c8a1aa7203419ec7adf4550f5baab2cedf594f0142e3f12024"
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "19cbba78c4982b15d10e44736a5fb7e992e477f6101799258d0ef7e03b288033"
 metafile = true
@@ -6084,9 +6068,8 @@ hash = "ac1e67e8fd33b13ed99c8aed964ab2501d8a2092f01c22b901e43b6824b2bc6f"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "275e74338b823bb2b06aedc4337ef6866a47dd718fd9ae7d02df0d64da438cca"
-metafile = true
+file = "mods/indium-1.0.30+mc1.20.4.jar"
+hash = "995ae1021d370d3b5abd6b805db488f93d6678874ecaa0816d41f15329dffe30"
 
 [[files]]
 file = "mods/inertiaanticheat.pw.toml"
@@ -6117,6 +6100,10 @@ metafile = true
 file = "mods/invmove.pw.toml"
 hash = "881ad6ef91c24ce547c8062685cf361b1937b4162c8a238196c8106ef62ab15d"
 metafile = true
+
+[[files]]
+file = "mods/iris-1.7.0+mc1.20.1.jar"
+hash = "a2ca9ca56265abd5f44a001e437bd4c9f3abed7cd8dae058208dd1c93488e131"
 
 [[files]]
 file = "mods/item-borders-fabric.pw.toml"
@@ -6283,10 +6270,6 @@ hash = "2af509457d13907cf0b48f2f0997750c07e0349f6522b87f8b4bcd1794aa2559"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix-fabric-1.17+-1.1.5.jar"
-hash = "b8ac33d7262e019710dd25e454116616bc9ed1f714ed910594b28a4c1da5adde"
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
@@ -6373,10 +6356,6 @@ metafile = true
 file = "mods/morebricksplus.pw.toml"
 hash = "877f6a7f442e1124907e48c2803f3474153723ea4c8ea7025d556739a32434a0"
 metafile = true
-
-[[files]]
-file = "mods/moreculling-1.20.1-0.19.0.jar"
-hash = "8bd332613996b6da00318888f33c4704dba21083e1f7a2503969eb7c7d388cb0"
 
 [[files]]
 file = "mods/moreculling.pw.toml"
@@ -6786,10 +6765,6 @@ hash = "db5a1c7f46a9e397a88fb49ed9856ead85dc22b40611b614b71d1fe15e09c770"
 metafile = true
 
 [[files]]
-file = "mods/sihywtcamc-1.4.5+1.20.1.jar"
-hash = "a4b8301a6cf4b5686d39cc06b74607758c2cb660fe5097ed12aa0e9e4a98c3ad"
-
-[[files]]
 file = "mods/sihywtcamd-1.8+1.20.1.jar"
 hash = "bc7e532148b10dbb4671ac3f5f0275cd7f81467cd75e149b071a2c7b5a397f85"
 
@@ -6855,6 +6830,10 @@ hash = "96218de328fb4a675b8c9509fc7f7f451f89ab55e0c1b5caff31efeda247b294"
 file = "mods/sodium-extra.pw.toml"
 hash = "1c715482d789775635bdadfd07a193c9b72474d9bbae2259e3c65c3a054edddd"
 metafile = true
+
+[[files]]
+file = "mods/sodium-fabric-0.5.8+mc1.20.1.jar"
+hash = "cb19c646b6bc09ae75cb438c44d13a3ef3625ef0e2fb8fbc83168746df7d0291"
 
 [[files]]
 file = "mods/sodium-shader-support-0.1.0-mc1.20.1.jar"
