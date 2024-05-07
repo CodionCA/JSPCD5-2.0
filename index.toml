@@ -1479,7 +1479,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "9cc335e136843f168134c5b5da40f95260da3f33340de437ea2c1a6caa24404a"
+hash = "64e8cc77caf3ee3811d6cfbe717b148ae51114eb40a809dad70a49fa91eaa36c"
 metafile = true
 
 [[files]]
@@ -1505,6 +1505,11 @@ metafile = true
 [[files]]
 file = "mods/config-menus-forge.pw.toml"
 hash = "e8925294ad1baecd301189a5fe57c44e46d67876e97b4975439f848cc45f0cb8"
+metafile = true
+
+[[files]]
+file = "mods/configurable-despawn-timer.pw.toml"
+hash = "c3c7f82d7713afa4ca0a60cc84feca7d61a40306e4c0408d179fdb1e02d8e04a"
 metafile = true
 
 [[files]]
@@ -1657,6 +1662,11 @@ metafile = true
 [[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "82172ab85179efa72adddb64a2b406832e039284270efd87e491c237cb912f9b"
+metafile = true
+
+[[files]]
+file = "mods/do-api.pw.toml"
+hash = "2143fb9cc24ff9891ab59eb5abb444433b0e5f14d26c744910bf83c71bce7a88"
 metafile = true
 
 [[files]]
@@ -1870,11 +1880,6 @@ hash = "29eda1376700d6435acb68c1cb55c06c83af86bbb924b9c7b1697f25888a0d77"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-fabric.pw.toml"
-hash = "28649c624258849191a6c0b0a1ba5479870bf9c14748bd6cc08dafd3d42e110a"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "e64cad200dfc6145b9822c7d7c7a89dd040e28bd8e79d4f827c02c9c348b08df"
 metafile = true
@@ -1917,6 +1922,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "5641148e6922cc3e6768726ff5db1d23088fb3969951a67e201ed3cc8183c700"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
@@ -2145,6 +2155,16 @@ metafile = true
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "e4ea8b4858171d25a461833cb0944b34c8d3403119e7a5d83309c0c56f5ee4f8"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-brewery.pw.toml"
+hash = "60a94abfe5442c2debb03de62f0d76485f6a1e31e863f04215483e73201cef66"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-herbalbrews.pw.toml"
+hash = "55000f16f0e56f503db773544daabdbcd411e12142afc0db642c9f609d466271"
 metafile = true
 
 [[files]]
@@ -2972,6 +2992,11 @@ metafile = true
 [[files]]
 file = "mods/transparent.pw.toml"
 hash = "52a282bfc253b7cf3a2f588bdb5ae99de84616ddf7c83229c1723778201c5749"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "27e7e48b7af508ecf27f389f37c6ab60e72a947f476d5e427927a6de70442de2"
 metafile = true
 
 [[files]]
