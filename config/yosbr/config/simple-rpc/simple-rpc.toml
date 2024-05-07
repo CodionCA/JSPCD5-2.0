@@ -22,7 +22,7 @@
 	#The second line of text under the app name
 	state = "Booting up the game"
 	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["https://github.com/CodionCA/"]
+	largeImageKey = ["https://github.com/CodionCA/JSPCD5-2.0/blob/main/.override/icon.png?raw=true"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "JSPCD 5"
 	#The Asset ID/URL of the image to display as the small image
@@ -40,7 +40,7 @@
 	#The second line of text under the app name
 	state = "Sitting in the Menu"
 	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["https://codionca.github.io/JSPCD5-2.0/.override/icon.png"]
+	largeImageKey = ["https://github.com/CodionCA/JSPCD5-2.0/blob/main/.override/icon.png?raw=true"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "JSPCD 5"
 	#The Asset ID/URL of the image to display as the small image
@@ -58,7 +58,7 @@
 	#The second line of text under the app name
 	state = "Searching for a server"
 	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["https://codionca.github.io/JSPCD5-2.0/.override/icon.png"]
+	largeImageKey = ["https://github.com/CodionCA/JSPCD5-2.0/blob/main/.override/icon.png?raw=true"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "JSPCD 5"
 	#The Asset ID/URL of the image to display as the small image
@@ -94,7 +94,7 @@
 	#The second line of text under the app name
 	state = "Joining Game"
 	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["https://codionca.github.io/JSPCD5-2.0/.override/icon.png"]
+	largeImageKey = ["https://github.com/CodionCA/JSPCD5-2.0/blob/main/.override/icon.png?raw=true"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "JSPCD 5"
 	#The Asset ID/URL of the image to display as the small image
@@ -112,7 +112,7 @@
 	#The second line of text under the app name
 	state = "Playing Singleplayer"
 	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["https://codionca.github.io/JSPCD5-2.0/.override/icon.png"]
+	largeImageKey = ["https://github.com/CodionCA/JSPCD5-2.0/blob/main/.override/icon.png?raw=true"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "JSPCD 5"
 	#The Asset ID/URL of the image to display as the small image
@@ -130,7 +130,7 @@
 	#The second line of text under the app name
 	state = "Playing Multiplayer"
 	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["https://codionca.github.io/JSPCD5-2.0/.override/icon.png"]
+	largeImageKey = ["https://github.com/CodionCA/JSPCD5-2.0/blob/main/.override/icon.png?raw=true"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "JSPCD 5"
 	#The Asset ID/URL of the image to display as the small image
@@ -164,7 +164,7 @@
 	#The second line of text under the app name
 	state = ""
 	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["https://codionca.github.io/JSPCD5-2.0/.override/icon.png"]
+	largeImageKey = ["https://github.com/CodionCA/JSPCD5-2.0/blob/main/.override/icon.png?raw=true"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "JSPCD 5"
 	#The Asset ID/URL of the image to display as the small image

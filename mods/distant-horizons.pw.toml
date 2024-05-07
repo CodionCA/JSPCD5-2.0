@@ -3,6 +3,6 @@ filename = "DistantHorizons-fabric-2.0.4-a-dev-1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://codionca.github.io/JSPCD5-2.0/.override/DistantHorizons-fabric-2.0.4-a-dev-1.20.1.jar"
+url = "https://github.com/CodionCA/JSPCD5-2.0/raw/main/.override/DistantHorizons-fabric-2.0.4-a-dev-1.20.1.jar"
 hash-format = "sha256"
 hash = "0f4f1f8993e06cb8fd143dde0271ee92fc11b2f51b944982e265f23646a86409"

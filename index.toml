@@ -129,6 +129,10 @@ file = "config/lithium.properties"
 hash = "aa2210e9ebd2d8791303f199ea0eab23c7cb0e3eaf0b12ee8472a89b02e491dc"
 
 [[files]]
+file = "config/modpack-update-checker/config.json"
+hash = "4ded4e1c48e5272771c0e4279bdfa0196f72c10c72d7c8934425ef56da3c036e"
+
+[[files]]
 file = "config/ping-wheel.server.json"
 hash = "16553d9946f413fc9a2e9fc938f83122283e90ed41bd81c4a849100ad0f15b1f"
 
@@ -331,10 +335,6 @@ hash = "6182d9b5caace521a7429905796002e5f6c560e4a19828bfc79e057112084bfa"
 [[files]]
 file = "config/terrablender.toml"
 hash = "7548f77cff880a36e2f6d50cb8bc7506f5b686733e73f53eef0d618af1bfaec2"
-
-[[files]]
-file = "config/test.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/threadtweak.json"
@@ -590,7 +590,11 @@ hash = "ac5e582b1192eae6bf52fb525130a907db55707acaaa455f2723d2219212dc6d"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customizablemenus.txt"
-hash = "ef5070e18d8dbdf4ebea8998363e69cb451c8d8e53bf3aa9cb5e6bfc74f738b8"
+hash = "7417cc3fb84145102084924bedeedd743001e634ca3f9bd9110c2c29586a943d"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customization/com.jab125.mpuc.client.gui.screen.changelog.newchangelogscreen_layout.txt"
+hash = "01d66e97362369f9105885a9a901b6915e4ce8c69ddd7a3c6f227f04d6bae50a"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/modconfig_layout.txt"
@@ -606,7 +610,7 @@ hash = "982476a97fd8bbb046552f6a10718d210e9dc9a24109c412195c182922589bc0"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/title_screen_layout.txt"
-hash = "b9d6f96c63173e140fe790a40e14ae17a75f525a9424fab11060de30da672410"
+hash = "aa794a05755b1019e355eeaa031d1f0cac8d00fc0eed77c2cfca5fc20bf84f13"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -1030,7 +1034,7 @@ hash = "17b07ca5f6758448c4c2effbe9cb9f7b2b534c83b1287b5b751c3bbe4f74f2d0"
 
 [[files]]
 file = "config/yosbr/config/simple-rpc/simple-rpc.toml"
-hash = "d0bb45611c7a6181fe795385c70caecbbbb1a6e66adf0bcc39363b122cfbbb99"
+hash = "0b864df3af0da4705ac4c812864d5ae1cecc8ec0d7c3a2a96df159132c6ebc75"
 
 [[files]]
 file = "config/yosbr/config/smoothswapping.json"
@@ -1105,12 +1109,20 @@ file = "config/yosbr/options.txt"
 hash = "9dfe76b97556c10a4fff12ab394e5ea0f7b0f31185a517f68abb594cbeeefd7f"
 
 [[files]]
+file = "config/yosbr/servers.dat"
+hash = "5d6b45ec47493f6cb2587d5233ecaeea211114892482597974205a8d84c09644"
+
+[[files]]
 file = "emi.json"
 hash = "7ba434f205fe99c64bfd519fe548c8543c1ffbdacc1c43cb84ae20fdc711f148"
 
 [[files]]
 file = "meta/meta.json"
-hash = "04497f8e4db8ed18f93072c8c9277c0d41f3b3a78273d01a9aa7324893e995e6"
+hash = "ff2524de52bc988a38d3d18381e453a5926edcf0f9e39f0a6bb7d1a261d35599"
+
+[[files]]
+file = "meta/versions/5.1.0/changelog.txt"
+hash = "163f27066e9f3fddb68dccaf591844d8515974dc45bbbfb5c41db1331c1bcd3f"
 
 [[files]]
 file = "mods/Server-Translations-2.0.0+1.20.jar"
@@ -1669,7 +1681,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "82172ab85179efa72adddb64a2b406832e039284270efd87e491c237cb912f9b"
+hash = "9abccf5582b7aecffec4a6220d038a1c9d8f4e790054eed57c99e7880408b72c"
 metafile = true
 
 [[files]]
@@ -2889,7 +2901,7 @@ metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "9539d0c5cc10592bc791b9feb173f5d29340f404b83ca1bdd8ab21bca7afb2df"
+hash = "ad027c5947e6e7b7e6b6eafdf34866c9b808026231ce43e91b16351b85e9f64f"
 metafile = true
 
 [[files]]
@@ -3253,10 +3265,6 @@ hash = "97b5063ba22df24ab7effc2896005ddc0ee93a1ef4c08e89c71d7162e4270133"
 [[files]]
 file = "resourcepacks/xalis Enhanced Vanilla custom.zip"
 hash = "8be9525926d601cc40ed1b6deaebb9390df1b69198f4788ad7be37e0e06f9a53"
-
-[[files]]
-file = "servers.dat"
-hash = "fac8dfb74451dbf1c8d6cd757b2d6274fff6096587893bf8986df2187b291704"
 
 [[files]]
 file = "shaderpacks/Bliss-Shader-main.zip"
