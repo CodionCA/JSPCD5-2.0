@@ -386,7 +386,7 @@ hash = "66a151dbf2123ba09e0ec7c3aade37066dc98c153b692b20df7844c5a44c60b3"
 
 [[files]]
 file = "config/yosbr/config/bclib/client.json"
-hash = "962f735ce44b71b79e9ef0d410f22dce370210511ad72d899b22fe26067f2cb0"
+hash = "005f4a340ebc3faba4a46ab5392cbda911d984fe7fc806aa0bcf120f23f743b8"
 
 [[files]]
 file = "config/yosbr/config/bclib/generator.json"
@@ -398,7 +398,7 @@ hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
 
 [[files]]
 file = "config/yosbr/config/bclib/server.json"
-hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
+hash = "6b25d6ffb43ee1f8b7ec091431380ff2289f3ce794bdb7a5058d5e5cb34aa58f"
 
 [[files]]
 file = "config/yosbr/config/bedrockify/bedrockify-ExternalLoadingTips.json"
