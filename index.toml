@@ -1105,6 +1105,10 @@ file = "emi.json"
 hash = "7ba434f205fe99c64bfd519fe548c8543c1ffbdacc1c43cb84ae20fdc711f148"
 
 [[files]]
+file = "meta/meta.json"
+hash = "04497f8e4db8ed18f93072c8c9277c0d41f3b3a78273d01a9aa7324893e995e6"
+
+[[files]]
 file = "mods/Server-Translations-2.0.0+1.20.jar"
 hash = "d09e88745daff35bfaecc2bcc806036f42bf96d3d508f74fad23b531aed45a3c"
 
