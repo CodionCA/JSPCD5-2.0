@@ -1118,7 +1118,7 @@ hash = "7ba434f205fe99c64bfd519fe548c8543c1ffbdacc1c43cb84ae20fdc711f148"
 
 [[files]]
 file = "meta/meta.json"
-hash = "ff2524de52bc988a38d3d18381e453a5926edcf0f9e39f0a6bb7d1a261d35599"
+hash = "107763a8b1ca9f8993b5f37e22b08605a065344b25b38a8aecfdd08dd0522f37"
 
 [[files]]
 file = "meta/versions/5.1.0/changelog.txt"
