@@ -81,8 +81,12 @@ file = "config/yosbr/config/bclib/server.json"
 hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
 
 [[files]]
+file = "config/yosbr/config/bedrockify/bedrockify-ExternalLoadingTips.json"
+hash = "070db915479c969425c248b201e833d01fde22c6c4f0b325a36aa9dbcbaa9a9c"
+
+[[files]]
 file = "config/yosbr/config/bedrockify/bedrockifyClient.json"
-hash = "53cde108c66c73c02f176a16938983aad97ffe892b4a074ee879d76a404eed85"
+hash = "e32c2c12c8d55335141c12446c1d6f954018251a1fb2f972d0c3f8361b054f88"
 
 [[files]]
 file = "config/yosbr/config/bedrockify/bedrockifyCommon.json"
@@ -179,6 +183,46 @@ hash = "d5d89a471ce957cc6696fb5c26d7708a07b5913a06a7b406f7697d18f5c80093"
 [[files]]
 file = "config/yosbr/config/entityculling.json"
 hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
+
+[[files]]
+file = "config/yosbr/config/fabrication/block_logo.ini"
+hash = "1a58d3ffaaf266eb0f6f3574f15559689fa237be980a13b741834d640d9a8375"
+
+[[files]]
+file = "config/yosbr/config/fabrication/block_logo.png"
+hash = "f2938cfb35d857049425b51f59ce557dd8f329e6b76bef68ffb561f118a4def0"
+
+[[files]]
+file = "config/yosbr/config/fabrication/classic_block_drops.ini"
+hash = "45e501b8528ef8d27c2a67efd27304c81cd0503f8b0671094e6653eefd394b12"
+
+[[files]]
+file = "config/yosbr/config/fabrication/dimensional_tools.ini"
+hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
+
+[[files]]
+file = "config/yosbr/config/fabrication/features.ini"
+hash = "869bb5cdca03164fa572b0a316e444466e4a7877e27ab97c9590db7f81992df3"
+
+[[files]]
+file = "config/yosbr/config/fabrication/fscript.ini"
+hash = "06d742af1c186bd89bb808f7ff407865f1c08b1ebf7bb2e52ae2d042b64acd16"
+
+[[files]]
+file = "config/yosbr/config/fabrication/gear_components.ini"
+hash = "5a9291467f9f7918687a0d138a61e396cb9299b0b4ea2e4cf4f4d6f3594f865b"
+
+[[files]]
+file = "config/yosbr/config/fabrication/item_despawn.ini"
+hash = "24b26ac0b8ff13889b6b3b00b2309366eb72c36014a9679a82f4cbff46c275f4"
+
+[[files]]
+file = "config/yosbr/config/fabrication/taggable_players.ini"
+hash = "fe069b4316f910f2f3b703cedd9930b73eed74c2ae86909f8b43a8ffd3d1af45"
+
+[[files]]
+file = "config/yosbr/config/fabrication/yeet_recipes.ini"
+hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/background.png"
@@ -542,7 +586,7 @@ hash = "98f50e9831ba25ee6f54120e3e66d1dc53b2342169791032ba42939a6a2b347f"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
-hash = "31b4f5e6090b4048858edfcf45f842240d031c580e600b91b5708824bfb710ec"
+hash = "c43ad2ec3f4b56c14f8f8e96a8eafab54531de131b5d7d72c09e9ed41feaff3c"
 
 [[files]]
 file = "config/yosbr/config/puzzlesapi-iteminteractions-client.toml"
@@ -2609,11 +2653,6 @@ hash = "50b0983cb9db38b50c0e470731587a7c394898d62cc20cdbf309992acc09ca62"
 metafile = true
 
 [[files]]
-file = "mods/tips.pw.toml"
-hash = "3909adf77ef43de4948716627779617a3a714dbe12b82b3d86966678b0ccac8b"
-metafile = true
-
-[[files]]
 file = "mods/tool-stats.pw.toml"
 hash = "ab050b161a18c910b5405a2129a088f113a2f8a9322127ffa824b58699d9efc8"
 metafile = true
@@ -2981,10 +3020,6 @@ hash = "bb297da5b87f76c41ff62934a87faef2ecf025912891457bbd9e95ec022d5bd8"
 [[files]]
 file = "resourcepacks/Legacies/assets/minecraft/textures/gui/title/background/panorama_5.png"
 hash = "998c497e84f77c0e1cae989d0dfc35e34ae14e2f158aea4e4f660166dde90801"
-
-[[files]]
-file = "resourcepacks/Legacies/assets/minecraft/textures/gui/title/edition.png"
-hash = "a11d663eec3166132c11bea9bfbe90386f18cb2e16747cdf731fcd8c81a11af1"
 
 [[files]]
 file = "resourcepacks/Legacies/assets/minecraft/textures/gui/title/minecraft.png"
