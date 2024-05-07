@@ -165,10 +165,6 @@ file = "config/lithium.properties"
 hash = "aa2210e9ebd2d8791303f199ea0eab23c7cb0e3eaf0b12ee8472a89b02e491dc"
 
 [[files]]
-file = "config/modpack-update-checker/config.json"
-hash = "4ded4e1c48e5272771c0e4279bdfa0196f72c10c72d7c8934425ef56da3c036e"
-
-[[files]]
 file = "config/ping-wheel.server.json"
 hash = "16553d9946f413fc9a2e9fc938f83122283e90ed41bd81c4a849100ad0f15b1f"
 
@@ -1151,14 +1147,6 @@ hash = "5d6b45ec47493f6cb2587d5233ecaeea211114892482597974205a8d84c09644"
 [[files]]
 file = "emi.json"
 hash = "7ba434f205fe99c64bfd519fe548c8543c1ffbdacc1c43cb84ae20fdc711f148"
-
-[[files]]
-file = "meta/meta.json"
-hash = "107763a8b1ca9f8993b5f37e22b08605a065344b25b38a8aecfdd08dd0522f37"
-
-[[files]]
-file = "meta/versions/5.1.0/changelog.txt"
-hash = "163f27066e9f3fddb68dccaf591844d8515974dc45bbbfb5c41db1331c1bcd3f"
 
 [[files]]
 file = "mods/Server-Translations-2.0.0+1.20.jar"
@@ -2321,11 +2309,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
-metafile = true
-
-[[files]]
-file = "mods/modpack-update-checker.pw.toml"
-hash = "882e66b007b6896144c58117c9d6c609d30d07421d631a80a60f1a00f85e92ee"
 metafile = true
 
 [[files]]
