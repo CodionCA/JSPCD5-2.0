@@ -58,7 +58,7 @@ volume = 1.0
 
 [advanced]
 visualize_voice_distance = true
-visualize_voice_distance_on_join = true
+visualize_voice_distance_on_join = false
 compressor_threshold = -10
 limiter_threshold = -6
 directional_sources_angle = 215

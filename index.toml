@@ -634,7 +634,7 @@ hash = "7e3b41a799a7e083004afc0bffe866689e5a9ddcb3661b33d4e3a0c8d07a707b"
 
 [[files]]
 file = "config/borderlessmining.json"
-hash = "97d88071650e42b4c23540a24de6c7d5d72febd593efd33f7290a9352c169cfe"
+hash = "7c47862b98890f793c72476c7f2f805ff6404c4dc37c90465a82007be49e95fd"
 
 [[files]]
 file = "config/bosses_of_mass_destruction.json5"
@@ -2101,6 +2101,10 @@ file = "config/plasmovoice/.crowdin/es_es.json"
 hash = "a511c8336683e9d0ca0f9f05959f3d610bcdb0105cb96926ba0eed90b90a68ef"
 
 [[files]]
+file = "config/plasmovoice/.crowdin/fr_fr.json"
+hash = "2e2290c32ca072971a694ccec274f55f67e68dfb88443e14e718b896a8a9c939"
+
+[[files]]
 file = "config/plasmovoice/.crowdin/he_il.json"
 hash = "b33b3e0f842fe7257a774e85edd19f5afe393cf8511de74bdbbd0f41a35250e1"
 
@@ -2114,11 +2118,15 @@ hash = "e99ed1c1c816f03e0dde7e65ee7b14a18a9ad537fe09572e6db73133787d2a8d"
 
 [[files]]
 file = "config/plasmovoice/.crowdin/ru_ru.json"
-hash = "b8b3e481f8bfdb359d0b6ad5e7806290902ad175dd9b3f1dff0d87d1db5c158c"
+hash = "352bf48ad1620e6705a039cc69032dac874d2f2453125a133b4531a6cd2fad61"
 
 [[files]]
 file = "config/plasmovoice/.crowdin/timestamp"
-hash = "36301225bbdd250950de92a9f5e8f6ef3d9344ad3b37df44eb459b8458c19584"
+hash = "1f3272abdd68c5e381382af438f510299fa2e97794bcc42dc8e5fb63301548df"
+
+[[files]]
+file = "config/plasmovoice/.crowdin/tt_ru.json"
+hash = "06c6943b0397873152e4f79b61fa94ee152062ffec817e58f11f54fb76b85ee4"
 
 [[files]]
 file = "config/plasmovoice/.crowdin/uk_ua.json"
@@ -2126,7 +2134,7 @@ hash = "6d6207e54d49664c420189e1fff3397ca75695874bb6ecd684ab342aaf885787"
 
 [[files]]
 file = "config/plasmovoice/.crowdin/zh_cn.json"
-hash = "b3d26787bc80437350c784e914dfb3bb65884749aa9eecbacdb0df2f4a74418d"
+hash = "2a80993f8041d6e7910fe2c78339ff8d613796a7324fb5e544a3a3e270b5d997"
 
 [[files]]
 file = "config/plasmovoice/.crowdin/zh_tw.json"
@@ -2134,7 +2142,7 @@ hash = "537da35e71aaa0a727264fcd7fa02843f07dcb50c5ba9cbd4d1b52eab13a526a"
 
 [[files]]
 file = "config/plasmovoice/client.toml"
-hash = "6a219a9fd1120d170b7b3fb435e9f8795809e108c1f0fd6bdc1f2457c5fb1ddb"
+hash = "f09a9f2aecf3abb052bfeda65b9bfd3f8371ade506bdb76862ea4ed2fb4ba032"
 
 [[files]]
 file = "config/plasmovoice/server/config.toml"
@@ -2414,7 +2422,7 @@ hash = "e32e82badb6b2ed8b1a9539beca910d97debf4b07b75a8e42210c82e5f5af5db"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "a035742807f23e0ca5fa5f816180afd13359a69cdfd608b7505d0431bb489304"
+hash = "763239cf43a3fe81886f577fbac8bc60089769431273f6b25114dcdb75f619b7"
 
 [[files]]
 file = "config/resourcify.json"
@@ -2638,7 +2646,7 @@ hash = "01e3149d54fd73843cddde4f2701aa1e9dc782ea3354c92a9865ae5450cad58c"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "c02fd6c82da7af708421449cbcf89412ec845affeac3d8329e0621fa78ddfa03"
+hash = "50ce1c39ff27bef21d91dbbc1e887357632e140118bde7f950fd5ed5ec10d8e6"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -2658,7 +2666,7 @@ hash = "6746a215c221ca3cebb496f9e3b21ca636cda464888de39a98a39a5e8e2e4908"
 
 [[files]]
 file = "config/sodium-shadowy-path-blocks-options.json"
-hash = "25baba4e198fbefd6656a38dcf0cdc3e7ccef211221b4f5218d22a778d1853fa"
+hash = "06b889373ed4da9eebe16c9b82689ecb2ed4caa818bff7b89a746e2734756267"
 
 [[files]]
 file = "config/soulfired-common.toml"
@@ -4054,6 +4062,11 @@ hash = "21d5928a1edaecce4c578b7f1220e0c7524c6ba959de968969d79dd47eff8d04"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
+metafile = true
+
+[[files]]
 file = "mods/default-server-properties.pw.toml"
 hash = "1cf9d705e2b8d3940d0cb7914285a099e765729c245feef890915d43d30153cb"
 metafile = true
@@ -4271,11 +4284,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "4c8e5444117e7e3104b2da7e72667cd51e61d23903bfab9e48db69cb8ccfd8b3"
-metafile = true
-
-[[files]]
-file = "mods/fabric-waystones.pw.toml"
-hash = "5a2f2a09a70bd194f1da118ec9bf15ba143f3a4da309fe1865a90ce0a56d20e1"
 metafile = true
 
 [[files]]
@@ -5006,6 +5014,11 @@ hash = "ca4732ccd06338c7414bdac362fa714231af24bec2f4be4499fa94b5a5098255"
 metafile = true
 
 [[files]]
+file = "mods/resolution-control-plus.pw.toml"
+hash = "f0dcbfc4f9cca6aa877c806b357f02e3be9fbf001c331b321f6855773129785a"
+metafile = true
+
+[[files]]
 file = "mods/resource-pack-overrides.pw.toml"
 hash = "7014242c0a3b2a5982767fd5b2be75e963a0811170a0123f7f423b6afac17361"
 metafile = true
@@ -5565,7 +5578,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b9ece094e8dac46f723a9af3a93a42f9ff6f8f74969cb45aaf12169ac233e417"
+hash = "07986bb352caa0a02cfbc297088deed3830e85c79c81b265a59368708be464b9"
 
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.9.zip"
@@ -6920,18 +6933,6 @@ file = "resourcepacks/Nature's Spirit.zip"
 hash = "ec716186dfac83b07f2029563cfc871f3e4ece45eeb031108a1ba5a36aa13fe8"
 
 [[files]]
-file = "resourcepacks/New-End-Cities.zip"
-hash = "67f66923e77a6c09981b408bb104610fedc5c0a6b6b3c7b1ed11c90b4e5df393"
-
-[[files]]
-file = "resourcepacks/New-Ocean-Ruins.zip"
-hash = "142ba317a5393dbe78d1415d6b0c3758d2050c93183b78b6a9f46c097e94a74f"
-
-[[files]]
-file = "resourcepacks/New-Ruined-Portals.zip"
-hash = "0fa71cb631d9f3a5f03f7e74d1f5a49424d193ca9fe034f5ac647eae27b26525"
-
-[[files]]
 file = "resourcepacks/Stylized Overlay`s.zip"
 hash = "f7fe58d475c776a40e73b6f3b9ca5e815146a7b52fb23d1eee2d9f176616fc80"
 
@@ -6956,20 +6957,8 @@ file = "resourcepacks/better-hud-4-0-15-custom.zip"
 hash = "44ae66e2bb72c06930cd32e3bd63726dc18a8927db980b504b4c49d3b71a9171"
 
 [[files]]
-file = "resourcepacks/ctov-wizards-add-on-v2-1.zip"
-hash = "c263293cbc757d7445d21bfa3879a17050839a0178a8e32a4874629652e87984"
-
-[[files]]
 file = "resourcepacks/fat-cat-1-20.zip"
 hash = "97b5063ba22df24ab7effc2896005ddc0ee93a1ef4c08e89c71d7162e4270133"
-
-[[files]]
-file = "resourcepacks/lower_shield_1.14-1.20.4.zip"
-hash = "b274613c00961e674169871491ebae9c30c4987f3d807da012faceed69d5c7e1"
-
-[[files]]
-file = "resourcepacks/vanillarefresh-v1.4.19h_1.20.x.zip"
-hash = "d54d7b1cca251512366c44030eb069fd6eccc5b3ef0b074750f784f59db88928"
 
 [[files]]
 file = "resourcepacks/xali's Enhanced Vanilla v1.11.1-custom/assets/minecraft/blockstates/acacia_trapdoor.json"
@@ -10550,10 +10539,6 @@ hash = "77b5fd0cf575ab2f17dea1029be47231290b7d6e6a0efc891605c12d557c2036"
 [[files]]
 file = "world/datapacks/ns_modified_swamp/pack.png"
 hash = "bfd40bb06e4911ff58dd3acdca5f999d9076a0cf169b54ae4d8fa7fc78707d97"
-
-[[files]]
-file = "world/datapacks/pause-server-when-no-players.zip"
-hash = "6d1a747bebda1949c4eb40efeab75eb787422a841ee1323391e312e57ef782e5"
 
 [[files]]
 file = "world/datapacks/shears_required_for_nether_roots.zip"

@@ -15,6 +15,17 @@
     "immersive_weathering:visual_waxed_iron_items",
     "file/VanillaTweaks_r401666.zip",
     "file/FreshAnimations_v1.9.zip",
+    "file/JadeStardewValleyTheme.zip",
+	  "file/Legacies",
+	  "file/Nature\u0027s Spirit.zip",
+	  "file/xali\u0027s Enhanced Vanilla v1.11.1-custom",
+	  "Fabrication grayscale",
+	  "Fabrication",
+	  "chrysalis:emissive_textures",
+	  "file/axolotl_bucket_variants-v15.zip",
+	  "seamless:default_seamless",
+	  "file/IconsTab.zip",
+	  "file/better-hud-4-0-15-custom.zip",
     "file/JadeStardewValleyTheme.zip"
   ],
   "default_overrides": {
@@ -22,28 +33,43 @@
   },
   "pack_overrides": {
     "1": [
-      "file/fat-cat-1-20.zip",
-      "file/Stylized Overlay`s.zip",
-      "continuity:default",
-      "seasons:seasonal_lush_caves",
-      "minecraft:supporteatinganimation",
-      "presencefootsteps:default_sound_pack",
-      "Moonlight Mods Dynamic Assets",
-      "tinyskeletons:main",
-      "file/[1.4] Enhanced Boss Bars.zip",
-      "continuity:glass_pane_culling_fix",
-      "immersive_weathering:visual_waxed_iron_items",
-      "file/VanillaTweaks_r401666.zip",
-	  "supplementaries:darker_ropes"
+    "file/fat-cat-1-20.zip",
+    "file/Stylized Overlay`s.zip",
+    "continuity:default",
+    "seasons:seasonal_lush_caves",
+    "minecraft:supporteatinganimation",
+    "presencefootsteps:default_sound_pack",
+    "Moonlight Mods Dynamic Assets",
+    "file/[1.4] Enhanced Boss Bars.zip",
+    "continuity:glass_pane_culling_fix",
+    "immersive_weathering:visual_waxed_iron_items",
+    "file/VanillaTweaks_r401666.zip",
+	  "supplementaries:darker_ropes",
+	  "file/Legacies",
+	  "file/Nature\u0027s Spirit.zip",
+	  "file/xali\u0027s Enhanced Vanilla v1.11.1-custom",
+	  "Fabrication grayscale",
+	  "Fabrication",
+	  "chrysalis:emissive_textures",
+	  "file/axolotl_bucket_variants-v15.zip",
+	  "seamless:default_seamless",
+	  "file/IconsTab.zip",
+	  "file/better-hud-4-0-15-custom.zip"
     ],
     "2": [
       "file/FreshAnimations_v1.9.zip",
       "file/JadeStardewValleyTheme.zip"
     ],
+    "3": [
+      "natures_spirit:better_leaves_compatibility",
+      "stormfest:programmer_art",
+      "programmer_art",
+      "high_contrast"
+    ],
     "vanilla": {
       "title": "\"Vanilla Assets\"",
       "description": "\"Resource pack from Minecraft\"",
-	  "fixed_position": true
+	    "fixed_position": true
     },
     "server": {
       "default_position": "BOTTOM",
@@ -56,8 +82,14 @@
       "fixed_position": true
     },
     "$$2": {
-      "hidden": true,
+      "hidden": false,
       "required": false
+    },
+    "$$3": {
+      "hidden": true,
+      "required": false,
+      "default_position": "TOP",
+      "fixed_position": true
     }
   }
 }
