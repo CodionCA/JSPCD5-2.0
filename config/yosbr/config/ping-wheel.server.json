@@ -1,0 +1,5 @@
+{
+  "globalChannelDisabled": true,
+  "msToRegenerate": 1000,
+  "rateLimit": 5
+}

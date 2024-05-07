@@ -4,7 +4,7 @@ server_id = "18476998-82de-4caf-84b1-31e52070d8f4"
 default_language = "en_us"
 debug = false
 disable_crowdin = false
-check_for_updates = true
+check_for_updates = false
 
 [host]
 ip = "0.0.0.0"
