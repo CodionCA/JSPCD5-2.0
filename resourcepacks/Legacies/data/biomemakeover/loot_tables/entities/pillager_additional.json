@@ -1,6 +1,0 @@
-{
- "type": "minecraft:entity",
- "pools": [
- ],
- "random_sequence": "biomemakeover:entities/pillager_additional"
-}
