@@ -5,6 +5,30 @@ file = "ServerG1GC.txt"
 hash = "45c6678b25a1a1b28c0ede59ecbd2ffd90ce88f530a6aa6f23701a66cc3cb579"
 
 [[files]]
+file = "config/bclib/biomes.json"
+hash = "e31ef59faee81b0cff9506c0b4137f6473f68ca469d2319203bc3ca50eed6d13"
+
+[[files]]
+file = "config/bclib/cache.json"
+hash = "66a151dbf2123ba09e0ec7c3aade37066dc98c153b692b20df7844c5a44c60b3"
+
+[[files]]
+file = "config/bclib/client.json"
+hash = "005f4a340ebc3faba4a46ab5392cbda911d984fe7fc806aa0bcf120f23f743b8"
+
+[[files]]
+file = "config/bclib/generator.json"
+hash = "218542dbc05094a216da6161849a631c4fd770cf5364395d521e15e00240e0bf"
+
+[[files]]
+file = "config/bclib/main.json"
+hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
+
+[[files]]
+file = "config/bclib/server.json"
+hash = "6b25d6ffb43ee1f8b7ec091431380ff2289f3ce794bdb7a5058d5e5cb34aa58f"
+
+[[files]]
 file = "config/fancymenu/assets/background.png"
 hash = "cb6fdaabe655cf1dd75b6bdf0529bca4f41e092a6806926ae174bfa37a19ea49"
 
@@ -101,56 +125,12 @@ file = "config/fancymenu/user_variables.db"
 hash = "102bea58e92872e68412b335056d7f5b016b1fffbe55a88f78fba82e598403e1"
 
 [[files]]
-file = "config/plasmovoice/.crowdin/de_de.json"
-hash = "2bf3644d6b57c0966cd256d4b189b8ab4472cfc773a01997281aff2991ae97f6"
+file = "config/lithium.properties"
+hash = "aa2210e9ebd2d8791303f199ea0eab23c7cb0e3eaf0b12ee8472a89b02e491dc"
 
 [[files]]
-file = "config/plasmovoice/.crowdin/es_es.json"
-hash = "a511c8336683e9d0ca0f9f05959f3d610bcdb0105cb96926ba0eed90b90a68ef"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/fr_fr.json"
-hash = "2e2290c32ca072971a694ccec274f55f67e68dfb88443e14e718b896a8a9c939"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/he_il.json"
-hash = "b33b3e0f842fe7257a774e85edd19f5afe393cf8511de74bdbbd0f41a35250e1"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/pl_pl.json"
-hash = "e2fdf0c9fb646b455d6edbfa610b48c7428dc1007459abfaff7e7df025c80f8f"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/pt_br.json"
-hash = "e99ed1c1c816f03e0dde7e65ee7b14a18a9ad537fe09572e6db73133787d2a8d"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/ru_ru.json"
-hash = "352bf48ad1620e6705a039cc69032dac874d2f2453125a133b4531a6cd2fad61"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/timestamp"
-hash = "1f3272abdd68c5e381382af438f510299fa2e97794bcc42dc8e5fb63301548df"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/tt_ru.json"
-hash = "06c6943b0397873152e4f79b61fa94ee152062ffec817e58f11f54fb76b85ee4"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/uk_ua.json"
-hash = "6d6207e54d49664c420189e1fff3397ca75695874bb6ecd684ab342aaf885787"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/zh_cn.json"
-hash = "2a80993f8041d6e7910fe2c78339ff8d613796a7324fb5e544a3a3e270b5d997"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/zh_tw.json"
-hash = "537da35e71aaa0a727264fcd7fa02843f07dcb50c5ba9cbd4d1b52eab13a526a"
-
-[[files]]
-file = "config/plasmovoice/client.toml"
-hash = "f09a9f2aecf3abb052bfeda65b9bfd3f8371ade506bdb76862ea4ed2fb4ba032"
+file = "config/ping-wheel.server.json"
+hash = "16553d9946f413fc9a2e9fc938f83122283e90ed41bd81c4a849100ad0f15b1f"
 
 [[files]]
 file = "config/plasmovoice/server/config.toml"
@@ -245,6 +225,10 @@ file = "config/plasmovoice/server/voice_mutes.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
+file = "config/profundis.json"
+hash = "b26a36252107588acff64412213204268aadc130e3dd8f830781d009e13edf78"
+
+[[files]]
 file = "config/pv-addon-whisper/config.toml"
 hash = "f8c125e5c11d708506f907b30517c4e31e61acbb44caa2e278e49f61205753a9"
 
@@ -323,6 +307,42 @@ hash = "3d3a9d64637c9d0250851466c0dcc38a57dabdc56de6a1fbc083dca0d6aed312"
 [[files]]
 file = "config/resourcepackoverrides.json"
 hash = "468ab266d0ef4bd30b07dd8d52c779f5857b441c8627965fb83c9bc61ad944e1"
+
+[[files]]
+file = "config/servercore.toml"
+hash = "4dac9f4663668b1dc54fb011986396d9739396971daa21dd91bfab9b71b27630"
+
+[[files]]
+file = "config/smoothboot.json"
+hash = "a249dd8cb9f5ff909589758048a657a615e4b0aac5ba34c4282759817d9e7f24"
+
+[[files]]
+file = "config/smoothchunk.json"
+hash = "228d16ac3ebb3efe67596f25498f97eb4a626ac108bdc0deb2ddf0bb5c32cde9"
+
+[[files]]
+file = "config/stutterfix-config.json"
+hash = "03e5adff2a24acf59b75a9c4d77da3bee44213d44ef970fa96d05dcfc90b09ba"
+
+[[files]]
+file = "config/tectonic.json"
+hash = "6182d9b5caace521a7429905796002e5f6c560e4a19828bfc79e057112084bfa"
+
+[[files]]
+file = "config/terrablender.toml"
+hash = "7548f77cff880a36e2f6d50cb8bc7506f5b686733e73f53eef0d618af1bfaec2"
+
+[[files]]
+file = "config/threadtweak.json"
+hash = "74b592bca92afde237225cb68a5318bf4afaea009466433def93c75f6a4622d8"
+
+[[files]]
+file = "config/vanillatweaks.toml"
+hash = "cc397a7643bd07c389901a89264322bd979f76e8fbb7f088c9529c06c68fa9dd"
+
+[[files]]
+file = "config/vmp.properties"
+hash = "3fb35e8db723bb24f4ebeb24a888e59756f67ad935e9a839774acb78f39775c1"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
@@ -721,10 +741,6 @@ file = "config/yosbr/config/kiwi-common.yaml"
 hash = "1488107dd37c8f05131e65c5ad9adda7b674b08a8c0d639752d53b7926db2282"
 
 [[files]]
-file = "config/yosbr/config/lithium.properties"
-hash = "aa2210e9ebd2d8791303f199ea0eab23c7cb0e3eaf0b12ee8472a89b02e491dc"
-
-[[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
 hash = "93e1dcadc01be627b4e3b722f2b45ffb38d6e41be2b551228e72a2c892cba37c"
 
@@ -747,10 +763,6 @@ hash = "d7645024f541857dfe9e097c45e1306274b6ec0f26dcd80cc888f9c701920205"
 [[files]]
 file = "config/yosbr/config/ping-wheel.json"
 hash = "efe43957373d4ab30874e42c491fb6afc82087fe846b7531c13acf9cff6e44eb"
-
-[[files]]
-file = "config/yosbr/config/ping-wheel.server.json"
-hash = "16553d9946f413fc9a2e9fc938f83122283e90ed41bd81c4a849100ad0f15b1f"
 
 [[files]]
 file = "config/yosbr/config/plasmovoice/.crowdin/de_de.json"
@@ -897,10 +909,6 @@ file = "config/yosbr/config/plasmovoice/server/voice_mutes.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/yosbr/config/profundis.json"
-hash = "b26a36252107588acff64412213204268aadc130e3dd8f830781d009e13edf78"
-
-[[files]]
 file = "config/yosbr/config/progressivebosses.conf"
 hash = "98f50e9831ba25ee6f54120e3e66d1dc53b2342169791032ba42939a6a2b347f"
 
@@ -1013,24 +1021,12 @@ file = "config/yosbr/config/rpgdifficulty.json"
 hash = "2e8d78a6d88d1273118fa99b80bd1635b817b9b7641862779ed232b2ccdd71df"
 
 [[files]]
-file = "config/yosbr/config/servercore.toml"
-hash = "085d67c1bd1a54277db04c85f5c9a02df8496a459683b283b91c35e981999219"
-
-[[files]]
 file = "config/yosbr/config/simple-rpc/server-entries.toml"
 hash = "17b07ca5f6758448c4c2effbe9cb9f7b2b534c83b1287b5b751c3bbe4f74f2d0"
 
 [[files]]
 file = "config/yosbr/config/simple-rpc/simple-rpc.toml"
 hash = "d0bb45611c7a6181fe795385c70caecbbbb1a6e66adf0bcc39363b122cfbbb99"
-
-[[files]]
-file = "config/yosbr/config/smoothboot.json"
-hash = "a249dd8cb9f5ff909589758048a657a615e4b0aac5ba34c4282759817d9e7f24"
-
-[[files]]
-file = "config/yosbr/config/smoothchunk.json"
-hash = "228d16ac3ebb3efe67596f25498f97eb4a626ac108bdc0deb2ddf0bb5c32cde9"
 
 [[files]]
 file = "config/yosbr/config/smoothswapping.json"
@@ -1061,10 +1057,6 @@ file = "config/yosbr/config/sodium-shadowy-path-blocks-options.json"
 hash = "06b889373ed4da9eebe16c9b82689ecb2ed4caa818bff7b89a746e2734756267"
 
 [[files]]
-file = "config/yosbr/config/stutterfix-config.json"
-hash = "03e5adff2a24acf59b75a9c4d77da3bee44213d44ef970fa96d05dcfc90b09ba"
-
-[[files]]
 file = "config/yosbr/config/supplementaries-client.json"
 hash = "7585476542aec48d7cda76663818deb7aad939d58364ed589939d1edd404c72b"
 
@@ -1073,24 +1065,8 @@ file = "config/yosbr/config/supplementaries-common.json"
 hash = "459ed674240a7700d502665e2cd9483ad7d2ddd7a8730aafb4051884eda3f154"
 
 [[files]]
-file = "config/yosbr/config/tectonic.json"
-hash = "6182d9b5caace521a7429905796002e5f6c560e4a19828bfc79e057112084bfa"
-
-[[files]]
-file = "config/yosbr/config/terrablender.toml"
-hash = "7548f77cff880a36e2f6d50cb8bc7506f5b686733e73f53eef0d618af1bfaec2"
-
-[[files]]
-file = "config/yosbr/config/threadtweak.json"
-hash = "74b592bca92afde237225cb68a5318bf4afaea009466433def93c75f6a4622d8"
-
-[[files]]
 file = "config/yosbr/config/tiered.json5"
 hash = "4eca58c9036d21b8b781da8fd7b7189355df48c6ac6b43c51edc652a92ab66f3"
-
-[[files]]
-file = "config/yosbr/config/vanillatweaks.toml"
-hash = "cc397a7643bd07c389901a89264322bd979f76e8fbb7f088c9529c06c68fa9dd"
 
 [[files]]
 file = "config/yosbr/config/visual_workbench.json"
@@ -1099,10 +1075,6 @@ hash = "fda5ed7c50fc65cc2047bca6649a6ffd59ddd64fcec5d6156ac48096ef159451"
 [[files]]
 file = "config/yosbr/config/visuality.json"
 hash = "88d657f8162309d18cd50a9d38b6e166b00e36c8ed9f69f5637067e0b1523427"
-
-[[files]]
-file = "config/yosbr/config/vmp.properties"
-hash = "3fb35e8db723bb24f4ebeb24a888e59756f67ad935e9a839774acb78f39775c1"
 
 [[files]]
 file = "config/yosbr/config/wakes.json"
