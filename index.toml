@@ -801,6 +801,10 @@ file = "config/yosbr/config/notenoughanimations.json"
 hash = "d7645024f541857dfe9e097c45e1306274b6ec0f26dcd80cc888f9c701920205"
 
 [[files]]
+file = "config/yosbr/config/panorama_screens/settings.json"
+hash = "eb0f096b3b524c81d3be07dbe461e39cfd2b555ece24009e11e3679bfc572778"
+
+[[files]]
 file = "config/yosbr/config/ping-wheel.json"
 hash = "efe43957373d4ab30874e42c491fb6afc82087fe846b7531c13acf9cff6e44eb"
 
@@ -1911,11 +1915,6 @@ metafile = true
 [[files]]
 file = "mods/falling-leaves-fabric.pw.toml"
 hash = "d61a2e6668979d6245714e6de8618f643c85805c28e707288fd7c59dbedf0ead"
-metafile = true
-
-[[files]]
-file = "mods/falling-tree.pw.toml"
-hash = "8c319dc9be07b01f52370beba89dfff019d8adae14278685641cc28f2ef19b2a"
 metafile = true
 
 [[files]]
