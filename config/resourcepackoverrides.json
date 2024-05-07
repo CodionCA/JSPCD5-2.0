@@ -13,12 +13,12 @@
     "file/[1.4] Enhanced Boss Bars.zip",
     "continuity:glass_pane_culling_fix",
     "immersive_weathering:visual_waxed_iron_items",
-    "file/JSPCD5-VT",
+    "file/JSPCD5-VT.zip",
     "file/FreshAnimations_v1.9.zip",
     "file/JadeStardewValleyTheme.zip",
-	  "file/Legacies",
+	  "file/Legacies.zip",
 	  "file/Nature\u0027s Spirit.zip",
-	  "file/xali\u0027s Enhanced Vanilla v1.11.1-custom",
+	  "file/xalis Enhanced Vanilla custom.zip",
 	  "Fabrication grayscale",
 	  "Fabrication",
 	  "chrysalis:emissive_textures",
@@ -44,9 +44,9 @@
       "continuity:glass_pane_culling_fix",
       "immersive_weathering:visual_waxed_iron_items",
       "supplementaries:darker_ropes",
-      "file/Legacies",
+      "file/Legacies.zip",
       "file/Nature\u0027s Spirit.zip",
-      "file/xali\u0027s Enhanced Vanilla v1.11.1-custom",
+      "file/xalis Enhanced Vanilla custom.zip",
       "Fabrication grayscale",
       "Fabrication",
       "chrysalis:emissive_textures",
@@ -66,7 +66,7 @@
       "high_contrast"
     ],
     "4": [
-      "file/JSPCD5-VT"
+      "file/JSPCD5-VT.zip"
     ],
     "vanilla": {
       "title": "\"Vanilla Assets\"",

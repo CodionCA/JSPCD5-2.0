@@ -306,7 +306,7 @@ hash = "3d3a9d64637c9d0250851466c0dcc38a57dabdc56de6a1fbc083dca0d6aed312"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "468ab266d0ef4bd30b07dd8d52c779f5857b441c8627965fb83c9bc61ad944e1"
+hash = "53aa32a11c411c6362c2d3a88a728be3f77e3149648b113eb69f2e36cb721eae"
 
 [[files]]
 file = "config/servercore.toml"
@@ -3179,7 +3179,7 @@ hash = "50bfa5d5cc3d7b2dd14c3f92a3a5508809fd6da4122d8f135e406e4c99359052"
 
 [[files]]
 file = "resourcepacks/JSPCD5-VT.zip"
-hash = "f874f83c81dbefd8cf5b9d9747344196890dea1fae00262faa01f47edfdf0f6b"
+hash = "b7938952cb34314eebad301aaf12b088b0f43ff6beeae10f41a2172d49629a19"
 
 [[files]]
 file = "resourcepacks/JadeStardewValleyTheme.zip"
