@@ -2367,7 +2367,7 @@ metafile = true
 
 [[files]]
 file = "mods/skills.pw.toml"
-hash = "0a51369b1b542559eaac212f2fe5729bf7ae77e3e7533b3fdd26200bbff04c20"
+hash = "bbc4350eed18211d8fb5d218b5396136674adf908594fb83f27e2eeafdbfea7c"
 metafile = true
 
 [[files]]
