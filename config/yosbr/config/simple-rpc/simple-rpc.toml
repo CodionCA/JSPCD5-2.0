@@ -36,7 +36,7 @@
 	#Enable/Disable the Main Menu Event
 	enabled = true
 	#The first line of text under the app name
-	description = "%player% is taking it all in..."
+	description = "%player% is doin nothing"
 	#The second line of text under the app name
 	state = "Sitting in the Menu"
 	#The Asset ID/URL of the image to display as the large image
@@ -126,7 +126,7 @@
 	#Enable/Disable the Multi Player Event
 	enabled = true
 	#The first line of text under the app name
-	description = "%servername% with %players% players"
+	description = "On JSPCD with %players% players"
 	#The second line of text under the app name
 	state = "Playing Multiplayer"
 	#The Asset ID/URL of the image to display as the large image
