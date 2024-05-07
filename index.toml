@@ -29,6 +29,22 @@ file = "config/bclib/server.json"
 hash = "6b25d6ffb43ee1f8b7ec091431380ff2289f3ce794bdb7a5058d5e5cb34aa58f"
 
 [[files]]
+file = "config/bedrockify/bedrockify-ExternalLoadingTips.json"
+hash = "070db915479c969425c248b201e833d01fde22c6c4f0b325a36aa9dbcbaa9a9c"
+
+[[files]]
+file = "config/bedrockify/bedrockifyClient.json"
+hash = "eede7e7f0e25374af5449ae59af5a58e3dfec22080024dd605fa3bd7bf53ad1a"
+
+[[files]]
+file = "config/bedrockify/bedrockifyCommon.json"
+hash = "11f4e21835fa5f5d8f0acff50c9f53b89c55da4a0e74f7c285d2bbc735090de1"
+
+[[files]]
+file = "config/bedrockify/bedrockifyMixins.json"
+hash = "61216e3f2683af7e6b7ab8fcea03642a96faab5b61ce6b93d857d52c3b9a7031"
+
+[[files]]
 file = "config/fancymenu/assets/background.png"
 hash = "cb6fdaabe655cf1dd75b6bdf0529bca4f41e092a6806926ae174bfa37a19ea49"
 
@@ -70,7 +86,7 @@ hash = "01d66e97362369f9105885a9a901b6915e4ce8c69ddd7a3c6f227f04d6bae50a"
 
 [[files]]
 file = "config/fancymenu/customization/connect_screen_layout.txt"
-hash = "74e98383ea092e9dbf1dde20c184b1c23b3c45aad522aaab119e0800a1bc2ac1"
+hash = "cb78217b1c14f5eaff324a2e7055777305d7dfb0ba08c7a19155bb9f0bdd9f5d"
 
 [[files]]
 file = "config/fancymenu/customization/modconfig_layout.txt"
@@ -130,7 +146,7 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "47e32c669c54136ee32826e7084b7ceb1cd666d4597654a1a6964322e7172e4a"
+hash = "5fcfcc88a4798e69704731aa3b3581761900386e0e0333e713f86bce28066920"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
