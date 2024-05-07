@@ -1,0 +1,8 @@
+type = user_variables
+
+variable {
+  name = vr_enabled
+  value = 0
+  reset_on_launch = false
+}
+
