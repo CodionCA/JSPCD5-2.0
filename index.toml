@@ -682,7 +682,7 @@ hash = "c462fb3d0a067ea7da100f6afd1e1d2b61cfcdc4bfd5aa998f13c6240e07ff6e"
 
 [[files]]
 file = "config/yosbr/config/resourcepackoverrides.json"
-hash = "763239cf43a3fe81886f577fbac8bc60089769431273f6b25114dcdb75f619b7"
+hash = "138cac1b8a5b81265cf53969b08e9b4371efc2c007660e19508ec03d0786d828"
 
 [[files]]
 file = "config/yosbr/config/resourcify.json"
@@ -2886,6 +2886,10 @@ file = "resourcepacks/IconsTab.zip"
 hash = "50bfa5d5cc3d7b2dd14c3f92a3a5508809fd6da4122d8f135e406e4c99359052"
 
 [[files]]
+file = "resourcepacks/JSPCD5-VT.zip"
+hash = "5070f8ca8ba28d072eb025894623dce2d24cd05b4e31bcdaeee77b3de337bbc5"
+
+[[files]]
 file = "resourcepacks/JadeStardewValleyTheme.zip"
 hash = "8e19db47cf978237aa581ac434a110cebb23dd174502f88e436826c76232ee18"
 
@@ -4228,10 +4232,6 @@ hash = "ec716186dfac83b07f2029563cfc871f3e4ece45eeb031108a1ba5a36aa13fe8"
 [[files]]
 file = "resourcepacks/Stylized Overlay`s.zip"
 hash = "f7fe58d475c776a40e73b6f3b9ca5e815146a7b52fb23d1eee2d9f176616fc80"
-
-[[files]]
-file = "resourcepacks/VanillaTweaks_r401666.zip"
-hash = "6a6a143a612072718c95343e5c983b0e589b912182b5938fd4f9c39511429f3d"
 
 [[files]]
 file = "resourcepacks/[1.4] Enhanced Boss Bars.zip"
