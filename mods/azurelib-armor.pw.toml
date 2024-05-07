@@ -3,11 +3,11 @@ filename = "azurelibarmor-fabric-1.20.1-2.0.3.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/pduQXSbl/versions/jDEK1u1B/azurelibarmor-fabric-1.20.1-2.0.3.jar"
 hash-format = "sha1"
 hash = "78085000f9ab209b454151cb333510aec3f1caa6"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4931089
-project-id = 912767
+[update.modrinth]
+mod-id = "pduQXSbl"
+version = "jDEK1u1B"
