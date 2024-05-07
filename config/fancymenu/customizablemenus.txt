@@ -3,22 +3,13 @@ type = customizablemenus
 net.minecraft.class_500 {
 }
 
-org.vivecraft.client.gui.settings.GuiMainVRSettings {
-}
-
 net.minecraft.class_404 {
 }
 
 net.minecraft.class_458 {
 }
 
-net.minecraft.class_442 {
-}
-
 net.minecraft.class_481 {
-}
-
-dev.isxander.controlify.gui.screen.ControllerCarouselScreen {
 }
 
 net.minecraft.class_490 {
@@ -43,5 +34,11 @@ com.jab125.mpuc.client.gui.screen.changelog.NewChangelogScreen {
 }
 
 net.minecraft.class_429 {
+}
+
+net.minecraft.class_442 {
+}
+
+net.minecraft.class_412 {
 }
 

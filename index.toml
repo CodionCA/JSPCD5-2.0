@@ -33,6 +33,18 @@ file = "config/fancymenu/assets/background.png"
 hash = "cb6fdaabe655cf1dd75b6bdf0529bca4f41e092a6806926ae174bfa37a19ea49"
 
 [[files]]
+file = "config/fancymenu/assets/icon-16px.png"
+hash = "3145c0cbcddc10b424ae8b7f1328e38b96f6af2a3e633b743a4d6dc093b20abc"
+
+[[files]]
+file = "config/fancymenu/assets/icon-32px.icns"
+hash = "81ee03287489fef4c9dc8b679301561bbece1adb2f2a8fd1998991d6e3982df3"
+
+[[files]]
+file = "config/fancymenu/assets/icon-32px.png"
+hash = "f250c99f3212b6bf50f13867865b4f2868469125c204785bde77899e7f3468c8"
+
+[[files]]
 file = "config/fancymenu/assets/minecraft_MOJANG.png"
 hash = "b27540fa2ba00e944851318ea01127b6871acbd43ff136b85698d5455b7bf1ab"
 
@@ -50,7 +62,15 @@ hash = "ac5e582b1192eae6bf52fb525130a907db55707acaaa455f2723d2219212dc6d"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "ef5070e18d8dbdf4ebea8998363e69cb451c8d8e53bf3aa9cb5e6bfc74f738b8"
+hash = "8d3ab6adfc6cf0b5d613d16736d7af2d381db761680af631cc6b342549d24e82"
+
+[[files]]
+file = "config/fancymenu/customization/com.jab125.mpuc.client.gui.screen.changelog.newchangelogscreen_layout.txt"
+hash = "01d66e97362369f9105885a9a901b6915e4ce8c69ddd7a3c6f227f04d6bae50a"
+
+[[files]]
+file = "config/fancymenu/customization/connect_screen_layout.txt"
+hash = "74e98383ea092e9dbf1dde20c184b1c23b3c45aad522aaab119e0800a1bc2ac1"
 
 [[files]]
 file = "config/fancymenu/customization/modconfig_layout.txt"
@@ -66,7 +86,7 @@ hash = "982476a97fd8bbb046552f6a10718d210e9dc9a24109c412195c182922589bc0"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "b9d6f96c63173e140fe790a40e14ae17a75f525a9424fab11060de30da672410"
+hash = "bf9e0193d998dc6022b30932732e5c72ede4d1a5be053a82da52b5d8c57a5bb7"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -110,7 +130,7 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "470612d42d580a5d4892d8bf64116607e9e96a3e16b12c37a698f6d36ac55b55"
+hash = "47e32c669c54136ee32826e7084b7ceb1cd666d4597654a1a6964322e7172e4a"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
