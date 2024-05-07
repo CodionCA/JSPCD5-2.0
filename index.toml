@@ -682,7 +682,7 @@ hash = "c462fb3d0a067ea7da100f6afd1e1d2b61cfcdc4bfd5aa998f13c6240e07ff6e"
 
 [[files]]
 file = "config/yosbr/config/resourcepackoverrides.json"
-hash = "138cac1b8a5b81265cf53969b08e9b4371efc2c007660e19508ec03d0786d828"
+hash = "9eb28c8a18f94f75255b92e550fe2a4da327c8853d00c114203516f89503640e"
 
 [[files]]
 file = "config/yosbr/config/resourcify.json"
