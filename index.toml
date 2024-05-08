@@ -2940,23 +2940,8 @@ hash = "5d65d6d31f967abf3d2134735155ced11b6e80b7ade416a0394d282af6b3d808"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "52ae7d824d0e2856df296db16f108d4843a7e1fea3b1769e4678f2e5b6dd991e"
-metafile = true
-
-[[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "bb8bf829fc7e30d4ef881d1dd0ce320ddced8f6a693b976c7b48969b1e77c16e"
-metafile = true
-
-[[files]]
-file = "mods/terralith-andesite-patch.pw.toml"
-hash = "d159b5cde0830809af46e25eec7bd667174bfbf634510b82dcd99bf6bf49106f"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "19da0aa4007bd1ca94537bf80335fe88a87473e34af7b75bafb2e647d0d40562"
 metafile = true
 
 [[files]]
@@ -3289,6 +3274,10 @@ hash = "14f859d113590200e866dbe57a47ae11dbde0a6aeeee20ad539e59be4eee4a10"
 [[files]]
 file = "shaderpacks/Pixel-Perfect-1-5-0.zip"
 hash = "68acb4a223e8fc6a3f9553e80aad10c93168fa0b4f5fbc28b4453dfef57a9267"
+
+[[files]]
+file = "world/datapacks/Continents_1.20.4_v1.1.4.zip"
+hash = "46b73e3a2dee80052b90b7ec7f3e74a7a5344aa690c3bc6bbce2de933b936e31"
 
 [[files]]
 file = "world/datapacks/Dungeons and Taverns v3.1-custom.zip"
@@ -4515,6 +4504,10 @@ file = "world/datapacks/New-Ruined-Portals.zip"
 hash = "0fa71cb631d9f3a5f03f7e74d1f5a49424d193ca9fe034f5ac647eae27b26525"
 
 [[files]]
+file = "world/datapacks/Terralith_1.20_v2.5.0.zip"
+hash = "f351c88c8556ba316e068fe8f6bbc3f2742bcf53bed6008e51892fcfb6819726"
+
+[[files]]
 file = "world/datapacks/ctov-wizards-add-on-v2-1.zip"
 hash = "c263293cbc757d7445d21bfa3879a17050839a0178a8e32a4874629652e87984"
 
@@ -4589,6 +4582,10 @@ hash = "bfd40bb06e4911ff58dd3acdca5f999d9076a0cf169b54ae4d8fa7fc78707d97"
 [[files]]
 file = "world/datapacks/shears_required_for_nether_roots.zip"
 hash = "9520bad39661f46fb45d4207f0d3d8d5182a3b838c88acf620e5c20596757ed9"
+
+[[files]]
+file = "world/datapacks/terratonic-datapack-v3.1.1.zip"
+hash = "71e3d20c4f42b63cb4e0c2a05c9b3783a99afe4eca312cbdce42ab9741bcc69e"
 
 [[files]]
 file = "world/datapacks/trueending_v1.1.0b_1.20.x.zip"
