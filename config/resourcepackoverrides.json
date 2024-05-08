@@ -16,19 +16,19 @@
     "file/JSPCD5.ZIP",
     "file/FreshAnimations_v1.9.zip",
     "file/JadeStardewValleyTheme.zip",
-	"file/Legacies.zip",
-	"file/Nature\u0027s Spirit.zip",
-	"file/xalis Enhanced Vanilla custom.zip",
-	"Fabrication grayscale",
-	"Fabrication",
-	"chrysalis:emissive_textures",
-	"file/axolotl_bucket_variants-v15.zip",
-	"seamless:default_seamless",
-	"file/IconsTab.zip",
-	"file/better-hud-4-0-15-custom.zip",
+    "file/Legacies.zip",
+    "file/Nature\u0027s Spirit.zip",
+    "file/xalis Enhanced Vanilla custom.zip",
+    "Fabrication grayscale",
+    "Fabrication",
+    "chrysalis:emissive_textures",
+    "file/axolotl_bucket_variants-v15.zip",
+    "seamless:default_seamless",
+    "file/IconsTab.zip",
+    "file/better-hud-4-0-15-custom.zip",
     "file/JadeStardewValleyTheme.zip",
-	"file/Sparkles_1.20.4_v1.0.5.zip",
-	"file/JSPCD5.ZIP"
+    "file/Sparkles_1.20.4_v1.0.5.zip",
+    "file/JSPCD5.ZIP"
   ],
   "default_overrides": {
     "force_compatible": true
@@ -56,7 +56,7 @@
       "seamless:default_seamless",
       "file/IconsTab.zip",
       "file/better-hud-4-0-15-custom.zip",
-	  "file/Sparkles_1.20.4_v1.0.5.zip",
+	    "file/Sparkles_1.20.4_v1.0.5.zip"
     ],
     "2": [
       "file/FreshAnimations_v1.9.zip",

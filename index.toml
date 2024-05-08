@@ -338,7 +338,7 @@ hash = "3d3a9d64637c9d0250851466c0dcc38a57dabdc56de6a1fbc083dca0d6aed312"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "ab5ddffa7b831635766a4c701e8da51aa5df7aae37ada727d41780b153da8c80"
+hash = "f4fb7a10629a1a413e92abf37ff8c126a0e5a02bdd06438672b7f103f6ff431c"
 
 [[files]]
 file = "config/servercore.toml"
