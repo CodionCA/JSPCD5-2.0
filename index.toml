@@ -709,6 +709,10 @@ file = "config/yosbr/config/global_data_and_resourcepacks.toml"
 hash = "d6055224690c399a9657218b8fcb9fa2ff1f33a5f83e7a383f4b6aae835938d5"
 
 [[files]]
+file = "config/yosbr/config/holdthatchunk.json"
+hash = "7059e5bf171822a3ee6273dd7bc2566b05d241cff3a0464b1d6de20901d782b8"
+
+[[files]]
 file = "config/yosbr/config/immediatelyfast.json"
 hash = "645b87f55cf42c04dbab8f76dc7f3173a510ffdc712305fc62371ebac07fed1e"
 
