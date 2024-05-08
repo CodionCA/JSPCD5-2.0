@@ -43,7 +43,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["fabric","file/FreshAnimations_v1.9.zip"]
+resourcePacks:["fabric","file/FreshAnimations_v1.9.zip","file/JSPCD5.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_ca
@@ -206,6 +206,10 @@ key_keybindings.spell_engine.spell_hotbar_7:key.keyboard.unknown
 key_keybindings.spell_engine.spell_hotbar_8:key.keyboard.unknown
 key_keybindings.spell_engine.spell_hotbar_9:key.keyboard.unknown
 key_key.trade_cycling.cycle_trades:key.keyboard.unknown
+key_treechop.key.toggle_chopping:key.keyboard.unknown
+key_treechop.key.toggle_felling:key.keyboard.unknown
+key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown
+key_treechop.key.open_settings_overlay:key.keyboard.n
 key_key.uilib.open_test_menu:key.keyboard.unknown
 key_key.weaponmaster.opengui:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.c
