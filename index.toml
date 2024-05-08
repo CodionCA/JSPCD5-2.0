@@ -66,7 +66,7 @@ hash = "b27540fa2ba00e944851318ea01127b6871acbd43ff136b85698d5455b7bf1ab"
 
 [[files]]
 file = "config/fancymenu/assets/minecraft_title.png"
-hash = "70ce55ae27f6892189afb4a288a647da13bf827579dbbe6d2dfe1bba39ded916"
+hash = "72225db62b1fcb5faa379dfa67a2ecae7abee361126ee3bf9ff097c5e1187b1c"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -102,7 +102,7 @@ hash = "982476a97fd8bbb046552f6a10718d210e9dc9a24109c412195c182922589bc0"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "a7aef63db9b502b80e599cc781d234890843e765f659ed053894c2532623545a"
+hash = "39817542adc9a5f2b04f69eaedaa55a11ca14fe38f86271dcd507445259f22d2"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -12334,7 +12334,15 @@ hash = "59b1c1941eb886399842c6968e54c330a203d41dec9d8e3da5baaaa4b2887c96"
 
 [[files]]
 file = "resourcepacks/JSPCD5/assets/minecraft/textures/gui/title/edition.png"
-hash = "8c28d5a21ff6790680b1aeeacfa1d57e26061038010df558356af272001bbd53"
+hash = "ca3d4fd84349554441b4bb5bd4a8e020c289a37f8bd90384ac98fe958cdb715f"
+
+[[files]]
+file = "resourcepacks/JSPCD5/assets/minecraft/textures/gui/title/minecraft_title_fancymenu.png"
+hash = "1d8a99f4d02251b7f8bd4f928b712c1e7058fd1e17ceb1a8b72bc393d440baa5"
+
+[[files]]
+file = "resourcepacks/JSPCD5/assets/minecraft/textures/gui/title/mojangstudios.png"
+hash = "449c7958a199f9d5617bb4d92348c573948ab6ece59028a50fe55e729dc6f055"
 
 [[files]]
 file = "resourcepacks/JSPCD5/assets/minecraft/textures/item/gray_dye.png"
