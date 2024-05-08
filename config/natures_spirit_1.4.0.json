@@ -1,0 +1,38 @@
+{
+  "biomes": {
+    "has_sugi_forest": false,
+    "has_eroded_river": true,
+    "has_marsh": false,
+    "has_bamboo_wetlands": true,
+    "has_wisteria_forest": false,
+    "has_redwood_forest": false,
+    "has_aspen_forest": true,
+    "has_maple": true,
+    "has_fir": true,
+    "has_cypress_fields": false,
+    "has_lively_dunes": true,
+    "has_drylands": true,
+    "has_white_cliffs": true,
+    "has_tropical_shores": false,
+    "has_xeric_plains": false,
+    "has_larch": false,
+    "has_oak_savanna": true,
+    "has_mahogany": false,
+    "has_arid": true,
+    "has_shrublands": false,
+    "has_steppe": false
+  },
+  "region_weights": {
+    "terra_ferax_frequency": 6,
+    "terra_solaris_frequency": 6,
+    "terra_flava_frequency": 8,
+    "terra_laeta_frequency": 6,
+    "terra_mater_frequency": 6
+  },
+  "misc_features": {
+    "deepslate_generator": true,
+    "calcite_generator": true,
+    "vinegar": true,
+    "vinegar_duplication": true
+  }
+}
