@@ -1518,7 +1518,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "64e8cc77caf3ee3811d6cfbe717b148ae51114eb40a809dad70a49fa91eaa36c"
+hash = "7b9d20d3402ad364b39b04037d16d9e1dfb2439605d99d72a5bc1fd9612091bf"
 metafile = true
 
 [[files]]
@@ -1875,7 +1875,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
+hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
 metafile = true
 
 [[files]]
@@ -1915,7 +1915,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "29eda1376700d6435acb68c1cb55c06c83af86bbb924b9c7b1697f25888a0d77"
+hash = "d27205edff633fd6c848bb0a3754f128f5402b01d4e8c9d7e483cb6dc3e6862b"
 metafile = true
 
 [[files]]
@@ -2960,7 +2960,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "ae0b30c99b62ec09615864f614df5449c19c02d21c6a64cec554263202bf8112"
+hash = "40dcf336019cfc44fbef0bab03a9105470c811532a0715507885a9c22deba57d"
 metafile = true
 
 [[files]]
@@ -3220,7 +3220,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "2d3583018b07595c2af66d006b04e408ae324a6a85adef5c454fd4507df0e195"
+hash = "225639ee3f7fbe530ea4f083f2c01329320f5a22dd774988a16ac3082fde0f9f"
 metafile = true
 
 [[files]]
