@@ -16,17 +16,18 @@
     "file/JSPCD5.ZIP",
     "file/FreshAnimations_v1.9.zip",
     "file/JadeStardewValleyTheme.zip",
-	  "file/Legacies.zip",
-	  "file/Nature\u0027s Spirit.zip",
-	  "file/xalis Enhanced Vanilla custom.zip",
-	  "Fabrication grayscale",
-	  "Fabrication",
-	  "chrysalis:emissive_textures",
-	  "file/axolotl_bucket_variants-v15.zip",
-	  "seamless:default_seamless",
-	  "file/IconsTab.zip",
-	  "file/better-hud-4-0-15-custom.zip",
-    "file/JadeStardewValleyTheme.zip"
+	"file/Legacies.zip",
+	"file/Nature\u0027s Spirit.zip",
+	"file/xalis Enhanced Vanilla custom.zip",
+	"Fabrication grayscale",
+	"Fabrication",
+	"chrysalis:emissive_textures",
+	"file/axolotl_bucket_variants-v15.zip",
+	"seamless:default_seamless",
+	"file/IconsTab.zip",
+	"file/better-hud-4-0-15-custom.zip",
+    "file/JadeStardewValleyTheme.zip",
+	"file/JSPCD5.ZIP"
   ],
   "default_overrides": {
     "force_compatible": true
@@ -66,7 +67,7 @@
       "high_contrast"
     ],
     "4": [
-      "file/JSPCD5.ZIP"
+      "file/JSPCD5.zip"
     ],
     "vanilla": {
       "title": "\"Vanilla Assets\"",
@@ -97,7 +98,8 @@
     "$$4": {
       "hidden": false,
       "required": true,
-      "fixed_position": true
+      "fixed_position": true,
+	  "default_position": "BOTTOM"
     }
   }
 }
