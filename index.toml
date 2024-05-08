@@ -3125,6 +3125,11 @@ hash = "140e98c0720e92b4ed9864a485b1b73a088a3d321ecc7439a3c6bb17235a2fa0"
 metafile = true
 
 [[files]]
+file = "mods/world-preview.pw.toml"
+hash = "b03d2938d1af92521afc8836f3738c4923734133865c4ecc512bd6967ec26360"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
