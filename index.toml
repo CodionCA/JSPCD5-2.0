@@ -1383,6 +1383,11 @@ hash = "f04f6619202e8b2b22e33c4ce152f879633577d82ada897327603c050da601df"
 metafile = true
 
 [[files]]
+file = "mods/biome-makeover.pw.toml"
+hash = "fda13d2e9e623488310452142e95d113f33d216921e371e185f79ea64929179b"
+metafile = true
+
+[[files]]
 file = "mods/blossom.pw.toml"
 hash = "c15dcfc12abdc498ac4426b2e55d5f95bc371313825d34a377b1c50e0e125d6b"
 metafile = true
@@ -1612,7 +1617,7 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "754b65581daa4a2d8462d5e62b43555a85a2f24106e8662925a1adefcc9f07cf"
+hash = "4548d136288d54fe93c2b688e7d45b108e49767b864d6fca29fafc62bde09078"
 metafile = true
 
 [[files]]
@@ -1841,6 +1846,11 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "75166a15f99c4e74da53e645c341585119a0996f2a916a76b149603070cb95c6"
+metafile = true
+
+[[files]]
+file = "mods/expanded-ecosphere.pw.toml"
+hash = "ca4e172d98568eab3635b9182a6e9b30ebd359f8025ace71e169f638bb097e36"
 metafile = true
 
 [[files]]
@@ -2278,7 +2288,7 @@ metafile = true
 
 [[files]]
 file = "mods/missing-wilds.pw.toml"
-hash = "2065b2bbcddcee6aa7ba85c4b39c66596d52d4f86b8510b14fddc2bfa837a256"
+hash = "0ba673aaa6bdac7178c216fd1e0badb0489ae813c94ee587c35971cbdd3487a7"
 metafile = true
 
 [[files]]
@@ -2432,6 +2442,11 @@ hash = "c737bdfd6940736f88cd39065a0193ba70637a560fbce4389e59f67d72813209"
 metafile = true
 
 [[files]]
+file = "mods/not-just-biomes.pw.toml"
+hash = "3b24db02cf079be2f8e3c0111a17ad9837a7f4e34d45eb4c14f89cb16f1765bb"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "95512ed1baa3ede3af0b614006ea4416804f60ecc2bb7fb07cd379c96946c485"
 metafile = true
@@ -2539,6 +2554,11 @@ metafile = true
 [[files]]
 file = "mods/profundis-1.6.0-override.jar"
 hash = "cbc007a8b52bb93cf4f2d59c6c3980957e0d0714fc72f0192ee3071245c3e3cb"
+
+[[files]]
+file = "mods/profundis.pw.toml"
+hash = "94dff715dd8bec21c61fb8f012394ca92bdc609200f195402be8a57e8539748a"
+metafile = true
 
 [[files]]
 file = "mods/progression-reborn-knives.pw.toml"
@@ -2949,18 +2969,13 @@ hash = "5d65d6d31f967abf3d2134735155ced11b6e80b7ade416a0394d282af6b3d808"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "52ae7d824d0e2856df296db16f108d4843a7e1fea3b1769e4678f2e5b6dd991e"
-metafile = true
-
-[[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "bb8bf829fc7e30d4ef881d1dd0ce320ddced8f6a693b976c7b48969b1e77c16e"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "40dcf336019cfc44fbef0bab03a9105470c811532a0715507885a9c22deba57d"
+file = "mods/terrablender.pw.toml"
+hash = "83d94a056463020f5bab89ba5def37f0090aa9abf7f6045a7e859ea7250be18b"
 metafile = true
 
 [[files]]
