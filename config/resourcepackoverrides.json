@@ -13,7 +13,7 @@
     "file/[1.4] Enhanced Boss Bars.zip",
     "continuity:glass_pane_culling_fix",
     "immersive_weathering:visual_waxed_iron_items",
-    "file/JSPCD5-VT.zip",
+    "file/JSPCD",
     "file/FreshAnimations_v1.9.zip",
     "file/JadeStardewValleyTheme.zip",
 	  "file/Legacies.zip",
@@ -66,7 +66,7 @@
       "high_contrast"
     ],
     "4": [
-      "file/JSPCD5-VT.zip"
+      "file/JSPCD"
     ],
     "vanilla": {
       "title": "\"Vanilla Assets\"",
