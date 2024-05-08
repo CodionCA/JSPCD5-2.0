@@ -4519,6 +4519,26 @@ file = "world/datapacks/ns_modified_mountain_biomes-custom/pack.png"
 hash = "d2060b146590963044b6e66ed10767fd9be71ed50a7516b49bda5d7e4c30607e"
 
 [[files]]
+file = "world/datapacks/ns_modified_swamp/data/minecraft/worldgen/biome/swamp.json"
+hash = "70739a5e002a23744b4c35d215d5bc789a376cf0f48a094c12f34390adf1af91"
+
+[[files]]
+file = "world/datapacks/ns_modified_swamp/data/minecraft/worldgen/configured_feature/patch_sugar_cane_swamp.json"
+hash = "81c05370d9ac61a281427a6fdae786f663e952ef04bf581fcdb13b636f65f713"
+
+[[files]]
+file = "world/datapacks/ns_modified_swamp/data/minecraft/worldgen/placed_feature/patch_sugar_cane_swamp.json"
+hash = "bffebc87593a0bcee5e29c139763d0c19b498faaba13c586dc8528ad7426fbb0"
+
+[[files]]
+file = "world/datapacks/ns_modified_swamp/pack.mcmeta"
+hash = "77b5fd0cf575ab2f17dea1029be47231290b7d6e6a0efc891605c12d557c2036"
+
+[[files]]
+file = "world/datapacks/ns_modified_swamp/pack.png"
+hash = "bfd40bb06e4911ff58dd3acdca5f999d9076a0cf169b54ae4d8fa7fc78707d97"
+
+[[files]]
 file = "world/datapacks/shears_required_for_nether_roots.zip"
 hash = "9520bad39661f46fb45d4207f0d3d8d5182a3b838c88acf620e5c20596757ed9"
 
