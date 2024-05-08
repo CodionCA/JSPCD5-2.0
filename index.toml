@@ -1379,11 +1379,6 @@ hash = "f04f6619202e8b2b22e33c4ce152f879633577d82ada897327603c050da601df"
 metafile = true
 
 [[files]]
-file = "mods/biome-makeover.pw.toml"
-hash = "69f4811aeabdab83c026b764ded07740595e6d74bf28970a83f1bf6e36a0244b"
-metafile = true
-
-[[files]]
 file = "mods/blossom.pw.toml"
 hash = "c15dcfc12abdc498ac4426b2e55d5f95bc371313825d34a377b1c50e0e125d6b"
 metafile = true
@@ -2374,7 +2369,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-spirit.pw.toml"
-hash = "c9cdb59d21e87a770310dedf5e5723bf9149d5e4f1949e60770587237236f99b"
+hash = "50583888fb243c2a98f9ca32de1ff065a8ddeecf40e1b60389adf94f17edf675"
 metafile = true
 
 [[files]]
@@ -2425,11 +2420,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "c737bdfd6940736f88cd39065a0193ba70637a560fbce4389e59f67d72813209"
-metafile = true
-
-[[files]]
-file = "mods/not-just-biomes.pw.toml"
-hash = "72fc7a1797737c1dc45062380e7f3b7c721b70ea055ce935c0ecffacf0642d60"
 metafile = true
 
 [[files]]
@@ -3247,6 +3237,10 @@ hash = "bfc4c925b5d12313d5218f7558b6ee0cb001876a1b7f6771b750bfb5f4c1a47a"
 [[files]]
 file = "resourcepacks/Nature's Spirit.zip"
 hash = "ec716186dfac83b07f2029563cfc871f3e4ece45eeb031108a1ba5a36aa13fe8"
+
+[[files]]
+file = "resourcepacks/Sparkles_1.20.4_v1.0.5.zip"
+hash = "14247b09cc5da71244dbf18073d89ce1c2077d7a00d6fa93697019a2a7b53ecf"
 
 [[files]]
 file = "resourcepacks/Stylized Overlay`s.zip"
