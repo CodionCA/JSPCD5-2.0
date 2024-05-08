@@ -2940,6 +2940,11 @@ hash = "5d65d6d31f967abf3d2134735155ced11b6e80b7ade416a0394d282af6b3d808"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "52ae7d824d0e2856df296db16f108d4843a7e1fea3b1769e4678f2e5b6dd991e"
+metafile = true
+
+[[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "bb8bf829fc7e30d4ef881d1dd0ce320ddced8f6a693b976c7b48969b1e77c16e"
 metafile = true
@@ -3318,70 +3323,6 @@ hash = "f3eeca4bd92b9a1321ce931343b31463aee3ecbe1c645b08a07dc6b51ab84afe"
 [[files]]
 file = "world/datapacks/Legacies/data/betteroceanmonuments/worldgen/structure_set/ocean_monument.json"
 hash = "4ca08636991a2375dfb80671273b9c14f9f4e2f9f126ae4e7438494681ca8c2e"
-
-[[files]]
-file = "world/datapacks/Legacies/data/biomemakeover/loot_tables/entities/pillager_additional.json"
-hash = "28fd312521f6d7bb74eca42d663f11ea7d8fc054d1c2fc57a7b590398d52ecfc"
-
-[[files]]
-file = "world/datapacks/Legacies/data/biomemakeover/loot_tables/entities/pillager_leader_additional.json"
-hash = "5ee908e33ef115845c411615377daf364cfb50ad166c5b208652d2e198dc275b"
-
-[[files]]
-file = "world/datapacks/Legacies/data/biomemakeover/loot_tables/ghost_town/loot_1.json"
-hash = "69760c2a949947c9cfbeccab2f4d53ab1f6c92d5042fc27ef1550fd705799dfc"
-
-[[files]]
-file = "world/datapacks/Legacies/data/biomemakeover/loot_tables/mansion/dungeon_good.json"
-hash = "9a068fc60e8c94e96073de3fe2cd07011d60cdc90bb1d0c9973108750737f47a"
-
-[[files]]
-file = "world/datapacks/Legacies/data/biomemakeover/loot_tables/mansion/good.json"
-hash = "fec13df96447636e11bee540896b9b0ae186959aae8991aef79229a7e43b256a"
-
-[[files]]
-file = "world/datapacks/Legacies/data/biomemakeover/loot_tables/pillager_outpost_additional.json"
-hash = "5edecc2c0e3cd9a8560df339c1af7e99211ffb704879be30dc4180375b42b7cb"
-
-[[files]]
-file = "world/datapacks/Legacies/data/biomemakeover/recipes/cladding_armor_upgrade_smithing_template.json"
-hash = "2139b740c9168639833b157b9f0e107237b8e8e033bf632d990cf0c7a7cd2fab"
-
-[[files]]
-file = "world/datapacks/Legacies/data/biomemakeover/separated_leaves/ancient_oak.json"
-hash = "5294092200d7cd1950d935f312f10bafe62a226733595f2921085ea09d8cc521"
-
-[[files]]
-file = "world/datapacks/Legacies/data/biomemakeover/separated_leaves/blighted_balsa.json"
-hash = "e1ac4b3293ed6d77c594bd0d61b1ed98d9705e96d7378f5c373a4cdd24a53317"
-
-[[files]]
-file = "world/datapacks/Legacies/data/biomemakeover/tags/blocks/crab_spawnable_on.json"
-hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
-
-[[files]]
-file = "world/datapacks/Legacies/data/biomemakeover/tags/worldgen/biome/swamps.json"
-hash = "b8839f48ae416d869b04739f50bfccac6bcabab8e01aaa9c43f70a2ebd25db1d"
-
-[[files]]
-file = "world/datapacks/Legacies/data/biomemakeover/worldgen/placed_feature/badlands/surface_fossil.json"
-hash = "4fb44469886fc4d11425250b2402ef813e2693a6d7a4605477768fe67f81c734"
-
-[[files]]
-file = "world/datapacks/Legacies/data/biomemakeover/worldgen/placed_feature/mushroom_fields/blighted_balsa_trees.json"
-hash = "d89b07f8ffd2d04f3d73d055cd9e994d2c0e16e4784c14628fd1ca2dcd89f1e8"
-
-[[files]]
-file = "world/datapacks/Legacies/data/biomemakeover/worldgen/structure_set/ghost_towns.json"
-hash = "bc208bb704f7ab697e31df3790560cb2c242d5f9512aed6c3c26fcea11827344"
-
-[[files]]
-file = "world/datapacks/Legacies/data/biomemakeover/worldgen/structure_set/mushroom_houses.json"
-hash = "d5e9c8e76564ef5f52cd8b03d1de0c4352e2942333b7ec1efa72e11749aeff8f"
-
-[[files]]
-file = "world/datapacks/Legacies/data/biomemakeover/worldgen/structure_set/sunken_ruins.json"
-hash = "99d6a0e90b5a7be007a68599f65803316b3b7b02aeaef445f50b91c2b990a859"
 
 [[files]]
 file = "world/datapacks/Legacies/data/davespotioneering/advancements/recipes/brewing/compound_brewing_stand.json"
@@ -4366,14 +4307,6 @@ hash = "7f73c64b920f294fca625928570c9fbd51d7334ae8c35e7046890a8aeee48253"
 [[files]]
 file = "world/datapacks/Legacies/data/nethersdelight/worldgen/placed_feature/patch_propelplant_cane.json"
 hash = "44e79b3a7ed9ec86ef0262b5bd90706a639286503f442bc2d26927c6adcfdecc"
-
-[[files]]
-file = "world/datapacks/Legacies/data/njb/worldgen/placed_feature/well/badlands.json"
-hash = "ea5b87b130d5435c1298f7e2d84731e371328743353ddade6199c146359322dd"
-
-[[files]]
-file = "world/datapacks/Legacies/data/njb/worldgen/placed_feature/well/frozen.json"
-hash = "68d773f2c05d678f48d492ff888105f45b4920bca60bc8fe1fd0ce699571f3ff"
 
 [[files]]
 file = "world/datapacks/Legacies/data/nullscape/worldgen/biome/crystal_peaks.json"
