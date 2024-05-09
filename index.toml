@@ -1017,6 +1017,10 @@ file = "config/yosbr/config/sodium-shadowy-path-blocks-options.json"
 hash = "06b889373ed4da9eebe16c9b82689ecb2ed4caa818bff7b89a746e2734756267"
 
 [[files]]
+file = "config/yosbr/config/spyglass-improvements/settings.json"
+hash = "2d3fd380a1cfb4151c810a398d140910ae489ac835f98b0317bb0d6e60d3e012"
+
+[[files]]
 file = "config/yosbr/config/supplementaries-client.json"
 hash = "7585476542aec48d7cda76663818deb7aad939d58364ed589939d1edd404c72b"
 
@@ -1046,7 +1050,7 @@ hash = "36611158aa580d2ec48d8b6b03352a548344064f163029b15e06332787e847c1"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d51d2eb908c1ea61ceeaf0268f30bd2a54c66177f45fd7ad8125241660486440"
+hash = "7fefc8cd252472b6f69ac2eee6f64206041cee32f98fe2250c58910e2edd94e9"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -3136,7 +3140,7 @@ hash = "8d64c06b15633fdbb9a500693b5cca63ab62299927eb5b34bbf459f4fa143a4a"
 
 [[files]]
 file = "resourcepacks/[2.1] Codion's Personal Tweaks.zip"
-hash = "261d67d1ea408ca9d1afd1dc5411a2143bc0cb61abb97f365d6581d23f7dd741"
+hash = "6a2b1754b18806643679b45fa35fa5c213a809da2873e58d4ace3387b33043e3"
 
 [[files]]
 file = "resourcepacks/axolotl_bucket_variants-v15.zip"
