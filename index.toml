@@ -482,7 +482,7 @@ hash = "c462fb3d0a067ea7da100f6afd1e1d2b61cfcdc4bfd5aa998f13c6240e07ff6e"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "f4fb7a10629a1a413e92abf37ff8c126a0e5a02bdd06438672b7f103f6ff431c"
+hash = "90e71ae7e08590afc644d7cb62ad92357f96a6a8f5aeddcdd307ca3294ccac31"
 
 [[files]]
 file = "config/rpgdifficulty.json"
@@ -3125,6 +3125,10 @@ hash = "bfc4c925b5d12313d5218f7558b6ee0cb001876a1b7f6771b750bfb5f4c1a47a"
 [[files]]
 file = "resourcepacks/Nature's Spirit.zip"
 hash = "ec716186dfac83b07f2029563cfc871f3e4ece45eeb031108a1ba5a36aa13fe8"
+
+[[files]]
+file = "resourcepacks/Serified Font v1.1.zip"
+hash = "abc993243d35937d7d7158b7b831f64d393fef8fd022c4ff08c646c4e0f9a396"
 
 [[files]]
 file = "resourcepacks/Sparkles_1.20.4_v1.0.5.zip"

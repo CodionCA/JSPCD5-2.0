@@ -13,7 +13,6 @@
     "file/[1.4] Enhanced Boss Bars.zip",
     "continuity:glass_pane_culling_fix",
     "immersive_weathering:visual_waxed_iron_items",
-    "file/JSPCD5.ZIP",
     "file/FreshAnimations_v1.9.zip",
     "file/JadeStardewValleyTheme.zip",
     "file/Legacies.zip",
@@ -28,13 +27,16 @@
     "file/better-hud-4-0-15-custom.zip",
     "file/JadeStardewValleyTheme.zip",
     "file/Sparkles_1.20.4_v1.0.5.zip",
-    "file/JSPCD5.ZIP"
+    "file/Serified Font v1.1.zip",
+    "fabric",
+    "file/JSPCD5.zip"
   ],
   "default_overrides": {
     "force_compatible": true
   },
   "pack_overrides": {
     "1": [
+      "fabric",
       "file/fat-cat-1-20.zip",
       "file/Stylized Overlay`s.zip",
       "continuity:default",
@@ -60,7 +62,8 @@
     ],
     "2": [
       "file/FreshAnimations_v1.9.zip",
-      "file/JadeStardewValleyTheme.zip"
+      "file/JadeStardewValleyTheme.zip",
+      "file/Serified Font v1.1.zip"
     ],
     "3": [
       "natures_spirit:better_leaves_compatibility",
@@ -79,7 +82,7 @@
     "server": {
       "default_position": "BOTTOM",
       "force_compatible": true,
-      "fixed_position": false
+      "fixed_position": true
     },
     "$$1": {
       "hidden": true,
@@ -100,8 +103,7 @@
     "$$4": {
       "hidden": false,
       "required": true,
-      "fixed_position": true,
-	  "default_position": "BOTTOM"
+      "fixed_position": true
     }
   }
 }
