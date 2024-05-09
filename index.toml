@@ -1528,11 +1528,6 @@ hash = "5cbed14fa75080964a03a2a723595baf26237eecd396ba47177efd8496d1dcd2"
 metafile = true
 
 [[files]]
-file = "mods/custom-credits.pw.toml"
-hash = "a7aa5cef271cb7e8d1a00a959cee8081e9707da03b513cac502993773e99e510"
-metafile = true
-
-[[files]]
 file = "mods/daves-potioneering.pw.toml"
 hash = "33b2b9b968c1f219eafd8022ea6bcd7eb3ed507e45e8b283358174fc1ec95330"
 metafile = true
@@ -2046,11 +2041,6 @@ hash = "c1111166478d81fd6dca93fcfc52e911521df0a6d24300fa50e719905be42981"
 metafile = true
 
 [[files]]
-file = "mods/kleeslabs.pw.toml"
-hash = "97dde1d017b8c9385ba339ab769b85d7ec299f7c8ce5b31e5935c42f4c3eac21"
-metafile = true
-
-[[files]]
 file = "mods/konkrete-fabric.pw.toml"
 hash = "2895ab3b454293884e288a125bba2fbf4135475573c345ef919d56f2ad91419c"
 metafile = true
@@ -2431,10 +2421,6 @@ hash = "0f4cbc95a3ba8b72b62fdae171933c59a6e4f87ec6e03b26e8d0dd2a0150f5ca"
 metafile = true
 
 [[files]]
-file = "mods/profundis-1.6.0-override.jar"
-hash = "cbc007a8b52bb93cf4f2d59c6c3980957e0d0714fc72f0192ee3071245c3e3cb"
-
-[[files]]
 file = "mods/progression-reborn-knives.pw.toml"
 hash = "71c1243bf96fda74bc4a13a5c5bf5fa29cd62104f147ca5772dee37a6287fb48"
 metafile = true
@@ -2664,11 +2650,6 @@ hash = "0947d3e07a215576627eede54c8f28164385f0db6407ab1ae3e7083d9c2c1896"
 metafile = true
 
 [[files]]
-file = "mods/simple-snowy-fix.pw.toml"
-hash = "a101f47e44eeb796ca5edeadae3cbba11a95c604fd85754bfa868b7a48f5f0e8"
-metafile = true
-
-[[files]]
 file = "mods/simplehats.pw.toml"
 hash = "aa3a1a1874a2425b757a2a2f9a812bf882c1851c416404d979cc65b42d710b87"
 metafile = true
@@ -2780,6 +2761,11 @@ metafile = true
 [[files]]
 file = "mods/sprout.pw.toml"
 hash = "7944443544944e6cbda4db43ba2ee4f64645c9d23ab161a83d3a230ee5cc2a8e"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "1e69046a631a01d806a1357cc4528440f0540fde69263a37609d511cb2a82d48"
 metafile = true
 
 [[files]]
@@ -3110,11 +3096,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras-fabric.pw.toml"
 hash = "c61d03ecba29f1d678c110b37010eabeb207006c7d00966b379b92edbd69f773"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
-hash = "225639ee3f7fbe530ea4f083f2c01329320f5a22dd774988a16ac3082fde0f9f"
 metafile = true
 
 [[files]]
