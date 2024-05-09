@@ -1046,7 +1046,7 @@ hash = "36611158aa580d2ec48d8b6b03352a548344064f163029b15e06332787e847c1"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "7128734f99d3f74c6cc8e97c8092d10e3b4e75cb32c98cb49294af6b13d23e0b"
+hash = "d51d2eb908c1ea61ceeaf0268f30bd2a54c66177f45fd7ad8125241660486440"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -4424,7 +4424,3 @@ hash = "9520bad39661f46fb45d4207f0d3d8d5182a3b838c88acf620e5c20596757ed9"
 [[files]]
 file = "world/datapacks/trueending_v1.1.0b_1.20.x.zip"
 hash = "584db07e956bb736b9f8eb662eed9075885c2057aa0633acca50642b8ed9fd55"
-
-[[files]]
-file = "world/datapacks/vanillarefresh-v1.4.19h_1.20.x.zip"
-hash = "d54d7b1cca251512366c44030eb069fd6eccc5b3ef0b074750f784f59db88928"
