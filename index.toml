@@ -1593,7 +1593,7 @@ metafile = true
 
 [[files]]
 file = "mods/discerning-furnace.pw.toml"
-hash = "da407ff5909b264d85af86ce86e8d06bffa93fb693c715a2195b1c249965789a"
+hash = "17740630a228ddd27569a7511994ac843111e4ed406706fa2cebfa607595d7f2"
 metafile = true
 
 [[files]]
@@ -2026,7 +2026,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "8e0cee1b243060f27257ba23137f4cb2596c418fe5ddde6b3dcfde6d161b117e"
+hash = "90dfd5c20eb95259a0083c0216705d387097893846d763eff37b4864000dfcdb"
 metafile = true
 
 [[files]]
@@ -2451,7 +2451,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "eded1292388e171d4708858184c4cacc0fd3821912948174df2cbe8afeb1b102"
+hash = "f985e17fb68169bfbf69a94abbba5d8fe040fb396d38ee418e91165a1a30d778"
 metafile = true
 
 [[files]]
@@ -4217,26 +4217,6 @@ hash = "7b3e851b34e842c2ece4a6efe0e3e75c9d498f1d35a5e0fe81bff6a16ec377ff"
 [[files]]
 file = "world/datapacks/Legacies/data/pearfection/separated_leaves/callery.json"
 hash = "68b8163853e0bd966210812a665a7cba816442f2d81cd544e0ef18fbe1ee5918"
-
-[[files]]
-file = "world/datapacks/Legacies/data/profundis/worldgen/structure/amethyst_dungeon.json"
-hash = "fd630f57285d7a1cda8e69fbe2f9bd9dd347cb508817f79e769ec221d74e28f8"
-
-[[files]]
-file = "world/datapacks/Legacies/data/profundis/worldgen/structure_set/amethyst_dungeon.json"
-hash = "738960db6ae47ec33a8c5c904ae3a7d0465899f3e5deb9fd47beea2037e245ac"
-
-[[files]]
-file = "world/datapacks/Legacies/data/profundis/worldgen/structure_set/cabin.json"
-hash = "3d12c9cd46f36a97e6f33dc5ae46dfe3377f6ef3906c27239b66c83bce2fe3d1"
-
-[[files]]
-file = "world/datapacks/Legacies/data/profundis/worldgen/structure_set/ice_dungeon.json"
-hash = "610aae340741cad42e14788af143e34a5781dc099f5ca540d22948ddb5c07e4e"
-
-[[files]]
-file = "world/datapacks/Legacies/data/profundis/worldgen/structure_set/mushroom_house.json"
-hash = "a9455db49f5f66e80eb89ca358180d1058ab059e13a8c87ac80639647018d78f"
 
 [[files]]
 file = "world/datapacks/Legacies/data/recovery_plus/recipes/smart_recovery_compass.json"
