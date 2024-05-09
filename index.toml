@@ -1926,11 +1926,6 @@ hash = "4079caa9efeb3bf0671ea43709a432988de5e943cc09453f69ba157ae2784a43"
 metafile = true
 
 [[files]]
-file = "mods/guiscale.pw.toml"
-hash = "e4d4c226548fdbecc199a432e9434e2aad565d800df777fcf8acfac4cf7544e8"
-metafile = true
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "4d126f78c43ca759abfae9b23bfa1cc24a05aaea89923007ad7382f128417b57"
 metafile = true
