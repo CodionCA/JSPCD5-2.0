@@ -609,6 +609,10 @@ file = "config/yosbr/config/dynamic_fps.json"
 hash = "fc976b7a74855e2e4a1c4659538b1d5b26a62a9d4133784a4ef3774f36f72608"
 
 [[files]]
+file = "config/yosbr/config/emi.css"
+hash = "6fdbea4543cf6b4cb6f930414e9dbb961192ed0b4745d435054375b5c3ad84eb"
+
+[[files]]
 file = "config/yosbr/config/enchancement.json"
 hash = "f4a7f32ac8ccc4bb08413b132c453f9afd55d1349969edaa61f5e53483126b46"
 
@@ -1919,6 +1923,11 @@ metafile = true
 [[files]]
 file = "mods/guarding.pw.toml"
 hash = "4079caa9efeb3bf0671ea43709a432988de5e943cc09453f69ba157ae2784a43"
+metafile = true
+
+[[files]]
+file = "mods/guiscale.pw.toml"
+hash = "e4d4c226548fdbecc199a432e9434e2aad565d800df777fcf8acfac4cf7544e8"
 metafile = true
 
 [[files]]
