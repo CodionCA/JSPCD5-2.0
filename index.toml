@@ -1236,7 +1236,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-frost-walker.pw.toml"
-hash = "6c277b7695be026ad35158cf3dcb5de0c1824173765f674a560415e18426df4c"
+hash = "976577d87d87b7a00f3d2f2b25dfa4b632424dedd7af28811fc3fe3c30632652"
 metafile = true
 
 [[files]]
@@ -1717,7 +1717,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhancedvisuals.pw.toml"
-hash = "7ad62a2209024addb96d707deb7ed08d843e133a6b0636611a651e8c515ea508"
+hash = "ecf0a657ecf15eee1532857f574ce424b590da0622fe5d3d6d18ecdc2a7d1882"
 metafile = true
 
 [[files]]
@@ -1742,7 +1742,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "e6b80bd5a63b96416ca76fdfe3d08223dc3cb9718dbe0a04c5559f0b7fad9ec3"
+hash = "0e1bcec4edde700e8c4bf9b5db47b379262dd27102faa932041c7d4b45790a73"
 metafile = true
 
 [[files]]
@@ -2893,7 +2893,7 @@ metafile = true
 
 [[files]]
 file = "mods/tool-trims.pw.toml"
-hash = "297fc8e0b3ebf787ccc881d00242dccb1b3930ba37268a5f51a02f14428bfedd"
+hash = "eb31910b2f5638c7c9a12f78c67793d3cad1584d3605a70e8748ada041f8b25f"
 metafile = true
 
 [[files]]
@@ -3058,7 +3058,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api-fabric.pw.toml"
-hash = "39a31a5c6bbb5fb31d4ee996b5540b5c4e4ffef7ffd87df76ff036a1263b2046"
+hash = "69ffae60381e09911815fb8f46af8300ddf3a06c00a312acd5b2494b47376274"
 metafile = true
 
 [[files]]
