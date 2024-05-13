@@ -2777,6 +2777,11 @@ hash = "1e69046a631a01d806a1357cc4528440f0540fde69263a37609d511cb2a82d48"
 metafile = true
 
 [[files]]
+file = "mods/squaremap.pw.toml"
+hash = "3be54a68c79bcb17c02f547acc356ba15df75568fe8391e4d082630493eca7d5"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "c9707be9953f87c752fc750bc7f54d6d1c10d74e53b7a86fb55357c977c4fd1b"
 metafile = true
