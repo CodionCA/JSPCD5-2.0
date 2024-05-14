@@ -1361,7 +1361,7 @@ metafile = true
 
 [[files]]
 file = "mods/cat_jam.pw.toml"
-hash = "487ddf6fff64ecacf2a546509568e2269d459b827f17fce1849cd64eeb974986"
+hash = "eff0fe9c9805104436555ca1b57d0f0de2a2bceba94612b29a27f04368c1610b"
 metafile = true
 
 [[files]]
@@ -1607,7 +1607,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-api.pw.toml"
-hash = "2143fb9cc24ff9891ab59eb5abb444433b0e5f14d26c744910bf83c71bce7a88"
+hash = "57bdebf7fb5de047c0fe304d2646c854d629007734c589253aaa97973982f522"
 metafile = true
 
 [[files]]
@@ -1797,7 +1797,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrication.pw.toml"
-hash = "04d9bc64955fd94886a898881db68a2018551090725a01b2706c0df282e24e7a"
+hash = "c4d412b67ffcd4d83b2a809df1dfadd49df1e852fa6d4707be61c387e3ff26bc"
 metafile = true
 
 [[files]]
@@ -1812,7 +1812,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "d27205edff633fd6c848bb0a3754f128f5402b01d4e8c9d7e483cb6dc3e6862b"
+hash = "8be6726272f4e5e9d9097ff12b01dc42915bc2dc903e6dc7c7b8bef1a49f6b72"
 metafile = true
 
 [[files]]
@@ -2030,7 +2030,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "90dfd5c20eb95259a0083c0216705d387097893846d763eff37b4864000dfcdb"
+hash = "31c9dca2e1c97e88975f5f361c69860bc517e42a71e3d7119dc593f31492bccb"
 metafile = true
 
 [[files]]
@@ -2280,7 +2280,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "faefe3ad13a2d7315292919de7baca1abaac6f74be7cf3dc57a0deea31878cf5"
+hash = "e8596edef622eadd57065ad05b9bbff1e486660314acd5e00411565ec0ac9975"
 metafile = true
 
 [[files]]
@@ -2574,7 +2574,7 @@ metafile = true
 
 [[files]]
 file = "mods/sawmill.pw.toml"
-hash = "28aaa0329282ce273d3d047b38308a83704e8cc1f1213d2b402bf59a5e1c97da"
+hash = "82e753d90714aa527277b9b0c25352be1ef12e93d6bae5ce4a7f8944e7b49fdd"
 metafile = true
 
 [[files]]
@@ -2664,7 +2664,7 @@ metafile = true
 
 [[files]]
 file = "mods/simply-skills.pw.toml"
-hash = "0e9b75b761a1140bc622bf033e1f7781d7c318976802d8f3a9805a64cb4814e3"
+hash = "e8ce4ffccc4b2e10bffeed2b5c06b99e4ab51778d553f511f886db5d2ec97489"
 metafile = true
 
 [[files]]
@@ -2828,7 +2828,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "5113afb95c37a18d4fec0e7521707354cb09f68b16952588855dfdd26ca5290e"
+hash = "36a46701d9aa137c61c0008f0c8a7e32e501a56d220688688a3bdad93579fd45"
 metafile = true
 
 [[files]]
