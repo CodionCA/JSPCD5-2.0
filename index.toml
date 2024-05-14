@@ -1170,6 +1170,11 @@ hash = "9f8df5cd59d9d9bcccbeff4acd3950c380ec20ca535cadb7e050fa1e33462ce7"
 metafile = true
 
 [[files]]
+file = "mods/attributes.pw.toml"
+hash = "9c5f70d04a021e1b368cb4af3d4091854501e79b47f1d2c6ac50433d33b6bc0e"
+metafile = true
+
+[[files]]
 file = "mods/audaki-cart-engine.pw.toml"
 hash = "2df503469b2389647db0e1652d3ccadf6a0c90027dcefbe0b94b457ec0bf421d"
 metafile = true
