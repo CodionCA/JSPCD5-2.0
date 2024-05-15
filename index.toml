@@ -1101,7 +1101,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "bbbed2a0913641dadbf14be2cafe6b0361a2606aaf0c057894bd914719890516"
+hash = "a2c1100b45757817f8eb001e21a5d2bcb429a47f939f5fccaa9246e0002e9829"
 metafile = true
 
 [[files]]
@@ -1380,7 +1380,7 @@ hash = "6dc3de70c97d45fa998d897d16c6a7d7381f4f38d22400fb82cf2a3ac768b40f"
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "171692280ad89e0cd4009850166916854932987653055fed7137e23d792cbf45"
+hash = "676dfa6e3100f9f48de36afba6724f0a1efd1e9f00d62a6c80714265f276fccb"
 metafile = true
 
 [[files]]
@@ -1509,7 +1509,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "6610183bac6141587d918b5579d989b7c0cba771352b5492fa325d9ad5b0f2fb"
+hash = "32c698d3b9eb9803262fda032c4281c83156b15ce78d45e8064c94045e1be4bc"
 metafile = true
 
 [[files]]
@@ -1717,7 +1717,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhancedbookwriting.pw.toml"
-hash = "a5b0b1d0a2561a96a87b9f8f2daae4140f1f533d4d7df83fde0334113d9082ac"
+hash = "094067e3af1dc888a59eaf1304dd5159106ce0cb981c0d71a1fcd99bcbcf4e2c"
 metafile = true
 
 [[files]]
@@ -2285,7 +2285,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "e8596edef622eadd57065ad05b9bbff1e486660314acd5e00411565ec0ac9975"
+hash = "9f86087ab83a9dbe5a76c3d45a7bd36bacac76fbcdcb9984e5b7f23bbffe9a62"
 metafile = true
 
 [[files]]
