@@ -1926,6 +1926,11 @@ hash = "f74fdf09908be4d2ee814cde3fbe6734e1e0da01450c522b1eb48a2906005335"
 metafile = true
 
 [[files]]
+file = "mods/grieflogger.pw.toml"
+hash = "acbc00e8b1343eef51b08cd38ad1eb3ac6b8de463a28aa5bb991bfedcc8d1754"
+metafile = true
+
+[[files]]
 file = "mods/guarding.pw.toml"
 hash = "4079caa9efeb3bf0671ea43709a432988de5e943cc09453f69ba157ae2784a43"
 metafile = true
@@ -2823,7 +2828,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "d8fea7b65f0e5ce3e77bdc748bb114439859956ab74b7b0a10ec5286b5da4889"
+hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
 metafile = true
 
 [[files]]
