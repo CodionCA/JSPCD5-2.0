@@ -1280,6 +1280,11 @@ hash = "c938d7304e448940072bc922cf6616dc6386289d1421e563dfd2a4ce5f5afa17"
 metafile = true
 
 [[files]]
+file = "mods/bettercommandblockui.pw.toml"
+hash = "bc48b96b648cbdeb36a05fd43532b5098d0d31f0e9bbe605ba0287c4d5b53cef"
+metafile = true
+
+[[files]]
 file = "mods/betterend.pw.toml"
 hash = "4b8ffbe47270effb2da83ff2fba6e5dea0158a515033b61a484a21aae6146a76"
 metafile = true
