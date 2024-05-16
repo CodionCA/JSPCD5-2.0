@@ -1009,7 +1009,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "a2c1100b45757817f8eb001e21a5d2bcb429a47f939f5fccaa9246e0002e9829"
+hash = "05f0417ecbd815e3808f72cb65759a4ca175cd957212c434285dfde67bd05f0f"
 metafile = true
 
 [[files]]
@@ -1113,6 +1113,11 @@ hash = "2f44ef7d4597f72f70877fe9b555ecdfe2bf882f96f712d9bbcd1dab8d951544"
 metafile = true
 
 [[files]]
+file = "mods/badstdout.pw.toml"
+hash = "81e013fb9ee8897ddf7c7f01de84781028507a6ff6888e6297cc0be5b52498c8"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
 metafile = true
@@ -1210,16 +1215,6 @@ metafile = true
 [[files]]
 file = "mods/blossom.pw.toml"
 hash = "c15dcfc12abdc498ac4426b2e55d5f95bc371313825d34a377b1c50e0e125d6b"
-metafile = true
-
-[[files]]
-file = "mods/blossomlib.pw.toml"
-hash = "1f8282011aff9b7dd11cf2568f85ee72635b7927d79b423aa38494d0733eac67"
-metafile = true
-
-[[files]]
-file = "mods/blossompvp.pw.toml"
-hash = "25223ac99a7a7005430af7004c65122a9d3b663115d7dfe53c588251d9bba938"
 metafile = true
 
 [[files]]
@@ -1383,7 +1378,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "fceb50162333b2cf2f251af72cc12f1a7657df07f979338dcd6e46b10b993466"
+hash = "5e004570df8b7f1b0e4e57e199fcc30c2d3d7e77c802cdead2c4bc3d165f6d89"
 metafile = true
 
 [[files]]
@@ -1904,7 +1899,7 @@ hash = "995ae1021d370d3b5abd6b805db488f93d6678874ecaa0816d41f15329dffe30"
 
 [[files]]
 file = "mods/inertiaanticheat.pw.toml"
-hash = "468fb6af80a593ac8f15eaac3e0cb5c6638ee46bb99e02390b71528a8a523a39"
+hash = "dfd0ccee152dcb5fcb2343452af5b761520b67d892e27c73b9a362e1d53dd477"
 metafile = true
 
 [[files]]
@@ -1930,6 +1925,11 @@ metafile = true
 [[files]]
 file = "mods/invmove.pw.toml"
 hash = "881ad6ef91c24ce547c8062685cf361b1937b4162c8a238196c8106ef62ab15d"
+metafile = true
+
+[[files]]
+file = "mods/invview.pw.toml"
+hash = "12002f9fb5e4e0e5639efd9dfb3e41765d606957b1f8f1be6f4a989bb176d812"
 metafile = true
 
 [[files]]
@@ -2038,7 +2038,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "80fee887ee097e11032d6de2ac705010fba0f25e8d45704124e0d0582b9a8ba0"
+hash = "7826b93c7f36611fbd9190481774daa349fa403875f8522d0ca4302e1345bd40"
 metafile = true
 
 [[files]]
@@ -2123,7 +2123,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1870620ac0fb128b9a6f2cb8c6f887cb2a5f42bdf4aed1851f2f4f3d542fffc3"
+hash = "4d63faf5530921a4c2dddc0f9ef3f8fdeb30282b841d00e9966366b77d3d590b"
 metafile = true
 
 [[files]]
@@ -2343,7 +2343,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "abb8dc3fd99999e688f9193863213ac6c6592f8b7f623944d792a529de9f0c7d"
+hash = "4436b25feb03d8d2454071c6b912a197c696934fc84dd92ddf0ae93642cc282c"
 metafile = true
 
 [[files]]
@@ -2527,7 +2527,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "1f0bec3ad99e321884a4e7af58399a99982f00c3eb647b80d371525eede4b725"
+hash = "1c7a35895037377f9426d93fb68642e4308bd6f3e58f453011278c7a9ee1085e"
 metafile = true
 
 [[files]]
