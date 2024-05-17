@@ -2,6 +2,7 @@
   "schema_version": 2,
   "failed_reloads_per_session": 5,
   "default_packs": [
+    "fabric",
     "file/fat-cat-1-20.zip",
     "file/Stylized Overlay`s.zip",
     "continuity:default",
@@ -28,7 +29,6 @@
     "file/JadeStardewValleyTheme.zip",
     "file/Sparkles_1.20.4_v1.0.5.zip",
     "file/Serified Font v1.1.zip",
-    "fabric",
     "file/JSPCD5.zip"
   ],
   "default_overrides": {
@@ -86,8 +86,7 @@
     },
     "$$1": {
       "hidden": true,
-      "required": true,
-      "fixed_position": true
+      "required": true
     },
     "$$2": {
       "hidden": false,
@@ -96,14 +95,13 @@
     },
     "$$3": {
       "hidden": true,
-      "required": false,
-      "default_position": "BOTTOM",
-      "fixed_position": true
+      "required": false
     },
     "$$4": {
       "hidden": false,
       "required": true,
-      "fixed_position": true
+      "fixed_position": true,
+      "default_position": "TOP"
     }
   }
 }
