@@ -9,6 +9,10 @@ file = "config/InertiaAntiCheat.toml"
 hash = "a19046fc18868a63b85348b2b7347c3bd820a2fc245a99ace4fd3e6dbd4d1d50"
 
 [[files]]
+file = "config/InertiaAntiCheat/InertiaAntiCheat.toml"
+hash = "eb3ffe474095d29f2d53a1db95134abaa7c3bbba880c0200a93ff95ff37b34d8"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
 
