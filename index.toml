@@ -1046,7 +1046,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "e853b0a08068b6cdaa7f84702b71b336c0fdedc3ea84642ea095d05b3796a05d"
+hash = "f661a4d76e840d004fbec4b1be367c2210210587d11d575fda8f51c2903d01a9"
 metafile = true
 
 [[files]]
@@ -1061,7 +1061,7 @@ metafile = true
 
 [[files]]
 file = "mods/archaeology-banners.pw.toml"
-hash = "74d75ac01e6361268ffb7e666c4bc9d14e14f75068608b6f5aa446259f9118f7"
+hash = "82859f868fd136773c7c6e131957cae825b743971f61250f9719ce3e4e02c138"
 metafile = true
 
 [[files]]
@@ -1526,11 +1526,6 @@ hash = "17740630a228ddd27569a7511994ac843111e4ed406706fa2cebfa607595d7f2"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "9abccf5582b7aecffec4a6220d038a1c9d8f4e790054eed57c99e7880408b72c"
-metafile = true
-
-[[files]]
 file = "mods/do-api.pw.toml"
 hash = "57bdebf7fb5de047c0fe304d2646c854d629007734c589253aaa97973982f522"
 metafile = true
@@ -1642,7 +1637,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhancedvisuals.pw.toml"
-hash = "ecf0a657ecf15eee1532857f574ce424b590da0622fe5d3d6d18ecdc2a7d1882"
+hash = "e5fb5aa2feb67ed63a22dd0ea88fd36f691c24792160ce5b22c578c852792f83"
 metafile = true
 
 [[files]]
@@ -2044,11 +2039,6 @@ hash = "2245f34c6d75a8abbce9a07f902d656b34387bcf1c4b60f56ec094ac8a470e19"
 metafile = true
 
 [[files]]
-file = "mods/lootr-fabric.pw.toml"
-hash = "2beeb497828d72467d5d29dfc9567e06c63c6f1ddf54cb42b7d6a3babd603e0f"
-metafile = true
-
-[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "7826b93c7f36611fbd9190481774daa349fa403875f8522d0ca4302e1345bd40"
 metafile = true
@@ -2135,7 +2125,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "68fa2c90c80e9ae9fbd98b2e62b43422883f0937165324bf11965c400047ca86"
+hash = "c281b43eba00127af96869f5e827ac30c806e99fb86130a3c65f383cc5eb45f7"
 metafile = true
 
 [[files]]
@@ -2509,7 +2499,7 @@ metafile = true
 
 [[files]]
 file = "mods/sawmill.pw.toml"
-hash = "82e753d90714aa527277b9b0c25352be1ef12e93d6bae5ce4a7f8944e7b49fdd"
+hash = "c7a57d9842afdc63ca5852279b580b6854fd9554d8b5cdf54587e09ea0630176"
 metafile = true
 
 [[files]]
@@ -2539,7 +2529,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "ba80062b95f5763d97bc355f0776b9c189911d7224b830485b02dc5f8cdcdeb4"
+hash = "f8978ac8622d8c54f0509ee9ea34b58dda96b92fb2e5b26420c3ba8095d07988"
 metafile = true
 
 [[files]]
@@ -2767,11 +2757,6 @@ hash = "36a46701d9aa137c61c0008f0c8a7e32e501a56d220688688a3bdad93579fd45"
 metafile = true
 
 [[files]]
-file = "mods/surveyor.pw.toml"
-hash = "fa0c7b4e2f64b9bc3e13bcec498a08ca28ff7d30ec8ab8ee2a92497e023cd276"
-metafile = true
-
-[[files]]
 file = "mods/swingthrough.pw.toml"
 hash = "164bd9070d86ca231da118c32790f2144195a29a9ed1c556fcbf9714a1e633f7"
 metafile = true
@@ -2824,6 +2809,11 @@ metafile = true
 [[files]]
 file = "mods/tieredz.pw.toml"
 hash = "50b0983cb9db38b50c0e470731587a7c394898d62cc20cdbf309992acc09ca62"
+metafile = true
+
+[[files]]
+file = "mods/toggle-scoreboard.pw.toml"
+hash = "e0c253cc26ebbd157573fce77b7e10f4d6e9dc9244c1a00d62f27fefc9639a16"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "EnhancedVisuals"
-filename = "EnhancedVisuals_FABRIC_v1.7.2_mc1.20.1.jar"
+filename = "EnhancedVisuals_FABRIC_v1.8.0_mc1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "765fe31a22366200d4eab36b9b52bddcec2db056"
+hash = "96b39d24df213cf15e92bca8c0f1731215ae7dec"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5335651
+file-id = 5368772
 project-id = 255389
