@@ -4249,6 +4249,58 @@ file = "world/datapacks/New-Ruined-Portals.zip"
 hash = "0fa71cb631d9f3a5f03f7e74d1f5a49424d193ca9fe034f5ac647eae27b26525"
 
 [[files]]
+file = "world/datapacks/PurgeCodion/data/codion/functions/load.mcfunction"
+hash = "305005e5c05e1f7cd44ed7a382d437377c6a4b94cd42a553c555c61bc0a63471"
+
+[[files]]
+file = "world/datapacks/PurgeCodion/data/codion/functions/load/15s.mcfunction"
+hash = "e80c5cd5e8591a906013b95bc14046294bd2495c3090f8eaa236f4f9b8e8645b"
+
+[[files]]
+file = "world/datapacks/PurgeCodion/data/codion/functions/loops/10s.mcfunction"
+hash = "eadb4fc6d6063594c3de73843f1a825c3c4ed2662ed8b20332b4868866b2c7f6"
+
+[[files]]
+file = "world/datapacks/PurgeCodion/data/codion/functions/playerkill.mcfunction"
+hash = "1b8654070598a7d61ea8c0b6ce7a84be690b857322b872e79de3b46ffca5e7c4"
+
+[[files]]
+file = "world/datapacks/PurgeCodion/data/codion/functions/pvp.mcfunction"
+hash = "b8f5cac81cefa07868ed9209f13856eab50e39ae874081fcc866908e22aff970"
+
+[[files]]
+file = "world/datapacks/PurgeCodion/data/codion/functions/reload.mcfunction"
+hash = "86160d95a4bbe870b0e6f80a8762b2ee3e1cbb8be2efae69a005054b824de649"
+
+[[files]]
+file = "world/datapacks/PurgeCodion/data/codion/functions/selection.mcfunction"
+hash = "1857ab0ce2f85c995f50f49134d94e9a534529a5028399c54d5fc1ecba8ae01a"
+
+[[files]]
+file = "world/datapacks/PurgeCodion/data/codion/functions/supplydrop.mcfunction"
+hash = "2dfed678680936a31066ee0768cfa93144298cec6deb54d39d4e0367cbd20d28"
+
+[[files]]
+file = "world/datapacks/PurgeCodion/data/codion/functions/tick.mcfunction"
+hash = "120c1e7d94a3f7db32d974584446c3dfd56004c1d3bcc23c1793140184c30e8f"
+
+[[files]]
+file = "world/datapacks/PurgeCodion/data/codion/loot_tables/chests/purge_loot.json"
+hash = "c0502e58b7e6f4cc3477c50f1bd3839644b803affeeeeee92bdb3f1496a09510"
+
+[[files]]
+file = "world/datapacks/PurgeCodion/data/minecraft/tags/functions/load.json"
+hash = "d65e05d84bfbdbbd0909b3229d6fc41b3ff66cbb31dec37d00510ec1650e4eca"
+
+[[files]]
+file = "world/datapacks/PurgeCodion/data/minecraft/tags/functions/tick.json"
+hash = "4082a0ba9db051beefb56f1546e5d3e334b4d84249d041b2704e17ed0e9b6df9"
+
+[[files]]
+file = "world/datapacks/PurgeCodion/pack.mcmeta"
+hash = "1309c75ab896ed5fb45dc00f38e3877cb2ae64ea460a5753a4c9600db2cf23f4"
+
+[[files]]
 file = "world/datapacks/ctov-wizards-add-on-v2-1.zip"
 hash = "c263293cbc757d7445d21bfa3879a17050839a0178a8e32a4874629652e87984"
 
