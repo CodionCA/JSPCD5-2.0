@@ -1512,11 +1512,6 @@ hash = "17740630a228ddd27569a7511994ac843111e4ed406706fa2cebfa607595d7f2"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "9abccf5582b7aecffec4a6220d038a1c9d8f4e790054eed57c99e7880408b72c"
-metafile = true
-
-[[files]]
 file = "mods/do-api.pw.toml"
 hash = "57bdebf7fb5de047c0fe304d2646c854d629007734c589253aaa97973982f522"
 metafile = true
