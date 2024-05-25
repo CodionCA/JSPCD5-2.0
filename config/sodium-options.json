@@ -8,5 +8,9 @@
   },
   "performance": {
     "use_entity_culling": false
+  },
+  "notifications": {
+    "has_cleared_donation_button": true,
+    "has_seen_donation_prompt": true
   }
 }

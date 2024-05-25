@@ -538,7 +538,7 @@ hash = "228d16ac3ebb3efe67596f25498f97eb4a626ac108bdc0deb2ddf0bb5c32cde9"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "37f6ba93d9ac6d691fe98d43c13da9e04168f14bcdbb66531542e8477f9f6968"
+hash = "9d07efa3f8deff169186467b3dda07bef0407c78067e78057546aecfb770a15a"
 
 [[files]]
 file = "config/supplementaries-common.json"
@@ -1512,6 +1512,11 @@ hash = "17740630a228ddd27569a7511994ac843111e4ed406706fa2cebfa607595d7f2"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "9abccf5582b7aecffec4a6220d038a1c9d8f4e790054eed57c99e7880408b72c"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "57bdebf7fb5de047c0fe304d2646c854d629007734c589253aaa97973982f522"
 metafile = true
@@ -1632,6 +1637,16 @@ hash = "b35d0464e21aa372aa81256444e94c5007b4fd9da616f32355b338747635c63b"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "7be72508e6f21a77ed8d14b2c93c2b12e61f6bff92e9ae03cbb0b656618dbbfb"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "aa83ba5af7931741e58c8d5582b9aee5674446ffc5ead596983ace135e2ec298"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
@@ -1679,11 +1694,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-seasons-delight-compat.pw.toml"
 hash = "f9efc3a8b92991d29b7117b9a0d9fd7a3f7d567d0139243f35c6257f56068b75"
-metafile = true
-
-[[files]]
-file = "mods/fabric-seasons-extras.pw.toml"
-hash = "c8f7a08cb636bd1054a6a2c8e3fdc1b0513bd69576ddfdce12e6a975d3d4d373"
 metafile = true
 
 [[files]]
@@ -1932,6 +1942,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete-fabric.pw.toml"
 hash = "2895ab3b454293884e288a125bba2fbf4135475573c345ef919d56f2ad91419c"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "ef5b1cad2960cf1711194d1ff50b9da616ae3b157c081e8b56af0c8b17e9946b"
 metafile = true
 
 [[files]]
@@ -2195,6 +2210,11 @@ hash = "6b062f1f5ab1ea02a7046fd6b8667ed162c9c59b66a4f7087aac2ede382e2341"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
+metafile = true
+
+[[files]]
 file = "mods/offline-player-teleport.pw.toml"
 hash = "8d75136c2b85d8455d69bb1b7b9a141d8289e22a9047e31487c8f7a238582a8b"
 metafile = true
@@ -2350,6 +2370,11 @@ hash = "21e7b05ab7bb3eeef7a81106686868a204f918139221c5a57f07aae81e429af3"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "c7a632600334f8643c3dca388a7e6b6b30f15607d21dd7cb1bad3f59a52f0f84"
+metafile = true
+
+[[files]]
 file = "mods/reimagined-trims.pw.toml"
 hash = "416ed064c8533803905d539632c321749e6850453454200874e0b4487cd983aa"
 metafile = true
@@ -2414,6 +2439,11 @@ hash = "6f565916286c0436c8393297438db195cda9eb09625f42d6aa0a7db4c84fc928"
 metafile = true
 
 [[files]]
+file = "mods/seamless-loading-screen.pw.toml"
+hash = "02ceb41d5f2fd4b2fb8299bb3615a94cd22e621a2ce42992b5227566ec22c6ce"
+metafile = true
+
+[[files]]
 file = "mods/seamless.pw.toml"
 hash = "3cedce458cc8459141a64823815f90c1d0d0f93a5ab15f009a98c32c5e13c4e5"
 metafile = true
@@ -2421,6 +2451,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
+metafile = true
+
+[[files]]
+file = "mods/seasonhud-fabric.pw.toml"
+hash = "6c56e1685e7acb05b36c30fdde0c7fd3062d7dc031219133bebe6c62fb791ebd"
 metafile = true
 
 [[files]]
@@ -2548,6 +2583,11 @@ file = "mods/sodium-fabric-0.5.8+mc1.20.1.jar"
 hash = "cb19c646b6bc09ae75cb438c44d13a3ef3625ef0e2fb8fbc83168746df7d0291"
 
 [[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "9f2ebd7aa39865789c5f08520120c91ba8ece536ae10d555a577394f2f4c869b"
+metafile = true
+
+[[files]]
 file = "mods/soul-fired.pw.toml"
 hash = "98ba24187f9a3ee47eaf0c88cfae1e5dd2d9e84d5f6c4adc4afeea3c8402b48b"
 metafile = true
@@ -2595,6 +2635,11 @@ metafile = true
 [[files]]
 file = "mods/squaremap.pw.toml"
 hash = "3be54a68c79bcb17c02f547acc356ba15df75568fe8391e4d082630493eca7d5"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "c9707be9953f87c752fc750bc7f54d6d1c10d74e53b7a86fb55357c977c4fd1b"
 metafile = true
 
 [[files]]
