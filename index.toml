@@ -2307,6 +2307,11 @@ hash = "ff5de49c36360d59271f2ad8b76377afd9e986852f9b0f67566d870dbe4ccf8d"
 metafile = true
 
 [[files]]
+file = "mods/puzzle.pw.toml"
+hash = "6f1c556771ecbda60b1b2f84e428428937e259aa572e8459b13366c7be824664"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "f985e17fb68169bfbf69a94abbba5d8fe040fb396d38ee418e91165a1a30d778"
 metafile = true
