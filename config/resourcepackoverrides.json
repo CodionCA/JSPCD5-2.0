@@ -86,7 +86,8 @@
     },
     "$$1": {
       "hidden": true,
-      "required": true
+      "required": true,
+      "default_position": "BOTTOM"
     },
     "$$2": {
       "hidden": false,
