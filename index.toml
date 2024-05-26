@@ -910,7 +910,7 @@ hash = "7368afd776dd2025650a0a1bc74df9b5ba754fb3d85764afaecb49982aacaff1"
 
 [[files]]
 file = "config/yosbr/config/seamless_loading_screen.json"
-hash = "913b3f37d7e6656a331bc9d09d7a411e5cdb2d31cc5e65d88c47d9acbd5830a5"
+hash = "047946bde3da201f9c34b6cc7a6c64affdd76c689a4d918fa00251d9ba36578a"
 
 [[files]]
 file = "config/yosbr/config/simple-rpc/server-entries.toml"
