@@ -1,5 +1,6 @@
 name = "squaremap"
 filename = "squaremap-fabric-mc1.20.1-1.2.0.jar"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/PFb7ZqK6/versions/AS12cZm5/squaremap-fabric-mc1.20.1-1.2.0.jar"

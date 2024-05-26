@@ -1,6 +1,6 @@
 name = "Chunky Border (Fabric)"
 filename = "ChunkyBorder-1.1.53.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

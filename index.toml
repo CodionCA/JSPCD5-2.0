@@ -10,7 +10,7 @@ hash = "a19046fc18868a63b85348b2b7347c3bd820a2fc245a99ace4fd3e6dbd4d1d50"
 
 [[files]]
 file = "config/InertiaAntiCheat/InertiaAntiCheat.toml"
-hash = "eb3ffe474095d29f2d53a1db95134abaa7c3bbba880c0200a93ff95ff37b34d8"
+hash = "6ffa5ffffb0d9fcfd2b825746301c586fcb26432462293cad2b2d391a906ff57"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
@@ -118,7 +118,7 @@ hash = "16fd63df4b9af45b341bbf498557f94a07d643ace697485d7ed45a21dc9ce1b8"
 
 [[files]]
 file = "config/debugify.json"
-hash = "b7651c21ec5a9a30267b76898932f51dc2f7a9efa5220e45450d7340ea6574a7"
+hash = "d99d0486578f39d5935620b46e3f14aef86806d8245f0edbb9690e0873f2a92e"
 
 [[files]]
 file = "config/entityculling.json"
@@ -1193,11 +1193,6 @@ hash = "9089139f1711f4e4289b0953faa3bb85afda39497538f944a28e9800bb7ac1fb"
 metafile = true
 
 [[files]]
-file = "mods/better-ping-display-fabric.pw.toml"
-hash = "3c9575df506c2514c9c5e162c55dc5d5ff4a85bc50baf0c71ccbb5fe8a5105bc"
-metafile = true
-
-[[files]]
 file = "mods/better-spawner-control.pw.toml"
 hash = "60af64bad7f4ee73f971dc8365e7c2471afc2c04a463c6b28b0238b365a0dd1d"
 metafile = true
@@ -1308,7 +1303,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky-border.pw.toml"
-hash = "478088eb9de758c7095e07f9be80eb2708552b2d2262a604a4d87f7873a0a77d"
+hash = "4dfd5707173e0b1ad17a375ae21169238cddfea802b76390c74fb6cbb52e9971"
 metafile = true
 
 [[files]]
@@ -1318,7 +1313,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky-pregenerator.pw.toml"
-hash = "8f3e01ad47042d186087576cd17e91f78576295e7ca16fb885550910cb97caa4"
+hash = "193330274fc322994aaeec470348f721e75ea3f1b27f77139ba004d3db680643"
 metafile = true
 
 [[files]]
@@ -1476,11 +1471,6 @@ metafile = true
 [[files]]
 file = "mods/deepslatecutting.pw.toml"
 hash = "21d5928a1edaecce4c578b7f1220e0c7524c6ba959de968969d79dd47eff8d04"
-metafile = true
-
-[[files]]
-file = "mods/default-server-properties.pw.toml"
-hash = "1cf9d705e2b8d3940d0cb7914285a099e765729c245feef890915d43d30153cb"
 metafile = true
 
 [[files]]
@@ -2646,7 +2636,7 @@ metafile = true
 
 [[files]]
 file = "mods/squaremap.pw.toml"
-hash = "3be54a68c79bcb17c02f547acc356ba15df75568fe8391e4d082630493eca7d5"
+hash = "42ff5423ae7811957baa61e3c4e4082d84065e2ca38e3f49a7c0af8b8c171f65"
 metafile = true
 
 [[files]]
@@ -2887,11 +2877,6 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
-metafile = true
-
-[[files]]
-file = "mods/y-is-there-autojump-forge.pw.toml"
-hash = "3d06aa1b215a77cafb9eba023ee4438e55a3c5a6ee30546871cd57dcc5f840db"
 metafile = true
 
 [[files]]
