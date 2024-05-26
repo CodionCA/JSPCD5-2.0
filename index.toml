@@ -1238,6 +1238,11 @@ hash = "12b375660f6a8506ea799e4b8adacd686ac4ddfe3e68e02ba741a52b74dea042"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "9022ec899edf2af44a13d5d715b10661f394672306e3cff5b29bdd7452c783f7"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "396d37ad75490eff495442503d6bd0bd6a26162a61ca860988f9d9ce064b4fea"
 metafile = true
@@ -1581,6 +1586,11 @@ metafile = true
 [[files]]
 file = "mods/enchantery.pw.toml"
 hash = "494bc1297b8735c2a3f305661b5ea96fab255bc7b807cc8ddb336f0cc8644a4d"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "97b263054f11e9f66213aefa9bd2a60fb441a02227184e6a6e63de263fd2ff11"
 metafile = true
 
 [[files]]
