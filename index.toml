@@ -10,7 +10,7 @@ hash = "a19046fc18868a63b85348b2b7347c3bd820a2fc245a99ace4fd3e6dbd4d1d50"
 
 [[files]]
 file = "config/InertiaAntiCheat/InertiaAntiCheat.toml"
-hash = "6ffa5ffffb0d9fcfd2b825746301c586fcb26432462293cad2b2d391a906ff57"
+hash = "6ab9795559173b49d85e04814cee68ac469f9b3b78cc0ef5464c384a21601839"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
@@ -502,7 +502,7 @@ hash = "c462fb3d0a067ea7da100f6afd1e1d2b61cfcdc4bfd5aa998f13c6240e07ff6e"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "26454efb2f390e9af607f8c253cd0d69f750a503e359c3c479c24bf619b205d4"
+hash = "ed127954f4ec5c536dc71ecdf6ea04161dcc461a88f0894d032bb4dfb471f717"
 
 [[files]]
 file = "config/rpgdifficulty.json"
@@ -1992,6 +1992,11 @@ hash = "18c5ea7c56454fab1b7c959d50b366e05ddcedfa90cb8dc2faf45ad3a5db11a0"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "87a313a3e048b2dffb8d501e4cb4afd275f263d8b0fbcdeb6f55d7d0efbdef8f"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "2245f34c6d75a8abbce9a07f902d656b34387bcf1c4b60f56ec094ac8a470e19"
 metafile = true
@@ -2014,6 +2019,11 @@ metafile = true
 [[files]]
 file = "mods/majruszs-progressive-difficulty.pw.toml"
 hash = "fbd10bbd07b460343c8ffedd898a9fe6c1acb62508957f69ed56361d17126696"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "520067d48b7575264595d4954582401e879710e301a1afaba2ee463115329170"
 metafile = true
 
 [[files]]
@@ -2989,6 +2999,10 @@ hash = "14247b09cc5da71244dbf18073d89ce1c2077d7a00d6fa93697019a2a7b53ecf"
 [[files]]
 file = "resourcepacks/Stylized Overlay`s.zip"
 hash = "f7fe58d475c776a40e73b6f3b9ca5e815146a7b52fb23d1eee2d9f176616fc80"
+
+[[files]]
+file = "resourcepacks/Unique Dark 1.20.1.zip"
+hash = "52c24022f2ba62d5d7f32affa13bbbdad837d6dfc2b42f5dd20a2ad1b26b2118"
 
 [[files]]
 file = "resourcepacks/[1.4] Enhanced Boss Bars.zip"

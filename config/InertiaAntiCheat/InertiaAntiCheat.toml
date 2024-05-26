@@ -3,9 +3,9 @@
 # If the delay is too long, clients may hang around for too long.
 # The player's movement, actions and chat messages are frozen at this time.
 [grace]
-graceTime = 8000
+graceTime = 7000
 # The reason for kicking a player due to them not responding to the server's request.
-disconnectMessage = "You were kicked for not sending a response to the anticheat!\nTry rejoining or contact Codion."
+disconnectMessage = "You were kicked for not sending a response to the anticheat!\n Try joining again. If you keep getting kicked message Codion"
 # Title text to show when the player is frozen. (when the server is waiting for a response from the player)
 # Make this empty to disable showing titles.
 titleText = "Please wait..."
@@ -48,7 +48,7 @@ hash = []
 # Accepted values: "MD5", "SHA-1", "SHA-256"
 algorithm = "MD5"
 # The reason for kicking a player due to their modlist hash not matching up.
-hashMessage = "You were kicked for not matching the server's modlist!\nDid you install their modpack correctly?"
+hashMessage = "You were kicked for not matching the server's modlist!\nDid you modify the modpack? Message Codion if you keep getting this error."
 
 # Allow certain mods to be used by players, in addition to your modpack.
 # This allows players to make use of optional client mods if you allow it.

@@ -14,6 +14,10 @@ scoreboard objectives add XCD dummy
 scoreboard objectives add YCD dummy
 scoreboard objectives add ZCD dummy
 
+#Place spawn structure and set spawn to it
+place template codion:purge/purge 180 78 -75 none none
+setworldspawn 183 78 -73 0
+
 function codion:loops/10s
 schedule function codion:load/15s 15s
 
