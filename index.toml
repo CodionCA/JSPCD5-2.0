@@ -502,7 +502,7 @@ hash = "c462fb3d0a067ea7da100f6afd1e1d2b61cfcdc4bfd5aa998f13c6240e07ff6e"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "1c541307167bc39cf665a842b0c329564363fc818af1abd22d029dee8b211a66"
+hash = "828f724a785554fa4bcedff4e3e80ecd49981a489c66c0508ce16e29b788dbd7"
 
 [[files]]
 file = "config/rpgdifficulty.json"

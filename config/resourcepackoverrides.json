@@ -91,6 +91,7 @@
     "$$2": {
       "hidden": false,
       "required": false,
+      "force_compatible": true,
       "default_position": "TOP"
     },
     "$$3": {
