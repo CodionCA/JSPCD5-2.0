@@ -1136,6 +1136,11 @@ hash = "655593774fc1cf3fdcf6a38ce9fd0d883444a1bb5f78e2dd964a62b98c818abb"
 metafile = true
 
 [[files]]
+file = "mods/badstdout.pw.toml"
+hash = "81e013fb9ee8897ddf7c7f01de84781028507a6ff6888e6297cc0be5b52498c8"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
 metafile = true
@@ -1233,6 +1238,11 @@ metafile = true
 [[files]]
 file = "mods/blossom.pw.toml"
 hash = "c15dcfc12abdc498ac4426b2e55d5f95bc371313825d34a377b1c50e0e125d6b"
+metafile = true
+
+[[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "6f894b7900db4cc7add8d8e0c2ccf5ba913bbb352ca1ce88e9dc51bd274e438c"
 metafile = true
 
 [[files]]
@@ -1722,8 +1732,23 @@ hash = "e64cad200dfc6145b9822c7d7c7a89dd040e28bd8e79d4f827c02c9c348b08df"
 metafile = true
 
 [[files]]
+file = "mods/fastanim.pw.toml"
+hash = "a572cf3fe79af016c34abcbb7c286c28a840f98f1ab52b91167cde7cd3ae925a"
+metafile = true
+
+[[files]]
+file = "mods/faster-random.pw.toml"
+hash = "9afa18269996bcaa57899af3175ad0bef142363c3c863b1ed7206089677fcd3d"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
+metafile = true
+
+[[files]]
+file = "mods/fog-looks-good-now-fabric.pw.toml"
+hash = "09480870df69dde81e3494524220990d730bdc5cafd239f958e16824eb2a6c6c"
 metafile = true
 
 [[files]]
@@ -2192,6 +2217,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "c737bdfd6940736f88cd39065a0193ba70637a560fbce4389e59f67d72813209"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "95512ed1baa3ede3af0b614006ea4416804f60ecc2bb7fb07cd379c96946c485"
 metafile = true
 
 [[files]]
@@ -2730,6 +2760,11 @@ metafile = true
 [[files]]
 file = "mods/tieredz.pw.toml"
 hash = "50b0983cb9db38b50c0e470731587a7c394898d62cc20cdbf309992acc09ca62"
+metafile = true
+
+[[files]]
+file = "mods/toggle-scoreboard.pw.toml"
+hash = "e0c253cc26ebbd157573fce77b7e10f4d6e9dc9244c1a00d62f27fefc9639a16"
 metafile = true
 
 [[files]]
