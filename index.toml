@@ -1919,7 +1919,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-obliterator.pw.toml"
-hash = "80e4f4b2e96c0d0ee5250c938ea39f061ee628f4c97fb54df7954fab2943a777"
+hash = "e97140c4d24653e902609c256a6b9623ef33347196d67b1c3fce3ad25423701c"
 metafile = true
 
 [[files]]
@@ -2154,7 +2154,7 @@ metafile = true
 
 [[files]]
 file = "mods/necronomicon.pw.toml"
-hash = "82353cd9b74b15dc32229b2ad2cac620a35972422ebc15db60e2268c42c05f0e"
+hash = "22db17c47353117341ab4f7efafd0a868b145148ed401e2eebf718793155c867"
 metafile = true
 
 [[files]]
