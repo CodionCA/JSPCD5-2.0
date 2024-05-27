@@ -1918,11 +1918,6 @@ hash = "2a29ace445cacafef4e767a196214e9d83c30cb4a7b8a09366ada21791bdbe7f"
 metafile = true
 
 [[files]]
-file = "mods/item-obliterator.pw.toml"
-hash = "e97140c4d24653e902609c256a6b9623ef33347196d67b1c3fce3ad25423701c"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "31c9dca2e1c97e88975f5f361c69860bc517e42a71e3d7119dc593f31492bccb"
 metafile = true
