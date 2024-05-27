@@ -2856,6 +2856,11 @@ hash = "6f2c6510dba75056d8f8948a0552a287e8d199efafe8954faf4d76606d2607a4"
 metafile = true
 
 [[files]]
+file = "mods/wicked-paintings.pw.toml"
+hash = "20e77fec8c73ffa8f30362683f03a78cce4f2fd68f8523446d8ddbe9776c466c"
+metafile = true
+
+[[files]]
 file = "mods/windchimes.pw.toml"
 hash = "dc0deb69a6be45e81aed7237440e0125458e762b2a572b5ea886ecc77e73b7b7"
 metafile = true
