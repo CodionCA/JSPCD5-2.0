@@ -24,7 +24,7 @@ client_mod_required_check_timeout_ms = 3000
 
 [voice.proximity]
 distances = [8, 16, 32]
-default_distance = 16
+default_distance = 32
 
 [voice.opus]
 # Opus application mode

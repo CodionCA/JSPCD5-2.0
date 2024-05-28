@@ -306,7 +306,7 @@ hash = "16553d9946f413fc9a2e9fc938f83122283e90ed41bd81c4a849100ad0f15b1f"
 
 [[files]]
 file = "config/plasmovoice/server/config.toml"
-hash = "35cac7316f5b903308b057f9d31f337d340891325f7b888b0ff1fc7dc152fb0c"
+hash = "ae06daebc410d57140a434bb246dc6256d9a1e2cfffb85c1ffe49ba49617d102"
 
 [[files]]
 file = "config/plasmovoice/server/languages/.crowdin/de_de.toml"
@@ -2115,11 +2115,6 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
-metafile = true
-
-[[files]]
-file = "mods/mouse-wheelie.pw.toml"
-hash = "7776c44ec1265a67bbba7cac2a3dfd9f6893ea670ee95ffb4ed94ef5bacdf8cc"
 metafile = true
 
 [[files]]
