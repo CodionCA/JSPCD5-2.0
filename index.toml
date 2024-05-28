@@ -289,6 +289,10 @@ file = "config/lithium.properties"
 hash = "9a6a542c364d7e342820e12480784a10ffba62d1cc81f3aa76ec31e66934ec56"
 
 [[files]]
+file = "config/majruszsdifficulty.json"
+hash = "1c9c2b8d5a20afe7b06fa8df68409ff1c9bcecbf115a19eb84f8aeef3d4955fc"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "c065a0cca31bccbf38761e139ba319632207ab708c90968ea6f35d09689c1fb3"
 
@@ -398,7 +402,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/preferred-gamerules.properties"
-hash = "46d19f65514b413ba6a15af8f3807ad9c38c09c06609b273a976c8c43ce5306a"
+hash = "e3901386916aab709e5f248c00d113747e69de6eca0dbf78daf49ed3261fe1f9"
 
 [[files]]
 file = "config/private.key"
@@ -2621,7 +2625,7 @@ metafile = true
 
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
-hash = "33bc2775748a111bf49218a993d17c65909d4c98aba5707fc79b545da8c10f1d"
+hash = "e536ca7466bae8e4e77c89793c115b014c1a6cd7a27ff1d6a66e9cd9ed9f1ada"
 metafile = true
 
 [[files]]
