@@ -501,6 +501,10 @@ file = "config/resourcepackoverrides.json"
 hash = "ed127954f4ec5c536dc71ecdf6ea04161dcc461a88f0894d032bb4dfb471f717"
 
 [[files]]
+file = "config/rightclickharvest.json"
+hash = "08d6c6863264deff91deda00462e31e90d6457be3e6ee0c7a1e3c1c7f3bd1d58"
+
+[[files]]
 file = "config/rpgdifficulty.json"
 hash = "2e8d78a6d88d1273118fa99b80bd1635b817b9b7641862779ed232b2ccdd71df"
 
@@ -2118,6 +2122,11 @@ hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
+metafile = true
+
+[[files]]
 file = "mods/mru.pw.toml"
 hash = "d4bc7f315717e71e116b209349ec36b147affbb8e84048d9ab691750d7890452"
 metafile = true
@@ -2208,9 +2217,8 @@ hash = "8d75136c2b85d8455d69bb1b7b9a141d8289e22a9047e31487c8f7a238582a8b"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
-metafile = true
+file = "mods/owo-lib-0.11.2+1.20.jar"
+hash = "d1ab1440c91ada5c3c95ebd6ac971c504d6cfb6f99586bb0612dd57b6ac25c6e"
 
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
@@ -2403,10 +2411,6 @@ hash = "45a0be935bcca91138996460610bd84312729d6ae00648fbb7ea332bd23bb437"
 metafile = true
 
 [[files]]
-file = "mods/rpgdifficulty-1.3.12-custom-1.20.1.jar"
-hash = "aaf89f6d79ef3e0c28a10a25995d1aadbb3b2fdeb754de589d87e354baac99df"
-
-[[files]]
 file = "mods/rune-crafting.pw.toml"
 hash = "47811f1ce283a8f1ed4bffef4d64881a497e709cf1e7b76f908fb43b73f80f8c"
 metafile = true
@@ -2529,11 +2533,6 @@ metafile = true
 [[files]]
 file = "mods/skills.pw.toml"
 hash = "c7324dbe0a07e9981872542bfaeb334925ffa482593dd86ed49f29980958dbe9"
-metafile = true
-
-[[files]]
-file = "mods/sleep-tight.pw.toml"
-hash = "9ae3a3a9849c2842d2a4c6b43fcc370b25376693415a8d487b5cf979aefb175e"
 metafile = true
 
 [[files]]
