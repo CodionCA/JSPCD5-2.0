@@ -2621,7 +2621,7 @@ metafile = true
 
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
-hash = "1e69046a631a01d806a1357cc4528440f0540fde69263a37609d511cb2a82d48"
+hash = "33bc2775748a111bf49218a993d17c65909d4c98aba5707fc79b545da8c10f1d"
 metafile = true
 
 [[files]]
