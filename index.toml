@@ -522,11 +522,11 @@ hash = "7dd2657964b5399917cd2fdbcd4f589bac2667a10d6f5b250ab3487c9003bbea"
 
 [[files]]
 file = "config/simplehats/client.toml"
-hash = "c8f14ee259fcbaaeaf283a056682bbecf6f46b9479e0dc88324049c535e2d213"
+hash = "394fbb3127d89c7df83532390a639f3b1913c7473a74eb5ae47d9e8557d3df3d"
 
 [[files]]
 file = "config/simplehats/common.toml"
-hash = "5a4e8ef7b74526f74d1c37684da751d4063ebb4255b8b88a5d75fb991679044b"
+hash = "bc52a8e46578bb454e5d817a15234aff6600a2df01d01afd7e2e841d05b221c6"
 
 [[files]]
 file = "config/sleep_tight-common.json"
