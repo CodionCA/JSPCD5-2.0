@@ -2614,11 +2614,6 @@ hash = "b7a7386ad626be0266e530546cb23142548fef993a378a2ad33ba95d299cf15d"
 metafile = true
 
 [[files]]
-file = "mods/spoiledz.pw.toml"
-hash = "76d8ec42d9aaf70418cdde3719894a3a3fc4086dcaf0115489faf7e1dad4b966"
-metafile = true
-
-[[files]]
 file = "mods/sprout.pw.toml"
 hash = "7944443544944e6cbda4db43ba2ee4f64645c9d23ab161a83d3a230ee5cc2a8e"
 metafile = true
